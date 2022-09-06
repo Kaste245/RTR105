@@ -1,8 +1,8 @@
-# RTR105
+## RTR105
 Datormācibas  
 Satura rāditājs  
 - [1.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#piemeri-ar-sarakstiem)
-- 2.Sadaļa  
+- [2.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#sakums_linux)  
 Piemers ar link  
 [Text](https://github.com/Kaste245/RTR105/edit/main/README.md)   
 
@@ -32,24 +32,23 @@ Piemērs ar sarakstu:
 - [x] viens
 - [ ] divi
 - [ ] trīs  
-Emoji :cookie:  
-[^1]: kaut kas
+Emoji :cookie: 
 
-### Sakums_linux
+## Sakums_linux
 
 Ctrl + alt + T  
 Ctrl + shift + T  
 Ctrl + alt + F1-F7  
 ~ - Sakums  
-Github  
-[text](link)  
-Bilde ![text](links)
+# Github  
+[ text ](link)  
+Bilde ![ text ](links)
 Pārvietošanas  
 pwd - kur atrodies    
 ls -alt  
 man  
 cd . - ši direktorija  
-cd .. - limeni augstāk  
+cd . . - limeni augstāk  
 cd ~ - sākums   
 mkdir - mapes izveidot  
 nano - rakstīt linux  
