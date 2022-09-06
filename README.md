@@ -3,6 +3,7 @@ Datormācibas
 Satura rāditājs  
 - [1.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#piemeri-ar-sarakstiem)
 - [2.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#sakums_linux)  
+
 Piemers ar link  
 [Text](https://github.com/Kaste245/RTR105/edit/main/README.md)   
 
@@ -27,23 +28,24 @@ Piemērs ar sarakstu:
   * 1.1.divi
     * 1.1.1.trīs  
   
-
 Piemērs ar sarakstu:  
 - [x] viens
 - [ ] divi
 - [ ] trīs  
 Emoji :cookie: 
 
-## Sakums_linux
+# Github  
+[ text ](link)  
+Bilde ![ text ](links)
+
+## Sakums_linux  
 
 Ctrl + alt + T  
 Ctrl + shift + T  
 Ctrl + alt + F1-F7  
-~ - Sakums  
-# Github  
-[ text ](link)  
-Bilde ![ text ](links)
-Pārvietošanas  
+
+# Pārvietošanas 
+~ - Sakums   
 pwd - kur atrodies    
 ls -alt  
 man  
@@ -54,4 +56,5 @@ mkdir - mapes izveidot
 nano - rakstīt linux  
 cat - read only mode  
 rm - dzēšana  
-Paņemt grāmatu "J.Ziemelis Ievads algoritmu valodā C"
+
+Paņemt grāmatu "J.Ziemelis Ievads algoritmu valodā C"  
