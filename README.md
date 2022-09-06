@@ -25,10 +25,12 @@ Piemērs ar sarakstu:
 Piemērs ar sarakstu:  
 * 1.viens  
   * 1.1.divi
-    * 1.1.1trīs    
+    * 1.1.1.trīs  
+  
+
 Piemērs ar sarakstu:  
 - [x] viens
 - [ ] divi
 - [ ] trīs  
 Emoji :cookie:  
-[^1]kaut kas[^1]
+[^1]: kaut kas
