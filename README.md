@@ -1,13 +1,17 @@
 ## RTR105
-Datormācibas  
+Datormāciba  
 Satura rāditājs  
 - [1.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#piemeri-ar-sarakstiem)
 - [2.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#sakums_linux)  
+- 3.Sadaļa
+
+  
+
+## Piemeri  
 
 Piemers ar link  
-[Text](https://github.com/Kaste245/RTR105/edit/main/README.md)   
+[Text](https://github.com/Kaste245/RTR105/edit/main/README.md)  
 
-## Piemeri ar sarakstiem
 Piemērs ar sarakstu:  
 - viens
 - divi
@@ -27,7 +31,7 @@ Piemērs ar sarakstu:
 * 1.viens  
   * 1.1.divi
     * 1.1.1.trīs  
-  
+
 Piemērs ar sarakstu:  
 - [x] viens
 - [ ] divi
