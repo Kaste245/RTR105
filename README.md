@@ -60,5 +60,3 @@ mkdir - mapes izveidot
 nano - rakstīt linux  
 cat - read only mode  
 rm - dzēšana  
-
-Paņemt grāmatu "J.Ziemelis Ievads algoritmu valodā C"  
