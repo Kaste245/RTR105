@@ -1,0 +1,13 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox 
+    4  uname
+    5  unname -
+    6  man unname
+    7  uname --all
+    8  echo $0
+    9  ps
+   10  ps -aux | grep firefox
+   11  kill 3038
+   12  history
+   13  history > history_1309.txt
