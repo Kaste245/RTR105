@@ -1,9 +1,13 @@
 ## RTR105
 Datormāciba  
-Satura rāditājs  
+Satura rāditājs
+- [Saglabāšana](https://github.com/Kaste245/RTR105/edit/main/README.md#salab%C4%81t)  
 - [1.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#piemeri-ar-sarakstiem)
 - [2.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#sakums_linux)  
-- 3.Sadaļa
+- [3.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#linux-ii)  
+- 4.Sadaļa
+- 5.Sadaļa
+- 6.Sadaļa  
 
   
 
@@ -75,6 +79,7 @@ Kill numurs - apturet procesu
 history > filename.txt  
 git clone links  
 
+# Salabāt  
 git config --global user.name.email  
 git commit -m "name"  
 git push origin main  
