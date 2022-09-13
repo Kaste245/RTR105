@@ -47,6 +47,7 @@ Bilde ![ text ](links)
 Ctrl + alt + T  
 Ctrl + shift + T  
 Ctrl + alt + F1-F7  
+Shift + ins  
 
 # Pārvietošanas 
 ~ - Sakums   
@@ -60,13 +61,26 @@ mkdir - mapes izveidot
 nano - rakstīt linux  
 cat - read only mode  
 rm - dzēšana  
+rmdir - direktorijas dzēšana  
+rm -rf name - dzesana bez jautajumiem  
+mv ~/name ./kur - parvietot  
 
 ## Linux II  
 uname - operetajsistema  
-Firefox & - var turpinat procesus  
-Echo $0 - shell  
+firefox & - var turpinat procesus  
+echo $0 - shell  
 ps -aux - kadi procrsi palaisti  
 ps -aux | grep firefox - procesi  
 Kill numurs - apturet procesu  
+history > filename.txt  
+git clone links  
+
+git config --global user.name.email  
+git commit -m "name"  
+git push origin main  
+
+
+
+
 
 
