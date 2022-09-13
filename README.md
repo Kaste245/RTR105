@@ -79,7 +79,7 @@ Kill numurs - apturet procesu
 history > filename.txt  
 git clone links  
 
-# Salabāt  
+# Saglabāt  
 git config --global user.name.email  
 git commit -m "name"  
 git push origin main  
