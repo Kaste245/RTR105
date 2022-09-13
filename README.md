@@ -52,7 +52,7 @@ Ctrl + alt + F1-F7
 ~ - Sakums   
 pwd - kur atrodies    
 ls -alt  
-man  
+man- komandas  
 cd . - ši direktorija  
 cd . . - limeni augstāk  
 cd ~ - sākums   
@@ -60,3 +60,13 @@ mkdir - mapes izveidot
 nano - rakstīt linux  
 cat - read only mode  
 rm - dzēšana  
+
+## Linux II  
+uname - operetajsistema  
+Firefox & - var turpinat procesus  
+Echo $0 - shell  
+ps -aux - kadi procrsi palaisti  
+ps -aux | grep firefox - procesi  
+Kill numurs - apturet procesu  
+
+
