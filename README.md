@@ -80,10 +80,17 @@ history > filename.txt
 git clone links  
 
 # Saglabāt  
+git clone  
 git config --global user.name.email  
 git commit -m "name"  
 git push origin main  
 
+# 3.  
+Driver - iekārtu pārvaldīšana, datu glabāšana  
+whereis  
+-rwxr-xr-x - izpildīšanas tiesības  
+lrwxr-xr-x - links saīsinājums  
+ 
 
 
 
