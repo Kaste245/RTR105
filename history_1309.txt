@@ -1,13 +1,61 @@
-    1  VirtualBox --startvm XP
-    2  quartus
-    3  firefox 
-    4  uname
-    5  unname -
-    6  man unname
-    7  uname --all
-    8  echo $0
-    9  ps
-   10  ps -aux | grep firefox
-   11  kill 3038
-   12  history
-   13  history > history_1309.txt
+    1  pwd
+    2  nano kaka.txt
+    3  ls
+    4  rm kaka.txt 
+    5  ls
+    6  init 0
+    7  sudo apt install xrdp
+    8  sudo systemctl enable xrdp
+    9  sudo apt update
+   10  pwd
+   11  open nano
+   12  cd download
+   13  ls -at
+   14  cd Downloads/
+   15  ls a
+   16  ls -a
+   17  cd ..
+   18  pwd
+   19  init 0
+   20  history 
+   21  clear
+   22  history
+   23  nano
+   24  cd Documents
+   25  cd ..
+   26  init 0
+   27  git clone https://github.com/Kaste245/RTR105
+   28  sudo apt install git
+   29  git clone https://github.com/Kaste245/RTR105
+   30  pwd
+   31  cd RTR105/
+   32  ls -lt
+   33  nano
+   34  nano git-upload
+   35  ls -lt
+   36  cd
+   37  chmod 764 git-upload
+   38  cd RTR105/
+   39  chmod 764 git-upload
+   40  ls -lt
+   41  ./git-upload 
+   42  init 0
+   43  firefox &
+   44  cd RTR105/
+   45  cat git-upload 
+   46  nano git-upload 
+   47  ls -lt
+   48  nano README.md 
+   49  ./git-upload 
+   50  cat README.md 
+   51  ./git-upload 
+   52  echo
+   53  echo $PATH 
+   54  PATH=$PATH
+   55  echo $PATH
+   56  PATH=$PATH:./
+   57  echo $PATH
+   58  cd
+   59  pwd
+   60  cd RTR105/
+   61  history >history_1309.txt 
