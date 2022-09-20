@@ -86,7 +86,7 @@ git config --global user.name.email
 git commit -m "name"  
 git push origin main  
 
-# 3.  
+## Linux III    
 Driver - iekārtu pārvaldīšana, datu glabāšana  
 whereis  
 -rwxr-xr-x - izpildīšanas tiesības  
