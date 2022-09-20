@@ -2,5 +2,5 @@
 git add .
 git config --global user.name Kaste245
 git config --global user.email adrians.dada@gmail.com
-git commit -m "Class_04b"
+git commit -m "Class_$1"
 git push origin main

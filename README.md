@@ -95,3 +95,5 @@ lrwxr-xr-x - links saīsinājums
 chmod 764 - dot iespēju izpildīt komandu  
 history | grep  
 PATH=$PATH:  
+git-upload commitName  
+
