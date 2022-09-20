@@ -3,10 +3,10 @@ Datormāciba
 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  
 Satura rāditājs
 - [Saglabāšana](https://github.com/Kaste245/RTR105/edit/main/README.md#salab%C4%81t)  
-- [1.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#piemeri-ar-sarakstiem)
-- [2.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#sakums_linux)  
-- [3.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#linux-ii)  
-- [4.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#linux-iii)
+- [Sakums](https://github.com/Kaste245/RTR105/edit/main/README.md#sakums_linux) 
+- [Pārvietošanās](https://github.com/Kaste245/RTR105/edit/main/README.md#p%C4%81rvieto%C5%A1anas)
+- [Linux II](https://github.com/Kaste245/RTR105/edit/main/README.md#linux-ii)  
+- [Linux III](https://github.com/Kaste245/RTR105/edit/main/README.md#linux-iii)
 - 5.Sadaļa
 - 6.Sadaļa  
 
