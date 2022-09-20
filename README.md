@@ -10,7 +10,7 @@ Satura rāditājs
 - 5.Sadaļa
 - 6.Sadaļa  
 
-# Github  
+## Github  
 [ text ](link)  
 Bilde ![ text ](links)
 
@@ -21,7 +21,7 @@ Ctrl + shift + T
 Ctrl + alt + F1-F7  
 Shift + ins 
 
-# Saglabāt  
+## Saglabāt  
 git clone  
 git config --global user.name.email  
 git commit -m "name"  
