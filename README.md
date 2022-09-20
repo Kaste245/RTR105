@@ -1,4 +1,4 @@
-## RTR105
+# RTR105
 Datormāciba  
 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  
 Satura rāditājs
@@ -63,4 +63,3 @@ chmod 764 - dot iespēju izpildīt komandu
 history | grep  
 PATH=$PATH:  
 git-upload commitName  
-
