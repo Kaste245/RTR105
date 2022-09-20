@@ -6,7 +6,7 @@ Satura rāditājs
 - [1.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#piemeri-ar-sarakstiem)
 - [2.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#sakums_linux)  
 - [3.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#linux-ii)  
-- 4.Sadaļa
+- [4.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#linux-iii)
 - 5.Sadaļa
 - 6.Sadaļa  
 
