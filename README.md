@@ -90,6 +90,8 @@ Driver - iekārtu pārvaldīšana, datu glabāšana
 whereis  
 -rwxr-xr-x - izpildīšanas tiesības  
 lrwxr-xr-x - links saīsinājums  
+chmod 764 - dot iespēju izpildīt komandu  
+
  
 
 
