@@ -85,6 +85,7 @@ git clone
 git config --global user.name.email  
 git commit -m "name"  
 git push origin main  
+git pull  
 
 ## Linux III    
 Driver - iekārtu pārvaldīšana, datu glabāšana  
@@ -92,10 +93,5 @@ whereis
 -rwxr-xr-x - izpildīšanas tiesības  
 lrwxr-xr-x - links saīsinājums  
 chmod 764 - dot iespēju izpildīt komandu  
-
- 
-
-
-
-
-
+history | grep  
+PATH=$PATH:  
