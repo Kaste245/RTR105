@@ -1,0 +1,6 @@
+#!/bin/bash
+git add .
+git config --global user.name Kaste245
+git config --global user.email adrians.dada@gmail.com
+git commit -m "Class_05"
+git push origin main
