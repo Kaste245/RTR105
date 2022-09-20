@@ -1,5 +1,6 @@
 ## RTR105
 Datormāciba  
+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  
 Satura rāditājs
 - [Saglabāšana](https://github.com/Kaste245/RTR105/edit/main/README.md#salab%C4%81t)  
 - [1.Sadaļa](https://github.com/Kaste245/RTR105/edit/main/README.md#piemeri-ar-sarakstiem)
