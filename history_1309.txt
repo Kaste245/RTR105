@@ -59,3 +59,31 @@
    59  pwd
    60  cd RTR105/
    61  history >history_1309.txt 
+   62  ls -lt
+   63  git-upload
+   64  nano git-upload 
+   65  ls -lt
+   66  echo $PATH
+   67  git-upload
+   68  ls -lt
+   69  chmod 764 spec-var 
+   70  ls -lt
+   71  spec-var 
+   72  nano spec-var 
+   73  spec-var 
+   74  nano spec-var 
+   75  spec-var $0
+   76  spec-var $2
+   77  nano spec-var 
+   78  spec-var 
+   79  spec-var $0
+   80  spec-var $1
+   81  spec-var 
+   82  spec-var $1
+   83  echo $PATH
+   84  spec-var arg1 arg 2
+   85  echo $0
+   86  ls -lt
+   87  nano git-upload 
+   88  git-upload 5
+   89  history > history_1309.txt 
