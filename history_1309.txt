@@ -87,3 +87,146 @@
    87  nano git-upload 
    88  git-upload 5
    89  history > history_1309.txt 
+   90  git-upload 5
+   91  cd
+   92  init 0
+   93  rm -rf RTR105/
+   94  ls -lt
+   95  git clone https://github.com/Kaste245/RTR105
+   96  cd RTR105/
+   97  nano README.md 
+   98  ./git-upload 
+   99  nano git-upload 
+  100  git pull
+  101  cd ..
+  102  cd RTR105/
+  103  nano README.md 
+  104  ./git-upload 
+  105  nano README.md 
+  106  git-upload-
+  107  git-upload
+  108  ls
+  109  ls -lt
+  110  ./git-upload 
+  111  git-upload
+  112  ./git-upload 
+  113  nano README.md 
+  114  nano spec-var
+  115  ls -lt
+  116  chmod spec-var
+  117  nano README.md 
+  118  nano spec-var 
+  119  firefox &
+  120  pwd
+  121  ls -lt
+  122  cd RTR105/
+  123  ls -lt
+  124  nano spec-var
+  125  cd
+  126  firefox &
+  127  update
+  128  whoiam
+  129  whoami
+  130  root
+  131  init 0
+  132  update
+  133  pwd
+  134  ls -lt
+  135  cd RTR105/
+  136  ls -lt
+  137  nano git-upload 
+  138  cd ..
+  139  ini t0
+  140  init 0
+  141  pwd
+  142  ls -lt
+  143  cd RTR105/
+  144  nano README.md 
+  145  /bin/ls
+  146  cd ..
+  147  bin/ls
+  148  cd RTR105/
+  149  mkdir Class_06
+  150  cd Class_06/
+  151  cd ..
+  152  ls -ltt
+  153  ls -lt
+  154  cd Class_06/
+  155  nano first.c
+  156  cat first.c 
+  157  gcc first.c 
+  158  sudo apt install gcc
+  159  gcc first.c 
+  160  ls -lt
+  161  cat first.c 
+  162  cat a.out 
+  163  cat first.c 
+  164  ls -lt
+  165  cd
+  166  pwd
+  167  RTR105/
+  168  cd RTR105/
+  169  cd Class_06/
+  170  /home/adrians/RTR105/Class_06/a.out 
+  171  ~/RTR105/Class_06/a.out 
+  172  ./a.out 
+  173  ../Class_06/a.out 
+  174  tree
+  175  cd ..
+  176  tree
+  177  sudo apt install tree
+  178  tree
+  179  cd Class_06/
+  180  nano first.c 
+  181  echo $?
+  182  nano first.c 
+  183  ls -lt
+  184  gccc first.c 
+  185  gcc first.c 
+  186  ./a.out 
+  187  echo $?
+  188  nano first.c 
+  189  gcc first.c 
+  190  ./a.out 
+  191  echo $?
+  192  nano first.c 
+  193  gcc first.c 
+  194  ./a.out 
+  195  echo $?
+  196  gcc first.c -o first.out
+  197  ls -lt
+  198  man -o
+  199  man o
+  200  cd
+  201  cd RTR105/
+  202  tree
+  203  ls -lta
+  204  nano .gitignore
+  205  ls -lta
+  206  cd Class_06/
+  207  gcc first.c -s 
+  208  echo $?
+  209  gcc first.c -s -save-temp -o first.out
+  210  ls -lt
+  211  gcc first.c -s -save-temps -o first.out
+  212  ls -lt
+  213  gcc first.c -S -save-temps -o first.out
+  214  ls -lt
+  215  rm first.out-first.o
+  216  rm first.out-first.s
+  217  rm first.out-first.i
+  218  ls -lt
+  219  cat first.i
+  220  gcc first.c -save-temps -o first.out
+  221  ls -lt
+  222  cat first.i
+  223  cat first.o
+  224  cat first.s
+  225  cat first.out-first.o
+  226  ls -lt
+  227  hexdump -C first.c
+  228  2f(hex) -> 0010 111(bin) -> 47(dec)
+  229  cd
+  230  cd RTR105/
+  231  ./git-upload 6
+  232  history > history_1309.txt 
