@@ -1,6 +1,6 @@
 # RTR105
 Datormāciba  
-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  
+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  
 Satura rāditājs
 - [Saglabāšana](https://github.com/Kaste245/RTR105/edit/main/README.md#salab%C4%81t)  
 - [Sakums](https://github.com/Kaste245/RTR105/edit/main/README.md#sakums_linux) 
@@ -63,3 +63,17 @@ chmod 764 - dot iespēju izpildīt komandu
 history | grep  
 PATH=$PATH:  
 git-upload commitName  
+mv - parvietot / nosaukt  
+
+# C valoda
+
+1. Pirmkoda rakstisana  
+gcc- partulkot pirmkodu  
+tree - viegla saredzet kas mape  
+() - funkcijas pazimes  
+{} - ko daris  
+echo $? - darbibas rezultats kluda  
+-0 - pieskirs savu faila nosaukumu  
+gcc name -save-temps -o name_new - redzet starp rezultatus bez komentariem  
+hexdump -C - hex ciparos kods  
+
