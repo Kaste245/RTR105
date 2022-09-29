@@ -7,7 +7,7 @@ Satura rāditājs
 - [Pārvietošanās](https://github.com/Kaste245/RTR105/edit/main/README.md#p%C4%81rvieto%C5%A1anas)
 - [Linux II](https://github.com/Kaste245/RTR105/edit/main/README.md#linux-ii)  
 - [Linux III](https://github.com/Kaste245/RTR105/edit/main/README.md#linux-iii)
-- 5.Sadaļa
+- [C valoda](https://github.com/Kaste245/RTR105#c-valoda)
 - 6.Sadaļa  
 
 ## Github  
