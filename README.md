@@ -2,7 +2,7 @@
 Datormāciba  
 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  
 Satura rāditājs
-- [Saglabāšana](https://github.com/Kaste245/RTR105#salab%C4%81t)  
+- [Saglabāšana](https://github.com/Kaste245/RTR105#saglabāt)  
 - [Sakums](https://github.com/Kaste245/RTR105#sakums_linux) 
 - [Pārvietošanās](https://github.com/Kaste245/RTR105#p%C4%81rvieto%C5%A1anas)
 - [Linux II](https://github.com/Kaste245/RTR105#linux-ii)  
