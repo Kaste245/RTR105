@@ -1,6 +1,5 @@
 # RTR105
 Datormāciba  
-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   
 Satura rāditājs
 - [Saglabāšana](https://github.com/Kaste245/RTR105#saglabāt)  
 - [Sakums](https://github.com/Kaste245/RTR105#sakums_linux) 
