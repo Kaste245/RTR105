@@ -7,7 +7,7 @@ Satura rāditājs
 - [Linux II](https://github.com/Kaste245/RTR105#linux-ii)  
 - [Linux III](https://github.com/Kaste245/RTR105#linux-ii)
 - [C valoda](https://github.com/Kaste245/RTR105#c-valoda)
-- 6.Sadaļa  
+- [C valoda II](https://github.com/Kaste245/RTR105#c-valoda-ii)  
 
 ## Github  
 [ text ](link)  
@@ -66,7 +66,7 @@ mv - parvietot / nosaukt
 
 # C valoda
 
-1. Pirmkoda rakstisana  
+Pirmkoda rakstisana  
 gcc- partulkot pirmkodu  
 tree - viegla saredzet kas mape  
 () - funkcijas pazimes  
