@@ -74,7 +74,14 @@ tree - viegla saredzet kas mape
 {} - ko daris  
 echo $? - darbibas rezultats kluda  
 -0 - pieskirs savu faila nosaukumu  
-gcc name -save-temps -o name_new - redzet starp rezultatus bez komentariem  
+gcc name -o name_new - redzet starp rezultatus bez komentariem  
 hexdump -C - hex ciparos kods  
 
 # C valoda II  
+ 
+0x - hex dec  
+0 - oct  
+%10d - atstarpēm  
+%d... - dažādi formāti  
+1.5e-13 -> 1.5x10-13 - mantiss  
+
