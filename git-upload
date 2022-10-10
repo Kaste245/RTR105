@@ -1,4 +1,5 @@
 #!/bin/bash
+history > history_1309.txt
 git add .
 git config --global user.name Kaste245
 git config --global user.email adrians.dada@gmail.com
