@@ -590,3 +590,65 @@
   590  cat history_1309.txt 
   591  nano git-upload 
   592  history > history_1309.txt 
+  593  cat history_1309.txt 
+  594  ./git-upload 
+  595  ls -lt
+  596  ./
+  597  ./git-upload 
+  598  init 0
+  599  cd RTR105/
+  600  nano git-upload 
+  601  ls -lt
+  602  ./git-upload 
+  603  git help
+  604  nano git-upload 
+  605  ./git-upload 
+  606  history > history_1309.txt 
+  607  echo $
+  608  echo $?
+  609  nano git-upload 
+  610  cat history_1309.txt 
+  611  ./git-upload 
+  612  ls -lt
+  613  ./git-upload 
+  614  history > history_1309.txt 
+  615  cat history_1309.txt 
+  616  ./git-upload 
+  617  cat history_1309.txt 
+  618  nano history_1309.txt 
+  619  history
+  620  history > history_1309.txt 
+  621  cat history_1309.txt 
+  622  cd Class_09
+  623  nano char_data_type_test.c
+  624  gcc char_data_type_test.c -o char_data_type_test.out
+  625  nano char_data_type_test.c
+  626  gcc char_data_type_test.c -o char_data_type_test.out
+  627  nano char_data_type_test.c
+  628  gcc char_data_type_test.c -o char_data_type_test.out
+  629  ./ char_data_type_test.out
+  630  ./char_data_type_test.out
+  631  nano char_data_type_test.c
+  632  echo $0
+  633  echo $?
+  634  nano char_data_type_test.c
+  635  ls -lt
+  636  nano char_data_type_test.c
+  637  fg
+  638  nano char_data_type_test.c
+  639  gcc char_data_type_test.c -o char_data_type_test.out
+  640  ./char_data_type_test.out 
+  641  nano char_data_type_test.c
+  642  gcc char_data_type_test.c -o char_data_type_test.out
+  643  ./char_data_type_test.out 
+  644  nano char_data_type_test.c
+  645  gcc char_data_type_test.c -o char_data_type_test.out
+  646  nano char_data_type_test.c
+  647  gcc char_data_type_test.c -o char_data_type_test.out
+  648  ./char_data_type_test.out 
+  649  nano char_data_type_test.c
+  650  gcc char_data_type_test.c -o char_data_type_test.out
+  651  ./char_data_type_test.out 
+  652  nano char_data_type_test.c
+  653  cd ..
+  654  history > history_1309.txt 
