@@ -18,7 +18,7 @@
   printf("a helsidecimalais skaitlis: %#x \n", a);
   printf("a oktāls skaitlis: %#o \n", a);
 
-  char b ;
+  char b;
   printf("\n b simobols: %c \n", b);
   printf("b decimals skaitlis: %d \n", b);
   printf("b helsidecimalais skaitlis: %#x \n", b);
@@ -40,6 +40,11 @@
   printf("b helsidecimalais skaitlis: %#x \n", b);
   printf("b oktāls skaitlis: %#o \n", b);
 
+  unsigned int c = 350;
+  printf("\n c simobols: %c \n", c);
+  printf("c decimals skaitlis: %d \n", c);
+  printf("c helsidecimalais skaitlis: %#x \n", c);
+  printf("c oktāls skaitlis: %#o \n", c);
 
   return 0;
  }
