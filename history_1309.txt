@@ -652,5 +652,50 @@
   652  nano char_data_type_test.c
   653  cd ..
   654  history > history_1309.txt 
-history
-history
+  655  ./git-upload 
+  656  init 0
+  657  cd RTR105/
+  658  mkdir Class_09
+  659  cd Class_09
+  660  cd ..
+  661  nano README.md 
+  662  opera &
+  663  cd RTR105/
+  664  cd Class_09
+  665  nano char_data_type_test.c
+  666  gcc char_data_type_test.c -o char_data_type_test.out
+  667  nano char_data_type_test.c
+  668  gcc char_data_type_test.c -o char_data_type_test.out
+  669  nano char_data_type_test.c
+  670  gcc char_data_type_test.c -o char_data_type_test.out
+  671  ./char_data_type_test.out 
+  672  nano char_data_type_test.c
+  673  ./char_data_type_test.out 
+  674  gcc char_data_type_test.c -o char_data_type_test.out
+  675  nano char_data_type_test.c
+  676  gcc char_data_type_test.c -o char_data_type_test.out
+  677  ./char_data_type_test.out 
+  678  nano char_data_type_test.c
+  679  gcc char_data_type_test.c -o char_data_type_test.out
+  680  nano char_data_type_test.c
+  681  gcc char_data_type_test.c -o char_data_type_test.out
+  682  ./char_data_type_test.out 
+  683  cd ..
+  684  ./git-upload 9
+  685  nano git-upload 
+  686  ./git-upload 9
+  687  cat history_1309.txt 
+  688  ./git-upload 9
+  689  cat history_1309.txt 
+  690  ls -lt
+  691  cat history_1309.txt 
+  692  ./git-upload 9
+  693  cat history_1309.txt 
+  694  nano git-upload 
+  695  ./git-upload 9
+  696  cat history_1309.txt 
+  697  nano git-upload 
+  698  ./git-upload 9
+  699  cat history_1309.txt 
+  700  nano git-upload 
+  701  history > history_1309.txt 
