@@ -1,13 +1,14 @@
 # RTR105
 Datormāciba  
 Satura rāditājs
-- [Saglabāšana](https://github.com/Kaste245/RTR105#saglabāt)  
+- [Saglabāšana](https://github.com/Kaste245/RTR105#saglabāt)
 - [Sakums](https://github.com/Kaste245/RTR105#sakums_linux) 
 - [Pārvietošanās](https://github.com/Kaste245/RTR105#p%C4%81rvieto%C5%A1anas)
-- [Linux II](https://github.com/Kaste245/RTR105#linux-ii)  
+- [Linux II](https://github.com/Kaste245/RTR105#linux-ii)
 - [Linux III](https://github.com/Kaste245/RTR105#linux-ii)
 - [C valoda](https://github.com/Kaste245/RTR105#c-valoda)
-- [C valoda II](https://github.com/Kaste245/RTR105#c-valoda-ii)  
+- [C valoda II](https://github.com/Kaste245/RTR105#c-valoda-ii)
+- [C valoda Mainīgie]()  
 
 ## Github  
 [ text ](link)  
@@ -84,3 +85,11 @@ hexdump -C - hex ciparos kods
 %d... - dažādi formāti  
 1.5e-13 -> 1.5x10-13 - mantiss  
 
+# C valoda mainīgie  
+
+char(8B), int(32B), long long(64B) . . .  
+https://www.geeksforgeeks.org/data-types-in-c/  
+float, double, long double-robežu vidu būs 0  
+Ctrl + C - rindiņas Nr.  
+Alt + U - Undo  
+Alt + E - Redo  
