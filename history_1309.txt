@@ -699,3 +699,137 @@
   699  cat history_1309.txt 
   700  nano git-upload 
   701  history > history_1309.txt 
+  702  cat history_1309.txt 
+  703  ./git-upload 9
+  704  init 0
+  705  cd ..
+  706  ls -lt
+  707  cat spec-var 
+  708  cd Class_06
+  709  ls -lt
+  710  cat first.c
+  711  cd ..
+  712  cd Class_07
+  713  ls -lt
+  714  cat print.c
+  715  ./ print.out
+  716  ./print.out 
+  717  cd ..
+  718  cd HomeWork/
+  719  cd PU2
+  720  cd PU2_PT2/
+  721  nano dec2bin.c
+  722  gcc dec2bin.c -0 dec2bin.out
+  723  gcc dec2bin.c -o dec2bin.out
+  724  nano dec2bin.c
+  725  gcc dec2bin.c -o dec2bin.out
+  726  nano dec2bin.c
+  727  gcc dec2bin.c -o dec2bin.out
+  728  ./dec2bin.out 
+  729  nano dec2bin.c
+  730  gcc dec2bin.c -o dec2bin.out
+  731  nano dec2bin.c
+  732  gcc dec2bin.c -o dec2bin.out
+  733  ./dec2bin.out 
+  734  nano dec2bin.c
+  735  gcc dec2bin.c -o dec2bin.out
+  736  ./dec2bin.out 
+  737  nano dec2bin.c
+  738  gcc dec2bin.c -o dec2bin.out
+  739  ./dec2bin.out 
+  740  nano dec2bin.c
+  741  gcc dec2bin.c -o dec2bin.out
+  742  ./dec2bin.out 
+  743  gcc dec2bin.c -o dec2bin.out
+  744  nano dec2bin.c
+  745  gcc dec2bin.c -o dec2bin.out
+  746  ./dec2bin.out 
+  747  nano dec2bin.c
+  748  gcc dec2bin.c -o dec2bin.out
+  749  ./dec2bin.out 
+  750  nano dec2bin.c
+  751  gcc dec2bin.c -o dec2bin.out
+  752  ./dec2bin.out 
+  753  nano dec2bin.c
+  754  gcc dec2bin.c -o dec2bin.out
+  755  ./dec2bin.out 
+  756  nano dec2bin.c
+  757  gcc dec2bin.c -o dec2bin.out
+  758  nano dec2bin.c
+  759  gcc dec2bin.c -o dec2bin.out
+  760  nano dec2bin.c
+  761  gcc dec2bin.c -o dec2bin.out
+  762  nano dec2bin.c
+  763  gcc dec2bin.c -o dec2bin.out
+  764  ./dec2bin.out 
+  765  gcc dec2bin.c -o dec2bin.out
+  766  nano dec2bin.c
+  767  gcc dec2bin.c -o dec2bin.out
+  768  ./dec2bin.out 
+  769  nano dec2bin.c
+  770  ./dec2bin.out 
+  771  gcc dec2bin.c -o dec2bin.out
+  772  ./dec2bin.out 
+  773  nano dec2bin.c
+  774  gcc dec2bin.c -o dec2bin.out
+  775  nano dec2bin.c
+  776  gcc dec2bin.c -o dec2bin.out
+  777  ./dec2bin.out 
+  778  ./dec2bin.out 50
+  779  255
+  780  ./dec2bin.out 50
+  781  ./dec2bin.out 
+  782  nano dec2bin.c
+  783  gcc dec2bin.c -o dec2bin.out
+  784  ./dec2bin.out 
+  785  nano dec2bin.c
+  786  gcc dec2bin.c -o dec2bin.out
+  787  ./dec2bin.out 
+  788  nano dec2bin.c
+  789  gcc dec2bin.c -o dec2bin.out
+  790  ./dec2bin.out 
+  791  nano dec2bin.c
+  792  gcc dec2bin.c -o dec2bin.out
+  793  ./dec2bin.out 
+  794  nano dec2bin.c
+  795  gcc dec2bin.c -o dec2bin.out
+  796  nano dec2bin.c
+  797  gcc dec2bin.c -o dec2bin.out
+  798  ./dec2bin.out 
+  799  nano dec2bin.c
+  800  gcc dec2bin.c -o dec2bin.out
+  801  ./dec2bin.out 
+  802  ./dec2bin.out -1
+  803  nano dec2bin.c
+  804  gcc dec2bin.c -o dec2bin.out
+  805  ./dec2bin.out 
+  806  255
+  807  ./dec2bin.out 
+  808  nano dec2bin.c
+  809  gcc dec2bin.c -o dec2bin.out
+  810  ./dec2bin.out 
+  811  nano dec2bin.c
+  812  gcc dec2bin.c -o dec2bin.out
+  813  nano dec2bin.c
+  814  ./dec2bin.out 
+  815  nano dec2bin.c
+  816  gcc dec2bin.c -o dec2bin.out
+  817  ./dec2bin.out 
+  818  nano dec2bin.c
+  819  gcc dec2bin.c -o dec2bin.out
+  820  ./dec2bin.out 
+  821  nano dec2bin.c
+  822  gcc dec2bin.c -o dec2bin.out
+  823  ./dec2bin.out 
+  824  nano dec2bin.c
+  825  gcc dec2bin.c -o dec2bin.out
+  826  ./dec2bin.out 
+  827  nano dec2bin.c
+  828  ./dec2bin.out 
+  829  8
+  830  ./dec2bin.out 
+  831  a
+  832  ./dec2bin.out 
+  833  cd ..
+  834  ./git-upload 9home
+  835  history >history_1309.txt 
