@@ -8,7 +8,7 @@ Satura rāditājs
 - [Linux III](https://github.com/Kaste245/RTR105#linux-ii)
 - [C valoda](https://github.com/Kaste245/RTR105#c-valoda)
 - [C valoda II](https://github.com/Kaste245/RTR105#c-valoda-ii)
-- [C valoda Mainīgie]()  
+- [C valoda Mainīgie](https://github.com/Kaste245/RTR105#c-valoda-mainīgie)  
 
 ## Github  
 [ text ](link)  
