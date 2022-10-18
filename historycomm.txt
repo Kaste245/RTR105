@@ -1,88 +1,3 @@
-  209  cd
-  210  cd RTR105/
-  211  tree
-  212  ls -lta
-  213  nano .gitignore
-  214  ls -lta
-  215  cd Class_06/
-  216  gcc first.c -s 
-  217  echo $?
-  218  gcc first.c -s -save-temp -o first.out
-  219  ls -lt
-  220  gcc first.c -s -save-temps -o first.out
-  221  ls -lt
-  222  gcc first.c -S -save-temps -o first.out
-  223  ls -lt
-  224  rm first.out-first.o
-  225  rm first.out-first.s
-  226  rm first.out-first.i
-  227  ls -lt
-  228  cat first.i
-  229  gcc first.c -save-temps -o first.out
-  230  ls -lt
-  231  cat first.i
-  232  cat first.o
-  233  cat first.s
-  234  cat first.out-first.o
-  235  ls -lt
-  236  hexdump -C first.c
-  237  2f(hex) -> 0010 111(bin) -> 47(dec)
-  238  cd
-  239  cd RTR105/
-  240  ./git-upload 6
-  241  history > history_1309.txt 
-  242  cat history_1309.txt 
-  243  ./git-upload 06
-  244  ./git-upload 
-  245  init 0
-  246  cd RTR105/
-  247  nano README.md 
-  248  ls -lt
-  249  firefox &
-  250  ls -lt
-  251  cd rt
-  252  cd RT'
-  253  cd RTR105/
-  254  nano README.md 
-  255  init 0
-  256  cd RTR105/
-  257  nano test.c
-  258  cat test.c 
-  259  gcc test.c -o test.out
-  260  ls -lta test.out
-  261  ./test.out 
-  262  echo $?
-  263  init 0
-  264  firefox &
-  265  nano kaut kas
-  266  ls -lta
-  267  ls -l
-  268  rm kaut
-  269  ls l
-  270  ls -l
-  271  cd RTR105/'
-  272  cd RTR105/
-  273  nano README.md
-  274  ls -lt
-  275  cat history_1309.txt 
-  276  firefox &
-  277  cd RTR105/
-  278  nano README.md
-  279  init 0
-  280  cd RTR105/
-  281  ls -lt
-  282  nano git-upload 
-  283  cat history_1309.txt 
-  284  ls -lt
-  285  cd Class_06/
-  286  ls -lt
-  287  init 0
-  288  firefox &
-  289  firefox
-  290  ls
-  291  ls -l
-  292  init 0
-  293  mv Class_07
   294  mv -help
   295  Class-07
   296  man mv
@@ -844,95 +759,95 @@
  1052  opera
  1053  init 0
  1054  cd RTR105/
- 1055  mkdir Class_10
- 1056  cd Class_10
- 1057  nano operation.c
- 1058  gcc operation.c 
+ 1055  nano README.md 
+ 1056  cd RTR105/
+ 1057  mkdir Class_10
+ 1058  cd Class_10
  1059  nano operation.c
  1060  gcc operation.c 
- 1061  ./a.out 
- 1062  nano operation.c
- 1063  nano oper2.c
+ 1061  nano operation.c
+ 1062  gcc operation.c 
+ 1063  ./a.out 
  1064  nano operation.c
  1065  nano oper2.c
- 1066  gcc oper2.c -0 oper2.out
- 1067  gcc oper2.c -o oper2.out
- 1068  ./oper2.out 
- 1069  gcc operation.c -o operation.out
- 1070  nano oper3.c
- 1071  nano oper2.c
- 1072  gcc oper2.c -o oper2.out
- 1073  gcc oper3.c -o oper3.out
- 1074  ./operation.out 
- 1075  ./oper2.out 
- 1076  ./oper3.out 
- 1077  nano oper4.c
- 1078  nano oper5.c
- 1079  nano oper6.c
- 1080  nano oper7.c
- 1081  nano oper8.c
- 1082  nano operation.c
- 1083  nano oper9.c
- 1084  nano oper10.c
- 1085  nano oper11.c
- 1086  nano oper12.c
- 1087  nano oper13.c
- 1088  nano opration.c
- 1089  nano operation.c
- 1090  gcc oper3.c -o oper3.out
- 1091  gcc oper4.c -o oper4.out
- 1092  gcc oper5.c -o oper5.out
- 1093  gcc oper6.c -o oper6.out
- 1094  gcc oper7.c -o oper7.out
- 1095  gcc oper8.c -o oper8.out
- 1096  gcc oper9.c -o oper9.out
- 1097  nano oper8.c 
- 1098  nano oper9.c 
- 1099  rm -f oper9.c
- 1100  nano oper4.c
- 1101  nano oper3.c
- 1102  nano oper5.c
- 1103  nano oper6.c
- 1104  nano oper7.c
- 1105  nano oper8.c
- 1106  nano oper10.c
- 1107  nano oper11.c
- 1108  nano oper12.c
- 1109  nano oper13.c
- 1110  gcc oper2.c -o oper2.out
- 1111  gcc oper3.c -o oper3.out
- 1112  gcc oper4.c -o oper4.out
- 1113  gcc oper5.c -o oper5.out
- 1114  gcc oper5.c -o oper6.out
+ 1066  nano operation.c
+ 1067  nano oper2.c
+ 1068  gcc oper2.c -0 oper2.out
+ 1069  gcc oper2.c -o oper2.out
+ 1070  ./oper2.out 
+ 1071  gcc operation.c -o operation.out
+ 1072  nano oper3.c
+ 1073  nano oper2.c
+ 1074  gcc oper2.c -o oper2.out
+ 1075  gcc oper3.c -o oper3.out
+ 1076  ./operation.out 
+ 1077  ./oper2.out 
+ 1078  ./oper3.out 
+ 1079  nano oper4.c
+ 1080  nano oper5.c
+ 1081  nano oper6.c
+ 1082  nano oper7.c
+ 1083  nano oper8.c
+ 1084  nano operation.c
+ 1085  nano oper9.c
+ 1086  nano oper10.c
+ 1087  nano oper11.c
+ 1088  nano oper12.c
+ 1089  nano oper13.c
+ 1090  nano opration.c
+ 1091  nano operation.c
+ 1092  gcc oper3.c -o oper3.out
+ 1093  gcc oper4.c -o oper4.out
+ 1094  gcc oper5.c -o oper5.out
+ 1095  gcc oper6.c -o oper6.out
+ 1096  gcc oper7.c -o oper7.out
+ 1097  gcc oper8.c -o oper8.out
+ 1098  gcc oper9.c -o oper9.out
+ 1099  nano oper8.c 
+ 1100  nano oper9.c 
+ 1101  rm -f oper9.c
+ 1102  nano oper4.c
+ 1103  nano oper3.c
+ 1104  nano oper5.c
+ 1105  nano oper6.c
+ 1106  nano oper7.c
+ 1107  nano oper8.c
+ 1108  nano oper10.c
+ 1109  nano oper11.c
+ 1110  nano oper12.c
+ 1111  nano oper13.c
+ 1112  gcc oper2.c -o oper2.out
+ 1113  gcc oper3.c -o oper3.out
+ 1114  gcc oper4.c -o oper4.out
  1115  gcc oper5.c -o oper5.out
- 1116  gcc oper6.c -o oper6.out
- 1117  gcc oper7.c -o oper7.out
- 1118  gcc oper8.c -o oper8.out
- 1119  gcc oper10.c -o oper10.out
- 1120  gcc oper11.c -o oper11.out
- 1121  gcc oper12.c -o oper12.out
- 1122  gcc oper13.c -o oper13.out
- 1123  nano oper4.c
- 1124  gcc oper4.c -o oper4.out
+ 1116  gcc oper5.c -o oper6.out
+ 1117  gcc oper5.c -o oper5.out
+ 1118  gcc oper6.c -o oper6.out
+ 1119  gcc oper7.c -o oper7.out
+ 1120  gcc oper8.c -o oper8.out
+ 1121  gcc oper10.c -o oper10.out
+ 1122  gcc oper11.c -o oper11.out
+ 1123  gcc oper12.c -o oper12.out
+ 1124  gcc oper13.c -o oper13.out
  1125  nano oper4.c
  1126  gcc oper4.c -o oper4.out
  1127  nano oper4.c
  1128  gcc oper4.c -o oper4.out
- 1129  nano oper2.c
- 1130  nano oper4.c
- 1131  gcc oper4.c -o oper4.out
- 1132  gcc oper8.c -o oper8.out
- 1133  nano oper8.c
- 1134  nano oper4.c
- 1135  gcc oper4.c -o oper4.out
+ 1129  nano oper4.c
+ 1130  gcc oper4.c -o oper4.out
+ 1131  nano oper2.c
+ 1132  nano oper4.c
+ 1133  gcc oper4.c -o oper4.out
+ 1134  gcc oper8.c -o oper8.out
+ 1135  nano oper8.c
  1136  nano oper4.c
  1137  gcc oper4.c -o oper4.out
  1138  nano oper4.c
  1139  gcc oper4.c -o oper4.out
  1140  nano oper4.c
  1141  gcc oper4.c -o oper4.out
- 1142  gcc oper8.c -o oper8.out
- 1143  nano oper8.c
+ 1142  nano oper4.c
+ 1143  gcc oper4.c -o oper4.out
  1144  gcc oper8.c -o oper8.out
  1145  nano oper8.c
  1146  gcc oper8.c -o oper8.out
@@ -955,46 +870,131 @@
  1163  nano oper8.c
  1164  gcc oper8.c -o oper8.out
  1165  nano oper8.c
- 1166  ./oper2.out 
- 1167  ./oper3.out 
- 1168  ./oper4.out 
- 1169  ./oper5.out 
- 1170  ./oper6.out 
- 1171  ./oper7.out 
- 1172  ./oper8.out 
- 1173  ./oper10.out 
- 1174  ./oper11.out 
- 1175  ./oper12.out 
- 1176  ./oper13.out 
- 1177  nano oper5.c
- 1178  gcc oper5.c -o oper5.out
- 1179  /oper5.out
- 1180  ./oper5.out
- 1181  nano oper6.c
- 1182  gcc oper6.c -o oper6.out
- 1183  ./oper6.out
- 1184  ls -lt
- 1185  nano oper6.c
- 1186  gcc oper6.c -o oper6.out
+ 1166  gcc oper8.c -o oper8.out
+ 1167  nano oper8.c
+ 1168  ./oper2.out 
+ 1169  ./oper3.out 
+ 1170  ./oper4.out 
+ 1171  ./oper5.out 
+ 1172  ./oper6.out 
+ 1173  ./oper7.out 
+ 1174  ./oper8.out 
+ 1175  ./oper10.out 
+ 1176  ./oper11.out 
+ 1177  ./oper12.out 
+ 1178  ./oper13.out 
+ 1179  nano oper5.c
+ 1180  gcc oper5.c -o oper5.out
+ 1181  /oper5.out
+ 1182  ./oper5.out
+ 1183  nano oper6.c
+ 1184  gcc oper6.c -o oper6.out
+ 1185  ./oper6.out
+ 1186  ls -lt
  1187  nano oper6.c
  1188  gcc oper6.c -o oper6.out
- 1189  nano oper8.c
- 1190  gcc oper8.c -o oper8.out
- 1191  ./oper8.out
- 1192  echo $?
- 1193  nano oper8.c
- 1194  gcc oper8.c -o oper8.out
+ 1189  nano oper6.c
+ 1190  gcc oper6.c -o oper6.out
+ 1191  nano oper8.c
+ 1192  gcc oper8.c -o oper8.out
+ 1193  ./oper8.out
+ 1194  echo $?
  1195  nano oper8.c
  1196  gcc oper8.c -o oper8.out
  1197  nano oper8.c
  1198  gcc oper8.c -o oper8.out
- 1199  ./oper8.out
- 1200  nano oper8.c
- 1201  gcc oper8.c -o oper8.out
- 1202  ./oper8.out
- 1203  nano oper8.c
- 1204  gcc oper8.c -o oper8.out
- 1205  ./oper8.out
- 1206  cd ..
- 1207  ./git-upload 10
- 1208  history > historycomm.txt 
+ 1199  nano oper8.c
+ 1200  gcc oper8.c -o oper8.out
+ 1201  ./oper8.out
+ 1202  nano oper8.c
+ 1203  gcc oper8.c -o oper8.out
+ 1204  ./oper8.out
+ 1205  nano oper8.c
+ 1206  gcc oper8.c -o oper8.out
+ 1207  ./oper8.out
+ 1208  cd ..
+ 1209  ./git-upload 10
+ 1210  history > historycomm.txt 
+ 1211  ./git-upload 10
+ 1212  init 0
+ 1213  opera
+ 1214  cd RTR105/\
+ 1215  cd RTR105/
+ 1216  cd home
+ 1217  cd HomeWork/
+ 1218  cd PU2_PT2/
+ 1219  ./dec2bin.out 
+ 1220  nano dec2bin.c
+ 1221  ./dec2bin.out 
+ 1222  1
+ 1223  ./dec2bin.out 
+ 1224  nano dec2bin.c
+ 1225  cd ..
+ 1226  init 0
+ 1227  cd RTR105/
+ 1228  cd Class_10
+ 1229  ls -lt
+ 1230  cat oper13
+ 1231  cat oper13.c
+ 1232  nano oper12.c
+ 1233  gcc oper12.c -o oper12.out
+ 1234  nano oper12.c
+ 1235  gcc oper12.c -o oper12.out
+ 1236  nano oper12.c
+ 1237  gcc oper12.c -o oper12.out
+ 1238  nano oper12.c
+ 1239  gcc oper12.c -o oper12.out
+ 1240  ./oper12.out 
+ 1241  nano oper12.c
+ 1242  gcc oper12.c -o oper12.out
+ 1243  ./oper12.out 
+ 1244  nano oper13.c
+ 1245  gcc oper13.c -o oper13.out
+ 1246  ./oper13.out
+ 1247  nano oper12.c
+ 1248  gcc oper12.c -o oper12.out
+ 1249  ./oper12.out
+ 1250  nano oper12.c
+ 1251  gcc oper12.c -o oper12.out
+ 1252  ./oper12.out
+ 1253  nano oper12.c
+ 1254  nano oper13.c
+ 1255  gcc oper13.c -o oper13.out
+ 1256  ./oper13.out
+ 1257  nano oper13.c
+ 1258  gcc oper13.c -o oper13.out
+ 1259  ./oper13.out
+ 1260  nano oper13.c
+ 1261  gcc oper13.c -o oper13.out
+ 1262  ./oper13.out
+ 1263  nano oper13.c
+ 1264  gcc oper13.c -o oper13.out
+ 1265  ./oper13.out
+ 1266  nano oper13.c
+ 1267  gcc oper13.c -o oper13.out
+ 1268  ./oper13.out
+ 1269  cd ..
+ 1270  ls -lt
+ 1271  mv Class_07_2 Class_07
+ 1272  ls -lt
+ 1273  cd Class_07
+ 1274  ls -lt
+ 1275  cd ..
+ 1276  cd Class_10
+ 1277  cd ..
+ 1278  mkdir Class_11
+ 1279  cd Class_11
+ 1280  nano iftest.c
+ 1281  gcc iftest.c -o iftest.out
+ 1282  nano iftest.c
+ 1283  cd ../Class_10
+ 1284  nano operation.c
+ 1285  gcc operation.c -o operation.out
+ 1286  nano operation.c
+ 1287  gcc operation.c -o operation.out
+ 1288  nano operation.c
+ 1289  gcc operation.c -o operation.out
+ 1290  nano operation.c
+ 1291  gcc operation.c -o operation.out
+ 1292  cd ..
+ 1293  history > historycomm.txt 
