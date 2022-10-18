@@ -93,3 +93,8 @@ float, double, long double-robežu vidu būs 0
 Ctrl + C - rindiņas Nr.  
 Alt + U - Undo  
 Alt + E - Redo  
+
+# Oper
+
+
+
