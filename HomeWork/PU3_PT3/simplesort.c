@@ -1,39 +1,61 @@
 #include<stdio.h>
-#include <string.h>
 
- int  main()
- {
+ int  main(){
 
-    char str1[1], str2[1], str3[1];
+    char str1, str2, str3;//Burtu argumenti
+    int a; //Secība
 
-    printf("Provide 3 values:\n");
-    scanf("%s %s %s",str1 ,str2 ,str3);
 
-    if (str1 <= str3 && str1 <= str2){
-       if(str2 <= str3){
-            printf("%s, %s, %s\n", str1, str2, str3);
-        }
-        else{
-            printf("%s, %s, %s\n", str1, str3, str2);
-        }
+    printf("Ja gribi AUGOŠĀ secībā ievadi(1) \nJa gribi DILSTOŠĀ secībā ievadi(2) \nPēc tā ievadi trīs burtus!\n");
+    scanf("%d %c %c %c",&a , &str1 ,&str2 ,&str3);
+
+  if(a == 1){
+
+    if (str1 <= str2 && str1 <= str3){   //Augoša
+       if(str2 <= str3)
+            printf("%c, %c, %c \n", str1, str2, str3);
+        else
+            printf("%c, %c, %c \n", str1, str3, str2);
     }
     else{
         if(str2 <= str1 && str2 <= str3){
-            if(str1 <= str3){
-                printf("%s, %s, %s\n", str2, str1, str3);
-            }
-            else{
-                printf("%s, %s, %s\n", str2, str3, str1);
-            }
+            if(str1 <= str3)
+                printf("%c, %c, %c \n", str2, str1, str3);
+            else
+                printf("%c, %c, %c \n", str2, str3, str1);
         }
         else{
-            if(str2 <= str1){
-                printf("%s, %s, %s\n", str3, str2, str1);
-            }
-            else{
-                printf("%s, %s, %s\n", str3, str1, str2);
+            if(str2 <= str1)
+                printf("%c, %c, %c \n", str3, str2, str1);
+            else
+                printf("%c, %c, %c \n", str3, str1, str2);
             }
         }
     }
+
+  if(a == 2){
+
+    if (str1 >= str2 && str1 >= str3){   //Dilstoša
+       if(str2 >= str3)
+            printf("%c, %c, %c \n", str1, str2, str3);
+        else
+            printf("%c, %c, %c \n", str1, str3, str2);
+    }
+    else{
+        if(str2 >= str1 && str2 >= str3){
+            if(str1 >= str3)
+                printf("%c, %c, %c \n", str2, str1, str3);
+            else
+                printf("%c, %c, %c \n", str2, str3, str1);
+        }
+        else{
+            if(str2 >= str1)
+                printf("%c, %c, %c \n", str3, str2, str1);
+            else
+                printf("%c, %c, %c \n", str3, str1, str2);
+            }
+        }
+    }
+
    return 0;
  }
