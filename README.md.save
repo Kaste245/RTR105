@@ -1,6 +1,6 @@
 # RTR105
 Datormāciba  
-Satura rāditājs  
+Satura rāditājs
 - [Saglabāšana](https://github.com/Kaste245/RTR105#saglabāt)
 - [Sakums](https://github.com/Kaste245/RTR105#sakums_linux) 
 - [Pārvietošanās](https://github.com/Kaste245/RTR105#p%C4%81rvieto%C5%A1anas)
@@ -8,29 +8,29 @@ Satura rāditājs
 - [Linux III](https://github.com/Kaste245/RTR105#linux-ii)
 - [C valoda](https://github.com/Kaste245/RTR105#c-valoda)
 - [C valoda II](https://github.com/Kaste245/RTR105#c-valoda-ii)
-- [C valoda Mainīgie](https://github.com/Kaste245/RTR105#c-valoda-mainīgie)
-- [Debug](https://github.com/Kaste245/RTR105#debug)
+- [C valoda Mainīgie](https://github.com/Kaste245/RTR105#c-valoda-mainīgie)  
+
 ## Github  
 [ text ](link)  
-Bilde ![ text ](links)
+Bilde ![ text ](links)  
 
 ## Sakums_linux  
 
 Ctrl + alt + T  
 Ctrl + shift + T  
 Ctrl + alt + F1-F7  
-Shift + ins  
-cp - kopēt  
+Shift + ins
+cp - copy   
 
 ## Saglabāt  
 git clone  
 git config --global user.name.email  
 git commit -m "name"  
 git push origin main  
-git pull  
+git pull   
 
 # Pārvietošanas 
-~ - Sakums   
+~ - Sakums  
 pwd - kur atrodies    
 ls -alt  
 man- komandas  
@@ -95,11 +95,16 @@ Ctrl + C - rindiņas Nr.
 Alt + U - Undo  
 Alt + E - Redo  
 
+# Lietotāja funkcija
+
 # Debug
-gcc -g name - atvert  
-info break - informacija par break pointiem  
-b line, funkcija - ievietot break pointu  
-c - nakamo break point  
-r - runnot programmu  
+gcc -g name  
+gdb name  
+b funcijas vards vai rindinas ciparu - break point  
+info break - break point apstāšanas vietas  
+d - izdzēst  
+run  
+s - solis uz priekšu  
+c - lidz nakamajai apstāšanais vietai  
 q - quit  
-d - dzēst break pointus  
+
