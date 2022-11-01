@@ -94,7 +94,3 @@ Ctrl + C - rindiņas Nr.
 Alt + U - Undo  
 Alt + E - Redo  
 
-# Oper
-
-
-

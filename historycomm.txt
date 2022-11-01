@@ -1,1000 +1,291 @@
-  294  mv -help
-  295  Class-07
-  296  man mv
-  297  mkdir Class_07
-  298  pwd -lt
-  299  ls lt
-  300  ls -lt
-  301  cd Class_07
-  302  nano
-  303  cat print.c 
-  304  gcc print.c 
-  305  cat print.c 
-  306  gcc print.c -save-temps -o print.out
-  307  cat print.c
-  308  cd .
-  309  cat test.out
-  310  cd  ..
-  311  cat test.
-  312  cat test.out
-  313  cat test.c
-  314  cd Class_07
-  315  nano scanf.c
-  316  ls -lt
-  317  gcc scanf.c 
-  318  cat a.out
-  319  ls -lt
-  320  print.out
-  321  print.c
-  322  cd print.out
-  323  cat print.out
-  324  echo $?
-  325  ls -lt
-  326  gcc scnaf.c -same-temps -0 scanf.out
-  327  gcc scnaf.c -save-temps -0 scanf.out
-  328  gcc print.out
-  329  echo $?
-  330  ls -lt
-  331  gcc scnaf.c -save-temps -o scanf.out
-  332  gcc scanf.c -save-temps -o scanf.out
-  333  gcc ./print.out
-  334  ls -lt
-  335  gcc ./print.out
-  336  gcc ./print.c
-  337  ls -lt
-  338  echo $?
-  339  gcc ./scanf.c
-  340  echo $?
-  341  rm -f scanf.out
-  342  ls -lt
-  343  rm -f scanf.out-scanf.o
-  344  rm -f scanf.out-scanf.s
-  345  rm -f scanf.out-scanf.i
-  346  ls -lt
-  347  rm -f scanf.out-scanf.i
-  348  ls -lt
-  349  rm -f scanf.out-scanf.l
-  350  rm -f scanf.c
-  351  ls -lt
-  352  rm scanf.out-scnaf.i 
-  353  ls -lt
-  354  gcc print.c -save-temps -o print.out
-  355  ls -lt
-  356  gcc ./print.c
-  357  gcc ./a.out
-  358  cd ..
-  359  mkdir Class_072
-  360  cd Class_072
-  361  nano scanf.c
-  362  gcc scanf.c -save-temps -o scanf.out
-  363  gcc ./scanf.c
-  364  cd ..
-  365  history > history_1309.txt 
-  366  ./git-upload 
-  367  ./git-upload 7
-  368  init 0
-  369  cd RTR105/
-  370  nano README.md
-  371  firefox &
-  372  cd RTR105/
-  373  ./git-upload 
-  374  nano README.md
-  375  ./git-upload 
-  376  git pull
-  377  ./git-upload 
-  378  cd ..
-  379  git pull
-  380  git pull RTR105/
-  381  ls -lt
-  382  cd RTR105/
-  383  ls -lt
-  384  cd Class_07
-  385  gcc a.out
-  386  ls -lt
-  387  gcc print.out
-  388  gcc a.out
-  389  gcc ./a.out
-  390  gcc ./print.out
-  391  cd ..
-  392  ./git-upload 
-  393  git push --help
-  394  git pull --all
-  395  ./git-upload 
-  396  cd RTR105/
-  397  nano README.md
-  398  ./git-upload 7
-  399  cat README.md
-  400  nano README.md
-  401  ./git-upload 
-  402  firefox &
-  403  rm -rf RTR105/
-  404  git clone https://github.com/Kaste245/RTR105
-  405  cd RTR105/
-  406  mkdir Class_07
-  407  cd Class_07
-  408  nano print.c
-  409  gcc print.c 
-  410  gcc -save-temps -o print.out
-  411  ls -lt
-  412  gcc print.c -o print.out 
-  413  ls -lt
-  414  ./print.out 
-  415  cd ..
-  416  mkdir Class_072
-  417  nano scanf.c
-  418  gcc scanf.c -o scanf.out
-  419  ls -lt
-  420  rm scanf.out
-  421  rm scanf.c
-  422  cd Class_072\
-  423  cd Class_072
-  424  nano scanf.c
-  425  gcc scanf.c -o scanf.out
-  426  ./scanf.out 
-  427  cs ..
-  428  cd ..
-  429  ./git-upload 
-  430  nano README.md 
-  431  history >history_1309.txt 
-  432  ./git-upload 
-  433  init 0
-  434  cd RTR105/
-  435  ./git-upload 
-  436  ls -lt
-  437  cd Class_06
-  438  ls -lt
-  439  cd ..
-  440  cat history_1309.txt 
-  441  ./git-upload 8
-  442  git pull
-  443  git config pull.ff
-  444  ./git-upload 8
-  445  cd Class_07
-  446  gcc ./print.out
-  447  gcc ./a.out
-  448  cd ..
-  449  cd Class_072
-  450  gcc ./scanf.out
-  451  nano scanf.c
-  452  cd ..
-  453  ./git-upload 8
-  454  rm -rf Class_07
-  455  rm -rf Class_072
-  456  ls -lt
-  457  ./git-upload 8
-  458  cd ..
-  459  firefox &
-  460  cd RTR105/
-  461  mkdir Class_073
-  462  cd Class_073
-  463  rmdir Class_073
-  464  rm Class_073
-  465  cd ..
-  466  rm Class_073
-  467  rm -rf Class_073
-  468  ls -lt
-  469  mkdir Class_08
-  470  nano README.md 
-  471  cd ..
-  472  cd Class_0
-  473  cd Class_08
-  474  cd ..
-  475  cd Class_07
-  476  nano print.c
-  477  cs Class_08
-  478  cd Class_08
-  479  cd ..
-  480  cd Class_07
-  481  nano print.c
-  482  cd ..
-  483  cd Class_08
-  484  cd ..
-  485  mv Class_08 Class_082
-  486  ls -lt
-  487  mv Class_082 Class_08
-  488  ls -lt
-  489  cd Class_072
-  490  ./scanf.out 
-  491  echo $?
-  492  cs ..
-  493  cd ..
-  494  cd Class_08
-  495  ls -lt
-  496  nano backslashes.c
-  497  gcc backslashes.c -o backslashes.out
-  498  nano backslashes.c
-  499  gcc backslashes.c -o backslashes.out
-  500  nano backslashes.c
-  501  gcc backslashes.c -o backslashes.out
-  502  nano backslashes.c
-  503  gcc backslashes.c -o backslashes.out
-  504  ./backslashes.out 
-  505  nano backslashes.c
-  506  gcc backslashes.c -o backslashes.out
-  507  nano backslashes.c
-  508  gcc backslashes.c -o backslashes.out
-  509  nano backslashes.c
-  510  gcc backslashes.c -o backslashes.out
-  511  ./backslashes.out 
-  512  nano backslashes.c
-  513  gcc backslashes.c -o backslashes.out
-  514  ./backslashes.out 
-  515  nano backslashes.c
-  516  gcc backslashes.c -o backslashes.out
-  517  cd ..
-  518  ./git-upload 8
-  519  init 0
-  520  ./git-upload 
-  521  mv homeworks/ HomeWorks
-  522  ls -lt
-  523  cd HomeWorks/
-  524  cd PU1_PT1/
-  525  ./multiply.out 
-  526  nano multiply.c
-  527  ./multiply.out 
-  528  cd ..
-  529  nano README.md 
-  530  ./git-upload 
-  531  mv Class_072 Class_07_2
-  532  mv HomeWorks/ HomeWork
-  533  ls -lt
-  534  nano README.md 
-  535  ./git-upload 
-  536  init 0
-  537  ls -lt
-  538  cd RTR105/
-  539  mkdir homeworks
-  540  cd homeworks/
-  541  mkdir PU1_PT1
-  542  cd PU1_PT1/
-  543  nano multiply.c
-  544  gcc multiply.c -o multiply.out
-  545  ./multiply.out 
-  546  nano multiply.c
-  547  gcc multiply.c -o multiply.out
-  548  ./multiply.out 
-  549  nano multiply.c
-  550  gcc multiply.c -o multiply.out
-  551  nano multiply.c
-  552  gcc multiply.c -o multiply.out
-  553  nano multiply.c
-  554  gcc multiply.c -o multiply.out
-  555  nano multiply.c
-  556  gcc multiply.c -o multiply.out
-  557  nano multiply.c
-  558  gcc multiply.c -o multiply.out
-  559  nano multiply.c
-  560  gcc multiply.c -o multiply.out
-  561  ./multiply.out 
-  562  100 200
-  563  ./multiply.out 
-  564  nano multiply.c
-  565  ./multiply.out 
-  566  echo $?
-  567  ./multiply.out 
-  568  echo $?
-  569  ./multiply.out 
-  570  cd ..
-  571  cd Class_07
-  572  nano print.c
-  573  cd ..
-  574  cd Class_072
-  575  cd scanf.c
-  576  ls -lt
-  577  nano scanf.c
-  578  cd ..
-  579  cd homeworks/
-  580  cd PU1_PT1/
-  581  nano multiply.c
-  582  ./multiply.out 
-  583  cd ..
-  584  ./git-upload 
-  585  firefox &
-  586  opera &
-  587  ls -lt
-  588  nano git-upload 
-  589  ./git-upload 
-  590  cat history_1309.txt 
-  591  nano git-upload 
-  592  history > history_1309.txt 
-  593  cat history_1309.txt 
-  594  ./git-upload 
-  595  ls -lt
-  596  ./
-  597  ./git-upload 
-  598  init 0
-  599  cd RTR105/
-  600  nano git-upload 
-  601  ls -lt
-  602  ./git-upload 
-  603  git help
-  604  nano git-upload 
-  605  ./git-upload 
-  606  history > history_1309.txt 
-  607  echo $
-  608  echo $?
-  609  nano git-upload 
-  610  cat history_1309.txt 
-  611  ./git-upload 
-  612  ls -lt
-  613  ./git-upload 
-  614  history > history_1309.txt 
-  615  cat history_1309.txt 
-  616  ./git-upload 
-  617  cat history_1309.txt 
-  618  nano history_1309.txt 
-  619  history
-  620  history > history_1309.txt 
-  621  cat history_1309.txt 
-  622  cd Class_09
-  623  nano char_data_type_test.c
-  624  gcc char_data_type_test.c -o char_data_type_test.out
-  625  nano char_data_type_test.c
-  626  gcc char_data_type_test.c -o char_data_type_test.out
-  627  nano char_data_type_test.c
-  628  gcc char_data_type_test.c -o char_data_type_test.out
-  629  ./ char_data_type_test.out
-  630  ./char_data_type_test.out
-  631  nano char_data_type_test.c
-  632  echo $0
-  633  echo $?
-  634  nano char_data_type_test.c
-  635  ls -lt
-  636  nano char_data_type_test.c
-  637  fg
-  638  nano char_data_type_test.c
-  639  gcc char_data_type_test.c -o char_data_type_test.out
-  640  ./char_data_type_test.out 
-  641  nano char_data_type_test.c
-  642  gcc char_data_type_test.c -o char_data_type_test.out
-  643  ./char_data_type_test.out 
-  644  nano char_data_type_test.c
-  645  gcc char_data_type_test.c -o char_data_type_test.out
-  646  nano char_data_type_test.c
-  647  gcc char_data_type_test.c -o char_data_type_test.out
-  648  ./char_data_type_test.out 
-  649  nano char_data_type_test.c
-  650  gcc char_data_type_test.c -o char_data_type_test.out
-  651  ./char_data_type_test.out 
-  652  nano char_data_type_test.c
-  653  cd ..
-  654  history > history_1309.txt 
-  655  ./git-upload 
-  656  init 0
-  657  cd RTR105/
-  658  mkdir Class_09
-  659  cd Class_09
-  660  cd ..
-  661  nano README.md 
-  662  opera &
-  663  cd RTR105/
-  664  cd Class_09
-  665  nano char_data_type_test.c
-  666  gcc char_data_type_test.c -o char_data_type_test.out
-  667  nano char_data_type_test.c
-  668  gcc char_data_type_test.c -o char_data_type_test.out
-  669  nano char_data_type_test.c
-  670  gcc char_data_type_test.c -o char_data_type_test.out
-  671  ./char_data_type_test.out 
-  672  nano char_data_type_test.c
-  673  ./char_data_type_test.out 
-  674  gcc char_data_type_test.c -o char_data_type_test.out
-  675  nano char_data_type_test.c
-  676  gcc char_data_type_test.c -o char_data_type_test.out
-  677  ./char_data_type_test.out 
-  678  nano char_data_type_test.c
-  679  gcc char_data_type_test.c -o char_data_type_test.out
-  680  nano char_data_type_test.c
-  681  gcc char_data_type_test.c -o char_data_type_test.out
-  682  ./char_data_type_test.out 
-  683  cd ..
-  684  ./git-upload 9
-  685  nano git-upload 
-  686  ./git-upload 9
-  687  cat history_1309.txt 
-  688  ./git-upload 9
-  689  cat history_1309.txt 
-  690  ls -lt
-  691  cat history_1309.txt 
-  692  ./git-upload 9
-  693  cat history_1309.txt 
-  694  nano git-upload 
-  695  ./git-upload 9
-  696  cat history_1309.txt 
-  697  nano git-upload 
-  698  ./git-upload 9
-  699  cat history_1309.txt 
-  700  nano git-upload 
-  701  history > history_1309.txt 
-  702  cat history_1309.txt 
-  703  ./git-upload 9
-  704  init 0
-  705  cd ..
-  706  ls -lt
-  707  cat spec-var 
-  708  cd Class_06
-  709  ls -lt
-  710  cat first.c
-  711  cd ..
-  712  cd Class_07
-  713  ls -lt
-  714  cat print.c
-  715  ./ print.out
-  716  ./print.out 
-  717  cd ..
-  718  cd HomeWork/
-  719  cd PU2
-  720  cd PU2_PT2/
-  721  nano dec2bin.c
-  722  gcc dec2bin.c -0 dec2bin.out
-  723  gcc dec2bin.c -o dec2bin.out
-  724  nano dec2bin.c
-  725  gcc dec2bin.c -o dec2bin.out
-  726  nano dec2bin.c
-  727  gcc dec2bin.c -o dec2bin.out
-  728  ./dec2bin.out 
-  729  nano dec2bin.c
-  730  gcc dec2bin.c -o dec2bin.out
-  731  nano dec2bin.c
-  732  gcc dec2bin.c -o dec2bin.out
-  733  ./dec2bin.out 
-  734  nano dec2bin.c
-  735  gcc dec2bin.c -o dec2bin.out
-  736  ./dec2bin.out 
-  737  nano dec2bin.c
-  738  gcc dec2bin.c -o dec2bin.out
-  739  ./dec2bin.out 
-  740  nano dec2bin.c
-  741  gcc dec2bin.c -o dec2bin.out
-  742  ./dec2bin.out 
-  743  gcc dec2bin.c -o dec2bin.out
-  744  nano dec2bin.c
-  745  gcc dec2bin.c -o dec2bin.out
-  746  ./dec2bin.out 
-  747  nano dec2bin.c
-  748  gcc dec2bin.c -o dec2bin.out
-  749  ./dec2bin.out 
-  750  nano dec2bin.c
-  751  gcc dec2bin.c -o dec2bin.out
-  752  ./dec2bin.out 
-  753  nano dec2bin.c
-  754  gcc dec2bin.c -o dec2bin.out
-  755  ./dec2bin.out 
-  756  nano dec2bin.c
-  757  gcc dec2bin.c -o dec2bin.out
-  758  nano dec2bin.c
-  759  gcc dec2bin.c -o dec2bin.out
-  760  nano dec2bin.c
-  761  gcc dec2bin.c -o dec2bin.out
-  762  nano dec2bin.c
-  763  gcc dec2bin.c -o dec2bin.out
-  764  ./dec2bin.out 
-  765  gcc dec2bin.c -o dec2bin.out
-  766  nano dec2bin.c
-  767  gcc dec2bin.c -o dec2bin.out
-  768  ./dec2bin.out 
-  769  nano dec2bin.c
-  770  ./dec2bin.out 
-  771  gcc dec2bin.c -o dec2bin.out
-  772  ./dec2bin.out 
-  773  nano dec2bin.c
-  774  gcc dec2bin.c -o dec2bin.out
-  775  nano dec2bin.c
-  776  gcc dec2bin.c -o dec2bin.out
-  777  ./dec2bin.out 
-  778  ./dec2bin.out 50
-  779  255
-  780  ./dec2bin.out 50
-  781  ./dec2bin.out 
-  782  nano dec2bin.c
-  783  gcc dec2bin.c -o dec2bin.out
-  784  ./dec2bin.out 
-  785  nano dec2bin.c
-  786  gcc dec2bin.c -o dec2bin.out
-  787  ./dec2bin.out 
-  788  nano dec2bin.c
-  789  gcc dec2bin.c -o dec2bin.out
-  790  ./dec2bin.out 
-  791  nano dec2bin.c
-  792  gcc dec2bin.c -o dec2bin.out
-  793  ./dec2bin.out 
-  794  nano dec2bin.c
-  795  gcc dec2bin.c -o dec2bin.out
-  796  nano dec2bin.c
-  797  gcc dec2bin.c -o dec2bin.out
-  798  ./dec2bin.out 
-  799  nano dec2bin.c
-  800  gcc dec2bin.c -o dec2bin.out
-  801  ./dec2bin.out 
-  802  ./dec2bin.out -1
-  803  nano dec2bin.c
-  804  gcc dec2bin.c -o dec2bin.out
-  805  ./dec2bin.out 
-  806  255
-  807  ./dec2bin.out 
-  808  nano dec2bin.c
-  809  gcc dec2bin.c -o dec2bin.out
-  810  ./dec2bin.out 
-  811  nano dec2bin.c
-  812  gcc dec2bin.c -o dec2bin.out
-  813  nano dec2bin.c
-  814  ./dec2bin.out 
-  815  nano dec2bin.c
-  816  gcc dec2bin.c -o dec2bin.out
-  817  ./dec2bin.out 
-  818  nano dec2bin.c
-  819  gcc dec2bin.c -o dec2bin.out
-  820  ./dec2bin.out 
-  821  nano dec2bin.c
-  822  gcc dec2bin.c -o dec2bin.out
-  823  ./dec2bin.out 
-  824  nano dec2bin.c
-  825  gcc dec2bin.c -o dec2bin.out
-  826  ./dec2bin.out 
-  827  nano dec2bin.c
-  828  ./dec2bin.out 
-  829  8
-  830  ./dec2bin.out 
-  831  a
-  832  ./dec2bin.out 
-  833  cd ..
-  834  ./git-upload 9home
-  835  history >history_1309.txt 
-  836  cat history_1309.txt 
-  837  ./git-upload 9home
-  838  init 0
-  839  cd RTR105/
-  840  ls -lt
-  841  cd HomeWork/
-  842  ls -lt
-  843  mkdir PU2/PT2
-  844  cd PU1_PT1/
-  845  ls -lt
-  846  cd ..
-  847  cd PU2
-  848  ls -lt
-  849  mkdir PU2_PT2
-  850  cd PU2_PT2/
-  851  nano dec2bin.c
-  852  gcc dec2bin.c -o dec2bin.out
-  853  nano dec2bin.c
-  854  gcc dec2bin.c -o dec2bin.out
-  855  nano dec2bin.c
-  856  gcc dec2bin.c -o dec2bin.out
-  857  nano dec2bin.c
-  858  gcc dec2bin.c -o dec2bin.out
-  859  nano dec2bin.c
-  860  gcc dec2bin.c -o dec2bin.out
-  861  nano dec2bin.c
-  862  gcc dec2bin.c -o dec2bin.out
-  863  nano dec2bin.c
-  864  gcc dec2bin.c -o dec2bin.out
-  865  nano dec2bin.c
-  866  gcc dec2bin.c -o dec2bin.out
-  867  nano dec2bin.c
-  868  gcc dec2bin.c -o dec2bin.out
-  869  ./dec2bin.out 
-  870  32
-  871  ./dec2bin.out 
-  872  255
-  873  ./dec2bin.out 
-  874  gcc dec2bin.c -o dec2bin.out
-  875  nano dec2bin.c
-  876  gcc dec2bin.c -o dec2bin.out
-  877  ./dec2bin.out 
-  878  255
-  879  ./dec2bin.out 
-  880  127
-  881  ./dec2bin.out 
-  882  nano dec2bin.c
-  883  gcc dec2bin.c -o dec2bin.out
-  884  ./dec2bin.out 
-  885  nano dec2bin.c
-  886  gcc dec2bin.c -o dec2bin.out
-  887  ./dec2bin.out 
-  888  nano dec2bin.c
-  889  ./dec2bin.out 
-  890  nano dec2bin.c
-  891  gcc dec2bin.c -o dec2bin.out
-  892  ./dec2bin.out 
-  893  nano dec2bin.c
-  894  gcc dec2bin.c -o dec2bin.out
-  895  ./dec2bin.out 
-  896  10
-  897  ./dec2bin.out 
-  898  nano dec2bin.c
-  899  gcc dec2bin.c -o dec2bin.out
-  900  ./dec2bin.out 
-  901  nano dec2bin.c
-  902  gcc dec2bin.c -o dec2bin.out
-  903  ./dec2bin.out 
-  904  echo $?
-  905  ./dec2bin.out 
-  906  nano dec2bin.c
-  907  gcc dec2bin.c -o dec2bin.out
-  908  ./dec2bin.out 
-  909  nano dec2bin.c
-  910  gcc dec2bin.c -o dec2bin.out
-  911  nano dec2bin.c
-  912  gcc dec2bin.c -o dec2bin.out
-  913  ./dec2bin.out 
-  914  echo $?
-  915  nano dec2bin.c
-  916  gcc dec2bin.c -o dec2bin.out
-  917  ./dec2bin.out 
-  918  nano dec2bin.c
-  919  gcc dec2bin.c -o dec2bin.out
-  920  ./dec2bin.out 
-  921  nano dec2bin.c
-  922  gcc dec2bin.c -o dec2bin.out
-  923  ./dec2bin.out 
-  924  nano dec2bin.c
-  925  gcc dec2bin.c -o dec2bin.out
-  926  ./dec2bin.out 
-  927  nano dec2bin.c
-  928  gcc dec2bin.c -o dec2bin.out
-  929  ./dec2bin.out 
-  930  nano dec2bin.c
-  931  gcc dec2bin.c -o dec2bin.out
-  932  ./dec2bin.out 
-  933  nano dec2bin.c
-  934  gcc dec2bin.c -o dec2bin.out
-  935  ./dec2bin.out 
-  936  nano dec2bin.c
-  937  gcc dec2bin.c -o dec2bin.out
-  938  ./dec2bin.out 
-  939  nano dec2bin.c
-  940  gcc dec2bin.c -o dec2bin.out
-  941  ./dec2bin.out 
-  942  nano dec2bin.c
-  943  gcc dec2bin.c -o dec2bin.out
-  944  ./dec2bin.out 
-  945  nano dec2bin.c
-  946  gcc dec2bin.c -o dec2bin.out
-  947  nano dec2bin.c
-  948  gcc dec2bin.c -o dec2bin.out
-  949  nano dec2bin.c
-  950  gcc dec2bin.c -o dec2bin.out
-  951  nano dec2bin.c
-  952  gcc dec2bin.c -o dec2bin.out
-  953  ./dec2bin.out 
-  954  nano dec2bin.c
-  955  ./dec2bin.out 
-  956  nano dec2bin.
-  957  nano dec2bin.c
-  958  gcc dec2bin.c -o dec2bin.out
-  959  nano dec2bin.c
-  960  gcc dec2bin.c -o dec2bin.out
-  961  nano dec2bin.c
-  962  gcc dec2bin.c -o dec2bin.out
-  963  ./dec2bin.out 
-  964  255
-  965  ./dec2bin.out 
-  966  nano dec2bin.c
-  967  gcc dec2bin.c -o dec2bin.out
-  968  ./dec2bin.out c
-  969  ./dec2bin.out 
-  970  nano dec2bin.c
-  971  gcc dec2bin.c -o dec2bin.out
-  972  ./dec2bin.out 
-  973  nano dec2bin.c
-  974  gcc dec2bin.c -o dec2bin.out
-  975  nano dec2bin.c
-  976  gcc dec2bin.c -o dec2bin.out
-  977  ./dec2bin.out 
-  978  nano dec2bin.c
-  979  gcc dec2bin.c -o dec2bin.out
-  980  ./dec2bin.out 
-  981  nano dec2bin.c
-  982  gcc dec2bin.c -o dec2bin.out
-  983  ./dec2bin.out 
-  984  nano dec2bin.c
-  985  ./dec2bin.out 
-  986  nano dec2bin.c
-  987  ./dec2bin.out 
-  988  nano dec2bin.c
-  989  gcc dec2bin.c -o dec2bin.out
-  990  ./dec2bin.out 
-  991  echo $?
-  992  gcc dec2bin.c -o dec2bin.out
-  993  nano dec2bin.c
-  994  gcc dec2bin.c -o dec2bin.out
-  995  ./dec2bin.out 
-  996  nano dec2bin.c'
-  997  nano dec2bin.c
-  998  gcc dec2bin.c -o dec2bin.out
-  999  nano dec2bin.c
- 1000  gcc dec2bin.c -o dec2bin.out
- 1001  ./dec2bin.out 
- 1002  nano dec2bin.c
- 1003  ./dec2bin.out 
- 1004  nano dec2bin.c
- 1005  gcc dec2bin.c -o dec2bin.out
- 1006  nano dec2bin.c
- 1007  gcc dec2bin.c -o dec2bin.out
- 1008  nano dec2bin.c
- 1009  gcc dec2bin.c -o dec2bin.out
- 1010  nano dec2bin.c
- 1011  gcc dec2bin.c -o dec2bin.out
- 1012  ./dec2bin.out 
- 1013  nano dec2bin.c
- 1014  gcc dec2bin.c -o dec2bin.out
- 1015  nano dec2bin.c
- 1016  ./dec2bin.out 
- 1017  nano dec2bin.c
- 1018  gcc dec2bin.c -o dec2bin.out
- 1019  ./dec2bin.out 
- 1020  nano dec2bin.c
- 1021  gcc dec2bin.c -o dec2bin.out
- 1022  ./dec2bin.out 
- 1023  nano dec2bin.c
- 1024  ./dec2bin.out 
- 1025  gcc dec2bin.c -o dec2bin.out
- 1026  ./dec2bin.out 
- 1027  cd ..
- 1028  cd Class_09
- 1029  ls -lt
- 1030  nano char_data_type_test.c
- 1031  ./char_data_type_test.out 
- 1032  nano char_data_type_test.c
- 1033  opera &
- 1034  cd RTR105/
- 1035  nano README.md 
- 1036  ./git-upload home
- 1037  nano README.md 
- 1038  init 0
- 1039  opera
- 1040  cd RTR105/
- 1041  ls -kt
- 1042  ls -lt
- 1043  init 0
- 1044  cd RTR105/
- 1045  ls -lt
- 1046  mv history_1309.txt historycomm.txt
- 1047  ls -lt
- 1048  cat historycomm.txt 
- 1049  ls -lt
- 1050  cat git-upload 
- 1051  ./git-upload h
- 1052  opera
- 1053  init 0
- 1054  cd RTR105/
- 1055  nano README.md 
- 1056  cd RTR105/
- 1057  mkdir Class_10
- 1058  cd Class_10
- 1059  nano operation.c
- 1060  gcc operation.c 
- 1061  nano operation.c
- 1062  gcc operation.c 
- 1063  ./a.out 
- 1064  nano operation.c
- 1065  nano oper2.c
- 1066  nano operation.c
- 1067  nano oper2.c
- 1068  gcc oper2.c -0 oper2.out
- 1069  gcc oper2.c -o oper2.out
- 1070  ./oper2.out 
- 1071  gcc operation.c -o operation.out
- 1072  nano oper3.c
- 1073  nano oper2.c
- 1074  gcc oper2.c -o oper2.out
- 1075  gcc oper3.c -o oper3.out
- 1076  ./operation.out 
- 1077  ./oper2.out 
- 1078  ./oper3.out 
- 1079  nano oper4.c
- 1080  nano oper5.c
- 1081  nano oper6.c
- 1082  nano oper7.c
- 1083  nano oper8.c
- 1084  nano operation.c
- 1085  nano oper9.c
- 1086  nano oper10.c
- 1087  nano oper11.c
- 1088  nano oper12.c
- 1089  nano oper13.c
- 1090  nano opration.c
- 1091  nano operation.c
- 1092  gcc oper3.c -o oper3.out
- 1093  gcc oper4.c -o oper4.out
- 1094  gcc oper5.c -o oper5.out
- 1095  gcc oper6.c -o oper6.out
- 1096  gcc oper7.c -o oper7.out
- 1097  gcc oper8.c -o oper8.out
- 1098  gcc oper9.c -o oper9.out
- 1099  nano oper8.c 
- 1100  nano oper9.c 
- 1101  rm -f oper9.c
- 1102  nano oper4.c
- 1103  nano oper3.c
- 1104  nano oper5.c
- 1105  nano oper6.c
- 1106  nano oper7.c
- 1107  nano oper8.c
- 1108  nano oper10.c
- 1109  nano oper11.c
- 1110  nano oper12.c
- 1111  nano oper13.c
- 1112  gcc oper2.c -o oper2.out
- 1113  gcc oper3.c -o oper3.out
- 1114  gcc oper4.c -o oper4.out
- 1115  gcc oper5.c -o oper5.out
- 1116  gcc oper5.c -o oper6.out
- 1117  gcc oper5.c -o oper5.out
- 1118  gcc oper6.c -o oper6.out
- 1119  gcc oper7.c -o oper7.out
- 1120  gcc oper8.c -o oper8.out
- 1121  gcc oper10.c -o oper10.out
- 1122  gcc oper11.c -o oper11.out
- 1123  gcc oper12.c -o oper12.out
- 1124  gcc oper13.c -o oper13.out
- 1125  nano oper4.c
- 1126  gcc oper4.c -o oper4.out
- 1127  nano oper4.c
- 1128  gcc oper4.c -o oper4.out
- 1129  nano oper4.c
- 1130  gcc oper4.c -o oper4.out
- 1131  nano oper2.c
- 1132  nano oper4.c
- 1133  gcc oper4.c -o oper4.out
- 1134  gcc oper8.c -o oper8.out
- 1135  nano oper8.c
- 1136  nano oper4.c
- 1137  gcc oper4.c -o oper4.out
- 1138  nano oper4.c
- 1139  gcc oper4.c -o oper4.out
- 1140  nano oper4.c
- 1141  gcc oper4.c -o oper4.out
- 1142  nano oper4.c
- 1143  gcc oper4.c -o oper4.out
- 1144  gcc oper8.c -o oper8.out
- 1145  nano oper8.c
- 1146  gcc oper8.c -o oper8.out
- 1147  nano oper8.c
- 1148  gcc oper8.c -o oper8.out
- 1149  nano oper8.c
- 1150  gcc oper8.c -o oper8.out
- 1151  nano oper8.c
- 1152  gcc oper8.c -o oper8.out
- 1153  nano oper8.c
- 1154  gcc oper8.c -o oper8.out
- 1155  nano oper8.c
- 1156  gcc oper8.c -o oper8.out
- 1157  nano oper8.c
- 1158  gcc oper8.c -o oper8.out
- 1159  nano oper8.c
- 1160  gcc oper8.c -o oper8.out
- 1161  nano oper8.c
- 1162  gcc oper8.c -o oper8.out
- 1163  nano oper8.c
- 1164  gcc oper8.c -o oper8.out
- 1165  nano oper8.c
- 1166  gcc oper8.c -o oper8.out
- 1167  nano oper8.c
- 1168  ./oper2.out 
- 1169  ./oper3.out 
- 1170  ./oper4.out 
- 1171  ./oper5.out 
- 1172  ./oper6.out 
- 1173  ./oper7.out 
- 1174  ./oper8.out 
- 1175  ./oper10.out 
- 1176  ./oper11.out 
- 1177  ./oper12.out 
- 1178  ./oper13.out 
- 1179  nano oper5.c
- 1180  gcc oper5.c -o oper5.out
- 1181  /oper5.out
- 1182  ./oper5.out
- 1183  nano oper6.c
- 1184  gcc oper6.c -o oper6.out
- 1185  ./oper6.out
- 1186  ls -lt
- 1187  nano oper6.c
- 1188  gcc oper6.c -o oper6.out
- 1189  nano oper6.c
- 1190  gcc oper6.c -o oper6.out
- 1191  nano oper8.c
- 1192  gcc oper8.c -o oper8.out
- 1193  ./oper8.out
- 1194  echo $?
- 1195  nano oper8.c
- 1196  gcc oper8.c -o oper8.out
- 1197  nano oper8.c
- 1198  gcc oper8.c -o oper8.out
- 1199  nano oper8.c
- 1200  gcc oper8.c -o oper8.out
- 1201  ./oper8.out
- 1202  nano oper8.c
- 1203  gcc oper8.c -o oper8.out
- 1204  ./oper8.out
- 1205  nano oper8.c
- 1206  gcc oper8.c -o oper8.out
- 1207  ./oper8.out
- 1208  cd ..
- 1209  ./git-upload 10
- 1210  history > historycomm.txt 
- 1211  ./git-upload 10
- 1212  init 0
- 1213  opera
- 1214  cd RTR105/\
- 1215  cd RTR105/
- 1216  cd home
- 1217  cd HomeWork/
- 1218  cd PU2_PT2/
- 1219  ./dec2bin.out 
- 1220  nano dec2bin.c
- 1221  ./dec2bin.out 
- 1222  1
- 1223  ./dec2bin.out 
- 1224  nano dec2bin.c
- 1225  cd ..
- 1226  init 0
- 1227  cd RTR105/
- 1228  cd Class_10
- 1229  ls -lt
- 1230  cat oper13
- 1231  cat oper13.c
- 1232  nano oper12.c
- 1233  gcc oper12.c -o oper12.out
- 1234  nano oper12.c
- 1235  gcc oper12.c -o oper12.out
- 1236  nano oper12.c
- 1237  gcc oper12.c -o oper12.out
- 1238  nano oper12.c
- 1239  gcc oper12.c -o oper12.out
- 1240  ./oper12.out 
- 1241  nano oper12.c
- 1242  gcc oper12.c -o oper12.out
- 1243  ./oper12.out 
- 1244  nano oper13.c
- 1245  gcc oper13.c -o oper13.out
- 1246  ./oper13.out
- 1247  nano oper12.c
- 1248  gcc oper12.c -o oper12.out
- 1249  ./oper12.out
- 1250  nano oper12.c
- 1251  gcc oper12.c -o oper12.out
- 1252  ./oper12.out
- 1253  nano oper12.c
- 1254  nano oper13.c
- 1255  gcc oper13.c -o oper13.out
- 1256  ./oper13.out
- 1257  nano oper13.c
- 1258  gcc oper13.c -o oper13.out
- 1259  ./oper13.out
- 1260  nano oper13.c
- 1261  gcc oper13.c -o oper13.out
- 1262  ./oper13.out
- 1263  nano oper13.c
- 1264  gcc oper13.c -o oper13.out
- 1265  ./oper13.out
- 1266  nano oper13.c
- 1267  gcc oper13.c -o oper13.out
- 1268  ./oper13.out
- 1269  cd ..
- 1270  ls -lt
- 1271  mv Class_07_2 Class_07
- 1272  ls -lt
- 1273  cd Class_07
- 1274  ls -lt
- 1275  cd ..
- 1276  cd Class_10
- 1277  cd ..
- 1278  mkdir Class_11
- 1279  cd Class_11
- 1280  nano iftest.c
- 1281  gcc iftest.c -o iftest.out
- 1282  nano iftest.c
- 1283  cd ../Class_10
- 1284  nano operation.c
- 1285  gcc operation.c -o operation.out
- 1286  nano operation.c
- 1287  gcc operation.c -o operation.out
- 1288  nano operation.c
- 1289  gcc operation.c -o operation.out
- 1290  nano operation.c
- 1291  gcc operation.c -o operation.out
- 1292  cd ..
- 1293  history > historycomm.txt 
+    1  gcc
+    2  sudo apt install gcc
+    3  sudo apt install mc
+    4  git clone https://github.com/Kaste245/RTR105
+    5  sudo apt install git
+    6  git clone https://github.com/Kaste245/RTR105
+    7  cd RTR105/
+    8  ls -lt
+    9  opera
+   10  cd RTR105/
+   11  nano README.md 
+   12  init 0
+   13  oper
+   14  opera 
+   15  cd ../HomeWork/PU4_PT4/
+   16  nano whilefac.c
+   17  gcc whilefac.c -o whilefac.out
+   18  ./whilefac.out 
+   19  nano whilefac.c
+   20  gcc whilefac.c -o whilefac.out
+   21  ./whilefac.out 
+   22  nano whilefac.c
+   23  gcc whilefac.c -o whilefac.out
+   24  ./whilefac.out 
+   25  nano whilefac.c
+   26  gcc whilefac.c -o whilefac.out
+   27  ./whilefac.out 
+   28  nano whilefac.c
+   29  gcc whilefac.c -o whilefac.out
+   30  ./whilefac.out 
+   31  nano whilefac.c
+   32  gcc whilefac.c -o whilefac.out
+   33  ./whilefac.out 
+   34  nano whilefac.c
+   35  gcc whilefac.c -o whilefac.out
+   36  ./whilefac.out 
+   37  nano whilefac.c
+   38  gcc whilefac.c -o whilefac.out
+   39  ./whilefac.out 
+   40  nano whilefac.c
+   41  gcc whilefac.c -o whilefac.out
+   42  nano whilefac.c
+   43  gcc whilefac.c -o whilefac.out
+   44  nano whilefac.c
+   45  gcc whilefac.c -o whilefac.out
+   46  nano whilefac.c
+   47  gcc whilefac.c -o whilefac.out
+   48  nano whilefac.c
+   49  gcc whilefac.c -o whilefac.out
+   50  nano whilefac.c
+   51  gcc whilefac.c -o whilefac.out
+   52  ./whilefac.out 
+   53  nano whilefac.c
+   54  gcc whilefac.c -o whilefac.out
+   55  nano whilefac.c
+   56  gcc whilefac.c -o whilefac.out
+   57  ./whilefac.out 
+   58  nano whilefac.c
+   59  ./whilefac.out 
+   60  nano whilefac.c
+   61  ./whilefac.out 
+   62  nano whilefac.c
+   63  gcc whilefac.c -o whilefac.out
+   64  ./whilefac.out 
+   65  nano whilefac.c
+   66  gcc whilefac.c -o whilefac.out
+   67  nano whilefac.c
+   68  gcc whilefac.c -o whilefac.out
+   69  nano whilefac.c
+   70  gcc whilefac.c -o whilefac.out
+   71  ./whilefac.out 
+   72  nano whilefac.c
+   73  gcc whilefac.c -o whilefac.out
+   74  ./whilefac.out 
+   75  nano whilefac.c
+   76  gcc whilefac.c -o whilefac.out
+   77  ./whilefac.out 
+   78  nano whilefac.c
+   79  gcc whilefac.c -o whilefac.out
+   80  nano whilefac.c
+   81  ./whilefac.out 
+   82  nano whilefac.c
+   83  gcc whilefac.c -o whilefac.out
+   84  ./whilefac.out 
+   85  gcc whilefac.c -o whilefac.out
+   86  nano whilefac.c
+   87  gcc whilefac.c -o whilefac.out
+   88  ./whilefac.out 
+   89  gcc whilefac.c -o whilefac.out
+   90  nano whilefac.c
+   91  gcc whilefac.c -o whilefac.out
+   92  ./whilefac.out 
+   93  nano whilefac.c
+   94  gcc whilefac.c -o whilefac.out
+   95  nano whilefac.c
+   96  ./whilefac.out 
+   97  nano whilefac.c
+   98  gcc whilefac.c -o whilefac.out
+   99  ./whilefac.out 
+  100  nano whilefac.c
+  101  gcc whilefac.c -o whilefac.out
+  102  ./whilefac.out 
+  103  nano whilefac.c
+  104  gcc whilefac.c -o whilefac.out
+  105  ./whilefac.out 
+  106  nano whilefac.c
+  107  init 0
+  108  cd RTR105/HomeWork/
+  109  mkdir PU4/PT4
+  110  ls -lt
+  111  mkdir PU4_PT4
+  112  cd ..
+  113  cd Class_12
+  114  ls -lt
+  115  nano factorial.c 
+  116  opera 
+  117  ssh -X -C p221REC035@213.175.92.15 -p 30022
+  118  sudo apt install vcc
+  119  sudo apt install vlc
+  120  vlc
+  121  vlc
+  122  init 0
+  123  opera
+  124  ./RTR105/HomeWork/PU4_PT4/
+  125  ./RTR105/HomeWork/
+  126  ./RTR105/HomeWork
+  127  cd ./RTR105/HomeWork/PU4_PT4/
+  128  ls -lt
+  129  nano whilefac.c
+  130  gcc whilefac.c -o whilefac.out
+  131  ./whilefac.out 
+  132  nano whilefac.c
+  133  gcc whilefac.c -o whilefac.out
+  134  ./whilefac.out 
+  135  nano whilefac.c
+  136  gcc whilefac.c -o whilefac.out
+  137  nano whilefac.c
+  138  ./whilefac.out 
+  139  nano whilefac.c
+  140  gcc whilefac.c -o whilefac.out
+  141  ./whilefac.out 
+  142  nano whilefac.c
+  143  gcc whilefac.c -o whilefac.out
+  144  ./whilefac.out 
+  145  gcc whilefac.c -o whilefac.out
+  146  nano whilefac.c
+  147  ./whilefac.out 
+  148  nano whilefac.c
+  149  gcc whilefac.c -o whilefac.out
+  150  ./whilefac.out 
+  151  nano whilefac.c
+  152  gcc whilefac.c -o whilefac.out
+  153  ./whilefac.out 
+  154  nano whilefac.c
+  155  gcc whilefac.c -o whilefac.out
+  156  nano whilefac.c
+  157  gcc whilefac.c -o whilefac.out
+  158  ./whilefac.out 
+  159  gcc whilefac.c -o whilefac.out
+  160  nano whilefac.c
+  161  ./whilefac.out 
+  162  gcc whilefac.c -o whilefac.out
+  163  ./whilefac.out 
+  164  nano whilefac.c
+  165  gcc whilefac.c -o whilefac.out
+  166  ./whilefac.out 
+  167  nano whilefac.c
+  168  gcc whilefac.c -o whilefac.out
+  169  nano whilefac.c
+  170  gcc whilefac.c -o whilefac.out
+  171  ./whilefac.out 
+  172  nano whilefac.c
+  173  gcc whilefac.c -o whilefac.out
+  174  ./whilefac.out 
+  175  nano whilefac.c
+  176  gcc whilefac.c -o whilefac.out
+  177  ./whilefac.out 
+  178  nano whilefac.c
+  179  gcc whilefac.c -o whilefac.out
+  180  ./whilefac.out 
+  181  nano whilefac.c
+  182  echo ?$
+  183  echo $?
+  184  nano whilefac.c
+  185  gcc whilefac.c -o whilefac.out
+  186  ./whilefac.out 
+  187  nano whilefac.c
+  188  gcc whilefac.c -o whilefac.out
+  189  ./whilefac.out 
+  190  nano whilefac.c
+  191  gcc whilefac.c -o whilefac.out
+  192  nano whilefac.c
+  193  gcc whilefac.c -o whilefac.out
+  194  nano whilefac.c
+  195  gcc whilefac.c -o whilefac.out
+  196  nano whilefac.c
+  197  gcc whilefac.c -o whilefac.out
+  198  ./whilefac.out 
+  199  nano whilefac.c
+  200  gcc whilefac.c -o whilefac.out
+  201  ./whilefac.out 
+  202  nano whilefac.c
+  203  ./whilefac.out 
+  204  nano whilefac.c
+  205  gcc whilefac.c -o whilefac.out
+  206  ./whilefac.out 
+  207  nano whilefac.c
+  208  gcc whilefac.c -o whilefac.out
+  209  ./whilefac.out 
+  210  nano whilefac.c
+  211  gcc whilefac.c -o whilefac.out
+  212  nano whilefac.c
+  213  gcc whilefac.c -o whilefac.out
+  214  ./whilefac.out 
+  215  gcc whilefac.c -o whilefac.out
+  216  ./whilefac.out 
+  217  nano whilefac.c
+  218  gcc whilefac.c -o whilefac.out
+  219  ./whilefac.out 
+  220  nano whilefac.c
+  221  ./whilefac.out 
+  222  gcc whilefac.c -o whilefac.out
+  223  ./whilefac.out 
+  224  nano whilefac.c
+  225  gcc whilefac.c -o whilefac.out
+  226  nano whilefac.c
+  227  gcc whilefac.c -o whilefac.out
+  228  nano whilefac.c
+  229  gcc whilefac.c -o whilefac.out
+  230  ./whilefac.out 
+  231  5
+  232  nano whilefac.c
+  233  gcc whilefac.c -o whilefac.out
+  234  nano whilefac.c
+  235  gcc whilefac.c -o whilefac.out
+  236  nano whilefac.c
+  237  gcc whilefac.c -o whilefac.out
+  238  ./whilefac.out 
+  239  nano whilefac.c
+  240  gcc whilefac.c -o whilefac.out
+  241  ./whilefac.out 
+  242  nano whilefac.c
+  243  init 0
+  244  cd RTR105/
+  245  ls -lt
+  246  mkdir Class_13
+  247  cd Class_13
+  248  nano userfunc.c
+  249  gcc userfunc.c 
+  250  nano userfunc.c
+  251  gcc userfunc.c 
+  252  ./a.out 
+  253  159
+  254  ./a.out 
+  255  nano userfunc.c
+  256  gcc -g userfunc.c 
+  257  gdb a.out 
+  258  nano userfunc.c 
+  259  gcc -g userfunc.c 
+  260  nano userfunc.c 
+  261  gcc -g userfunc.c 
+  262  gcc userfunc.c 
+  263  ./a.out 
+  264  nano userfunc.c 
+  265  gcc userfunc.c 
+  266  nano userfunc.c 
+  267  gcc userfunc.c 
+  268  ./a.out 
+  269  nano userfunc.c 
+  270  gcc userfunc.c 
+  271  ./a.out 
+  272  nano userfunc.c 
+  273  nano mainwarg.c
+  274  gcc mainwarg.c 
+  275  nano mainwarg.c
+  276  gcc mainwarg.c 
+  277  ./a.out 
+  278  nano mainwarg.c 
+  279  gcc mainwarg.c 
+  280  ./a.out 
+  281  ./a.out 54
+  282  nano mainwarg.c 
+  283  gcc mainwarg.c 
+  284  ./a.out 54 70
+  285  nano mainwarg.c 
+  286  gcc mainwarg.c 
+  287  ./a out
+  288  ./a.out 
+  289  ./a.out 57 68
+  290  cd ..
+  291  history > historycomm.txt 
