@@ -241,51 +241,79 @@
   241  ./whilefac.out 
   242  nano whilefac.c
   243  init 0
-  244  cd RTR105/
-  245  ls -lt
-  246  mkdir Class_13
-  247  cd Class_13
-  248  nano userfunc.c
-  249  gcc userfunc.c 
-  250  nano userfunc.c
-  251  gcc userfunc.c 
-  252  ./a.out 
-  253  159
-  254  ./a.out 
-  255  nano userfunc.c
-  256  gcc -g userfunc.c 
-  257  gdb a.out 
-  258  nano userfunc.c 
+  244  cd ..
+  245  nano README.md 
+  246  opera
+  247  cd RTR105/
+  248  ls -lt
+  249  mkdir Class_13
+  250  cd Class_13
+  251  nano userfunc.c
+  252  gcc userfunc.c 
+  253  nano userfunc.c
+  254  gcc userfunc.c 
+  255  ./a.out 
+  256  159
+  257  ./a.out 
+  258  nano userfunc.c
   259  gcc -g userfunc.c 
-  260  nano userfunc.c 
-  261  gcc -g userfunc.c 
-  262  gcc userfunc.c 
-  263  ./a.out 
-  264  nano userfunc.c 
+  260  gdb a.out 
+  261  nano userfunc.c 
+  262  gcc -g userfunc.c 
+  263  nano userfunc.c 
+  264  gcc -g userfunc.c 
   265  gcc userfunc.c 
-  266  nano userfunc.c 
-  267  gcc userfunc.c 
-  268  ./a.out 
+  266  ./a.out 
+  267  nano userfunc.c 
+  268  gcc userfunc.c 
   269  nano userfunc.c 
   270  gcc userfunc.c 
   271  ./a.out 
   272  nano userfunc.c 
-  273  nano mainwarg.c
-  274  gcc mainwarg.c 
-  275  nano mainwarg.c
-  276  gcc mainwarg.c 
-  277  ./a.out 
-  278  nano mainwarg.c 
+  273  gcc userfunc.c 
+  274  ./a.out 
+  275  nano userfunc.c 
+  276  nano mainwarg.c
+  277  gcc mainwarg.c 
+  278  nano mainwarg.c
   279  gcc mainwarg.c 
   280  ./a.out 
-  281  ./a.out 54
-  282  nano mainwarg.c 
-  283  gcc mainwarg.c 
-  284  ./a.out 54 70
+  281  nano mainwarg.c 
+  282  gcc mainwarg.c 
+  283  ./a.out 
+  284  ./a.out 54
   285  nano mainwarg.c 
   286  gcc mainwarg.c 
-  287  ./a out
-  288  ./a.out 
-  289  ./a.out 57 68
-  290  cd ..
-  291  history > historycomm.txt 
+  287  ./a.out 54 70
+  288  nano mainwarg.c 
+  289  gcc mainwarg.c 
+  290  ./a out
+  291  ./a.out 
+  292  ./a.out 57 68
+  293  cd ..
+  294  history > historycomm.txt 
+  295  ./git-upload 13
+  296  init 0
+  297  cd RTR105/Class_13
+  298  mkdir foo.h
+  299  nano foo.h
+  300  rm foo.h
+  301  rm -f foo.h/
+  302  ls -lt
+  303  nano foo.h
+  304  ls -lt
+  305  r foo.h/
+  306  rm -foo.h
+  307  rm -rf foo.h/
+  308  nano foo.h
+  309  nano foo.c
+  310  nano main.c
+  311  ls -lt
+  312  gcc -Wall -c foo.c
+  313  gcc -Wall -c main.c
+  314  ls -lt
+  315  gcc -o testprogram foo.o main.o
+  316  ./testprogram 
+  317  cd ..
+  318  ./git-upload 13_2
+  319  history > historycomm.txt 
