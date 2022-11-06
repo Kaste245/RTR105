@@ -1,24 +1,40 @@
 #include<stdio.h>
 
-// int main(){
+ int main(){
 
- char i, n, fac, e;
+ int i, c, n, e, fac, fac2;
 
-  printf("Ievadīt vienu veselu skaitli : \n");
-  scanf("%hhd", &n);
+  printf("Ievadīt vienu veselu decimālo skaitli: \n");
+  scanf("%d", &n);
 
-  i = 1;
-  fac = 1;
-  e= fac/n;
- while(i<=n){
 
-if(fac = fac * i){
-  printf("Factoriāļa iznākums ir %d \n", fac);
-  i++;
- }
- else
- printf("kaka \n");
-  }
+  if(n == 0)
+    printf("Factoriāļa iznākums ir: 1 \n");
+
+  else{
+    e = n-1;
+    i = 1;
+    c = 1;
+    fac = 1;
+    fac2 = 1;
+
+    while(i <= n){
+
+      fac = fac * i;
+      i++;
+     }
+
+    while(c <= e){
+
+      fac2 = fac2 * c;
+      c++;
+     }
+
+       if(fac2 == fac / n)
+          printf("Factoriāļa iznākums ir: %d \n", fac);
+       else
+          printf("Skaitlim !%d ar izvēlētu datu tipu pareizi aprēķināt faktoriālu nav iespējams \n", n);
+   }
 
  return 0;
- }
+  }
