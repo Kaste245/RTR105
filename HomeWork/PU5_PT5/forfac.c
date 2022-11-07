@@ -12,31 +12,27 @@
     printf("Factoriāļa iznākums ir: 1 \n");
 
   else{
-
     e = n - 1;
-    i = n;
-    c = 1;
     fac = 1;
     fac2 = 1;
 
-    while(n / i !=n){
+    for(i = 1; i <= n; i++){
 
       fac = fac * i;
-      i--;
      }
 
-    while(c <= e){
+    for(c = 1; c <= e; c++){
 
       fac2 = fac2 * c;
-      c++;
      }
 
-         if(fac / n == fac2)
-          printf("Factoriāļa iznākums ir: %d %d i%d n%d c%d e%d \n", fac, fac2 , i, n, c, e);
-         else
+       if(fac2 == fac / n)
+          printf("Factoriāļa iznākums ir: %d \n", fac);
+       else
           printf("Skaitlim !%d ar izvēlētu datu tipu pareizi aprēķināt faktoriālu nav iespējams! \n", n);
-
    }
 
  return 0;
   }
+
+
