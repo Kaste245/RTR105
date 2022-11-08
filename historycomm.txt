@@ -1,24 +1,3 @@
-    1  gcc
-    2  sudo apt install gcc
-    3  sudo apt install mc
-    4  git clone https://github.com/Kaste245/RTR105
-    5  sudo apt install git
-    6  git clone https://github.com/Kaste245/RTR105
-    7  cd RTR105/
-    8  ls -lt
-    9  opera
-   10  cd RTR105/
-   11  nano README.md 
-   12  init 0
-   13  oper
-   14  opera 
-   15  cd ../HomeWork/PU4_PT4/
-   16  nano whilefac.c
-   17  gcc whilefac.c -o whilefac.out
-   18  ./whilefac.out 
-   19  nano whilefac.c
-   20  gcc whilefac.c -o whilefac.out
-   21  ./whilefac.out 
    22  nano whilefac.c
    23  gcc whilefac.c -o whilefac.out
    24  ./whilefac.out 
@@ -889,12 +868,133 @@
   889  ./git-upload home
   890  init 0
   891  cd RTR105/
-  892  nano README.md
-  893  cd HomeWork/
-  894  cd PU4_PT4/
-  895  ./whilefac.out 
-  896  gcc -Wall whilefac.c  -o whilefac.out 
-  897  ./whilefac.out 
-  898  cd ..
-  899  ./git-upload 15
-  900  history > historycomm.txt 
+  892  ls -lt
+  893  mkdir Class_15
+  894  cd Class_15
+  895  nano nms.c
+  896  ls -lt
+  897  nano pointers.c 
+  898  gcc pointers.c 
+  899  nano pointers.c 
+  900  gcc pointers.c 
+  901  ./a.out
+  902  nano pointers.c 
+  903  gcc pointers.c 
+  904  ./a.out
+  905  nano pointers.c 
+  906  gcc pointers.c 
+  907  ./a.out
+  908  nano pointers.c 
+  909  gcc pointers.c 
+  910  ./a.out
+  911  nano pointers.c 
+  912  gcc pointers.c 
+  913  nano pointers.c 
+  914  gcc pointers.c 
+  915  ./a.out
+  916  nano pointers.c 
+  917  gcc pointers.c 
+  918  nano pointers.c 
+  919  gcc pointers.c 
+  920  gcc -Wall pointers.c 
+  921  nano pointers.c 
+  922  gcc -Wall pointers.c 
+  923  ./a.out 
+  924  nano pointers.c 
+  925  gcc -Wall pointers.c 
+  926  nano pointers.c 
+  927  gcc -Wall pointers.c 
+  928  ./a.out 
+  929  nano pointers.c 
+  930  gcc -Wall pointers.c 
+  931  ./a.out 
+  932  nano pointers.c 
+  933  gcc -Wall pointers.c 
+  934  ./a.out 
+  935  nano pointers.c 
+  936  nano arrays.c
+  937  gcc arrays.c 
+  938  nano arrays.c
+  939  gcc arrays.c 
+  940  nano arrays.c
+  941  gcc arrays.c 
+  942  nano arrays.c
+  943  gcc arrays.c 
+  944  ./a,out
+  945  ./a.out 
+  946  nano arrays.c
+  947  gcc arrays.c 
+  948  ./a.out 
+  949  nano arrays.c
+  950  gcc arrays.c 
+  951  ./a.out 
+  952  nano arrays.c
+  953  gcc arrays.c 
+  954  ./a.out 
+  955  nano arrays.c
+  956  gcc arrays.c 
+  957  nano arrays.c
+  958  gcc arrays.c 
+  959  ./a.out 
+  960  nano arrays.c
+  961  gcc arrays.c 
+  962  ./a.out 
+  963  nano arrays.c
+  964  gcc arrays.c 
+  965  nano arrays.c
+  966  gcc arrays.c 
+  967  ./a.out 
+  968  cd RTR105/
+  969  nano README.md
+  970  cd HomeWork/
+  971  cd PU4_PT4/
+  972  ./whilefac.out 
+  973  gcc -Wall whilefac.c  -o whilefac.out 
+  974  ./whilefac.out 
+  975  cd ..
+  976  ./git-upload 15
+  977  history > historycomm.txt 
+  978  ./git-upload 15
+  979  cd HomeWork/
+  980  cd PU4_PT4/
+  981  ls -lt
+  982  ./whilefac.out 
+  983  cd ..
+  984  init 0
+  985  opera
+  986  cd ..
+  987  cd PU5_PT5/
+  988  nano forfac.c
+  989  gcc forfac.c -o forfac.out
+  990  nano forfac.c
+  991  gcc forfac.c -o forfac.out
+  992  nano forfac.c
+  993  gcc forfac.c -o forfac.out
+  994  ./forfac.out 
+  995  nano forfac.c
+  996  ./forfac.out 
+  997  gcc forfac.c -o forfac.out
+  998  ./forfac.out 
+  999  nano forfac.c
+ 1000  gcc forfac.c -o forfac.out
+ 1001  ./forfac.out 
+ 1002  nano forfac.c
+ 1003  gcc forfac.c -o forfac.out
+ 1004  ./forfac.out 
+ 1005  nano forfac.c
+ 1006  gcc forfac.c -o forfac.out
+ 1007  ./forfac.out 
+ 1008  nano forfac.c
+ 1009  gcc forfac.c -o forfac.out
+ 1010  ./forfac.out 
+ 1011  nano forfac.c
+ 1012  gcc forfac.c -o forfac.out
+ 1013  ./forfac.out 
+ 1014  nano forfac.c
+ 1015  gcc forfac.c -o forfac.out
+ 1016  ./forfac.out 
+ 1017  nano forfac.c
+ 1018  gcc forfac.c -o forfac.out
+ 1019  ./forfac.out 
+ 1020  cd ..
+ 1021  history > historycomm.txt 
