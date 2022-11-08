@@ -103,3 +103,6 @@ c - nakamo break point
 r - runnot programmu  
 q - quit  
 d - dzēst break pointus  
+
+# Norādes / masīvi
+
