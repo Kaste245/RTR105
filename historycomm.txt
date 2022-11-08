@@ -294,26 +294,607 @@
   294  history > historycomm.txt 
   295  ./git-upload 13
   296  init 0
-  297  cd RTR105/Class_13
-  298  mkdir foo.h
-  299  nano foo.h
-  300  rm foo.h
-  301  rm -f foo.h/
-  302  ls -lt
-  303  nano foo.h
+  297  cd ..
+  298  nano README.md
+  299  cd RTR105/Class_13
+  300  mkdir foo.h
+  301  nano foo.h
+  302  rm foo.h
+  303  rm -f foo.h/
   304  ls -lt
-  305  r foo.h/
-  306  rm -foo.h
-  307  rm -rf foo.h/
-  308  nano foo.h
-  309  nano foo.c
-  310  nano main.c
-  311  ls -lt
-  312  gcc -Wall -c foo.c
-  313  gcc -Wall -c main.c
-  314  ls -lt
-  315  gcc -o testprogram foo.o main.o
-  316  ./testprogram 
-  317  cd ..
-  318  ./git-upload 13_2
-  319  history > historycomm.txt 
+  305  nano foo.h
+  306  ls -lt
+  307  r foo.h/
+  308  rm -foo.h
+  309  rm -rf foo.h/
+  310  nano foo.h
+  311  nano foo.c
+  312  nano main.c
+  313  ls -lt
+  314  gcc -Wall -c foo.c
+  315  gcc -Wall -c main.c
+  316  ls -lt
+  317  gcc -o testprogram foo.o main.o
+  318  ./testprogram 
+  319  cd ..
+  320  ./git-upload 13_2
+  321  history > historycomm.txt 
+  322  ./git-upload 13_2
+  323  init 0
+  324  opera
+  325  ssh -X -C p221REC035@213.175.92.15 -p 30022
+  326  vlc
+  327  init 0
+  328  ssh -X -C p221REC035@213.175.92.15 -p 30022
+  329  update-
+  330  init 0
+  331  oopera
+  332  opera
+  333  ssh -X -C p221REC035@213.175.92.15 -p 30022
+  334  vlc
+  335  init 0
+  336  opera
+  337  cd RTR105/HomeWork/PU4_PT4/
+  338  ls -lt
+  339  nano whilefac.
+  340  ls -lt
+  341  nano whilefac.c
+  342  gcc whilefac.c -o whilefac.out
+  343  ./whilefac.out 
+  344  nano whilefac.c
+  345  gcc whilefac.c -o whilefac.out
+  346  nano whilefac.c
+  347  gcc whilefac.c -o whilefac.out
+  348  ./whilefac.out 
+  349  nano whilefac.c
+  350  gcc whilefac.c -o whilefac.out
+  351  nano whilefac.c
+  352  gcc whilefac.c -o whilefac.out
+  353  nano whilefac.c
+  354  gcc whilefac.c -o whilefac.out
+  355  nano whilefac.c
+  356  gcc whilefac.c -o whilefac.out
+  357  nano whilefac.c
+  358  gcc whilefac.c -o whilefac.out
+  359  nano whilefac.c
+  360  gcc whilefac.c -o whilefac.out
+  361  nano whilefac.c
+  362  gcc whilefac.c -o whilefac.out
+  363  ./whilefac.out 
+  364  nano whilefac.c
+  365  gcc whilefac.c -o whilefac.out
+  366  nano whilefac.c
+  367  gcc whilefac.c -o whilefac.out
+  368  ./whilefac.out 
+  369  nano whilefac.c
+  370  gcc whilefac.c -o whilefac.out
+  371  nano whilefac.c
+  372  gcc whilefac.c -o whilefac.out
+  373  ./whilefac.out 
+  374  nano whilefac.c
+  375  gcc whilefac.c -o whilefac.outA
+  376  nano whilefac.c
+  377  gcc whilefac.c -o whilefac.outA
+  378  nano whilefac.c
+  379  gcc whilefac.c -o whilefac.outA
+  380  ./whilefac.out 
+  381  nano whilefac.c
+  382  gcc whilefac.c -o whilefac.outA
+  383  ./whilefac.out 
+  384  nano whilefac.c
+  385  gcc whilefac.c -o whilefac.outA
+  386  ./whilefac.out 
+  387  nano whilefac.c
+  388  gcc whilefac.c -o whilefac.outA
+  389  ./whilefac.out 
+  390  gcc whilefac.c -o whilefac.out
+  391  ./whilefac.out 
+  392  nano whilefac.c
+  393  gcc whilefac.c -o whilefac.out
+  394  ./whilefac.out 
+  395  nano whilefac.c
+  396  gcc whilefac.c -o whilefac.out
+  397  ./whilefac.out 
+  398  nano whilefac.c
+  399  gcc whilefac.c -o whilefac.out
+  400  nano whilefac.c
+  401  gcc whilefac.c -o whilefac.out
+  402  nano whilefac.c
+  403  gcc whilefac.c -o whilefac.out
+  404  ./whilefac.out 
+  405  nano whilefac.c
+  406  gcc whilefac.c -o whilefac.out
+  407  ./whilefac.out 
+  408  nano whilefac.c
+  409  gcc whilefac.c -o whilefac.out
+  410  ./whilefac.out 
+  411  nano whilefac.c
+  412  gcc whilefac.c -o whilefac.out
+  413  ./whilefac.out 
+  414  nano whilefac.c
+  415  gcc whilefac.c -o whilefac.out
+  416  nano whilefac.c
+  417  ./whilefac.out 
+  418  nano whilefac.c
+  419  gcc whilefac.c -o whilefac.out
+  420  ./whilefac.out 
+  421  nano whilefac.c
+  422  gcc whilefac.c -o whilefac.out
+  423  ./whilefac.out 
+  424  nano whilefac.c
+  425  gcc whilefac.c -o whilefac.out
+  426  ./whilefac.out 
+  427  nano whilefac.c
+  428  gcc whilefac.c -o whilefac.out
+  429  ./whilefac.out 
+  430  nano whilefac.c
+  431  gcc whilefac.c -o whilefac.out
+  432  ./whilefac.out 
+  433  nano whilefac.c
+  434  gcc whilefac.c -o whilefac.out
+  435  ./whilefac.out 
+  436  nano whilefac.c
+  437  gcc whilefac.c -o whilefac.out
+  438  ./whilefac.out 
+  439  nano whilefac.c
+  440  gcc whilefac.c -o whilefac.out
+  441  ./whilefac.out 
+  442  nano whilefac.c
+  443  gcc whilefac.c -o whilefac.out
+  444  ./whilefac.out 
+  445  nano whilefac.c
+  446  gcc whilefac.c -o whilefac.out
+  447  ./whilefac.out 
+  448  nano whilefac.c
+  449  gcc whilefac.c -o whilefac.out
+  450  ./whilefac.out 
+  451  nano whilefac.c
+  452  gcc whilefac.c -o whilefac.out
+  453  ./whilefac.out 
+  454  nano whilefac.c
+  455  gcc whilefac.c -o whilefac.out
+  456  ./whilefac.out 
+  457  nano whilefac.c
+  458  gcc whilefac.c -o whilefac.out
+  459  ./whilefac.out 
+  460  nano whilefac.c
+  461  gcc whilefac.c -o whilefac.out
+  462  ./whilefac.out 
+  463  nano whilefac.c
+  464  gcc whilefac.c -o whilefac.out
+  465  ./whilefac.out 
+  466  nano whilefac.c
+  467  gcc whilefac.c -o whilefac.out
+  468  ./whilefac.out 
+  469  nano whilefac.c
+  470  gcc whilefac.c -o whilefac.out
+  471  ./whilefac.out 
+  472  nano whilefac.c
+  473  ./whilefac.out 
+  474  gcc whilefac.c -o whilefac.out
+  475  ./whilefac.out 
+  476  nano whilefac.c
+  477  gcc whilefac.c -o whilefac.out
+  478  ./whilefac.out 
+  479  nano whilefac.c
+  480  gcc whilefac.c -o whilefac.out
+  481  nano whilefac.c
+  482  ./whilefac.out 
+  483  nano whilefac.c
+  484  gcc whilefac.c -o whilefac.out
+  485  ./whilefac.out 
+  486  nano whilefac.c
+  487  gcc whilefac.c -o whilefac.out
+  488  ./whilefac.out 
+  489  nano whilefac.c
+  490  gcc whilefac.c -o whilefac.out
+  491  nano whilefac.c
+  492  gcc whilefac.c -o whilefac.out
+  493  ./whilefac.out 
+  494  nano whilefac.c
+  495  gcc whilefac.c -o whilefac.out
+  496  ./whilefac.out 
+  497  nano whilefac.c
+  498  gcc whilefac.c -o whilefac.out
+  499  ./whilefac.out 
+  500  nano whilefac.c
+  501  gcc whilefac.c -o whilefac.out
+  502  ./whilefac.out 
+  503  nano whilefac.c
+  504  gcc whilefac.c -o whilefac.out
+  505  ./whilefac.out 
+  506  nano whilefac.c
+  507  gcc whilefac.c -o whilefac.out
+  508  ./whilefac.out 
+  509  nano whilefac.c
+  510  gcc whilefac.c -o whilefac.out
+  511  ./whilefac.out 
+  512  nano whilefac.c
+  513  gcc whilefac.c -o whilefac.out
+  514  ./whilefac.out 
+  515  nano whilefac.c
+  516  gcc whilefac.c -o whilefac.out
+  517  ./whilefac.out 
+  518  nano whilefac.c
+  519  gcc whilefac.c -o whilefac.out
+  520  ./whilefac.out 
+  521  nano whilefac.c
+  522  gcc whilefac.c -o whilefac.out
+  523  ./whilefac.out 
+  524  nano whilefac.c
+  525  gcc whilefac.c -o whilefac.out
+  526  ./whilefac.out 
+  527  nano whilefac.c
+  528  gcc whilefac.c -o whilefac.out
+  529  ./whilefac.out 
+  530  nano whilefac.c
+  531  gcc whilefac.c -o whilefac.out
+  532  ./whilefac.out 
+  533  nano whilefac.c
+  534  gcc whilefac.c -o whilefac.out
+  535  nano whilefac.c
+  536  ./whilefac.out 
+  537  nano whilefac.c
+  538  gcc whilefac.c -o whilefac.out
+  539  nano whilefac.c
+  540  gcc whilefac.c -o whilefac.out
+  541  ./whilefac.out 
+  542  nano whilefac.c
+  543  gcc whilefac.c -o whilefac.out
+  544  nano whilefac.c
+  545  ./whilefac.out 
+  546  nano whilefac.c
+  547  gcc whilefac.c -o whilefac.out
+  548  ./whilefac.out 
+  549  nano whilefac.c
+  550  gcc whilefac.c -o whilefac.out
+  551  ./whilefac.out 
+  552  nano whilefac.c
+  553  gcc whilefac.c -o whilefac.out
+  554  nano whilefac.c
+  555  gcc whilefac.c -o whilefac.out
+  556  ./whilefac.out 
+  557  nano whilefac.c
+  558  gcc whilefac.c -o whilefac.out
+  559  ./whilefac.out 
+  560  nano whilefac.c
+  561  gcc whilefac.c -o whilefac.out
+  562  nano whilefac.c
+  563  gcc whilefac.c -o whilefac.out
+  564  ./whilefac.out 
+  565  nano whilefac.c
+  566  gcc whilefac.c -o whilefac.out
+  567  ./whilefac.out 
+  568  nano whilefac.c
+  569  gcc whilefac.c -o whilefac.out
+  570  nano whilefac.c
+  571  gcc whilefac.c -o whilefac.out
+  572  ./whilefac.out 
+  573  nano whilefac.c
+  574  gcc whilefac.c -o whilefac.out
+  575  ./whilefac.out 
+  576  nano whilefac.c
+  577  gcc whilefac.c -o whilefac.out
+  578  ./whilefac.out 
+  579  nano whilefac.c
+  580  gcc whilefac.c -o whilefac.out
+  581  nano whilefac.c
+  582  ./whilefac.out 
+  583  nano whilefac.c
+  584  gcc whilefac.c -o whilefac.out
+  585  ./whilefac.out 
+  586  nano whilefac.c
+  587  gcc whilefac.c -o whilefac.out
+  588  ./whilefac.out 
+  589  nano whilefac.c
+  590  gcc whilefac.c -o whilefac.out
+  591  ./whilefac.out 
+  592  nano whilefac.c
+  593  gcc whilefac.c -o whilefac.out
+  594  ./whilefac.out 
+  595  nano whilefac.c
+  596  gcc whilefac.c -o whilefac.out
+  597  nano whilefac.c
+  598  gcc whilefac.c -o whilefac.out
+  599  ./whilefac.out 
+  600  nano whilefac.c
+  601  gcc whilefac.c -o whilefac.out
+  602  ./whilefac.out 
+  603  nano whilefac.c
+  604  gcc whilefac.c -o whilefac.out
+  605  ./whilefac.out 
+  606  nano whilefac.c
+  607  gcc whilefac.c -o whilefac.out
+  608  nano whilefac.c
+  609  gcc whilefac.c -o whilefac.out
+  610  ./whilefac.out 
+  611  nano whilefac.c
+  612  gcc whilefac.c -o whilefac.out
+  613  ./whilefac.out 
+  614  nano whilefac.c
+  615  gcc whilefac.c -o whilefac.out
+  616  ./whilefac.out 
+  617  nano whilefac.c
+  618  gcc whilefac.c -o whilefac.out
+  619  ./whilefac.out 
+  620  nano whilefac.c
+  621  gcc whilefac.c -o whilefac.out
+  622  ./whilefac.out 
+  623  nano whilefac.c
+  624  ./whilefac.out 
+  625  gcc whilefac.c -o whilefac.out
+  626  ./whilefac.out 
+  627  nano whilefac.c
+  628  gcc whilefac.c -o whilefac.out
+  629  ./whilefac.out 
+  630  nano whilefac.c
+  631  gcc whilefac.c -o whilefac.out
+  632  ./whilefac.out 
+  633  nano whilefac.c
+  634  gcc whilefac.c -o whilefac.out
+  635  nano whilefac.c
+  636  ./whilefac.out 
+  637  gcc whilefac.c -o whilefac.out
+  638  ./whilefac.out 
+  639  nano whilefac.c
+  640  gcc whilefac.c -o whilefac.out
+  641  ./whilefac.out 
+  642  gcc whilefac.c -o whilefac.out
+  643  nano whilefac.c
+  644  ./whilefac.out 
+  645  gcc whilefac.c -o whilefac.out
+  646  ./whilefac.out 
+  647  nano whilefac.c
+  648  gcc whilefac.c -o whilefac.out
+  649  ./whilefac.out 
+  650  nano whilefac.c
+  651  gcc whilefac.c -o whilefac.out
+  652  ./whilefac.out 
+  653  nano whilefac.c
+  654  gcc whilefac.c -o whilefac.out
+  655  ./whilefac.out 
+  656  nano whilefac.c
+  657  gcc whilefac.c -o whilefac.out
+  658  nano whilefac.c
+  659  ./whilefac.out 
+  660  nano whilefac.c
+  661  gcc whilefac.c -o whilefac.out
+  662  ./whilefac.out 
+  663  nano whilefac.c
+  664  gcc whilefac.c -o whilefac.out
+  665  5
+  666  ./whilefac.out 
+  667  nano whilefac.c
+  668  gcc whilefac.c -o whilefac.out
+  669  nano whilefac.c
+  670  gcc whilefac.c -o whilefac.out
+  671  ./whilefac.out 
+  672  gcc whilefac.c -o whilefac.out
+  673  ./whilefac.out 
+  674  nano whilefac.c
+  675  gcc whilefac.c -o whilefac.out
+  676  ./whilefac.out 
+  677  ./whilefac.out 7
+  678  nano whilefac.c
+  679  gcc whilefac.c -o whilefac.out
+  680  ./whilefac.out 7
+  681  ./whilefac.out 
+  682  nano whilefac.c
+  683  ./whilefac.out 
+  684  nano whilefac.c
+  685  gcc whilefac.c -o whilefac.out
+  686  nano whilefac.c
+  687  gcc whilefac.c -o whilefac.out
+  688  ./whilefac.out 
+  689  nano whilefac.c
+  690  gcc whilefac.c -o whilefac.out
+  691  ./whilefac.out 
+  692  nano whilefac.c
+  693  gcc whilefac.c -o whilefac.out
+  694  ./whilefac.out 
+  695  nano whilefac.c
+  696  gcc whilefac.c -o whilefac.out
+  697  nano whilefac.c
+  698  gcc whilefac.c -o whilefac.out
+  699  nano whilefac.c
+  700  gcc whilefac.c -o whilefac.out
+  701  ./whilefac.out 
+  702  nano whilefac.c
+  703  gcc whilefac.c -o whilefac.out
+  704  nano whilefac.c
+  705  gcc whilefac.c -o whilefac.out
+  706  ./whilefac.out 
+  707  nano whilefac.c
+  708  gcc whilefac.c -o whilefac.out
+  709  ./whilefac.out 
+  710  nano whilefac.c
+  711  gcc whilefac.c -o whilefac.out
+  712  ./whilefac.out 
+  713  nano whilefac.c
+  714  gcc whilefac.c -o whilefac.out
+  715  ./whilefac.out 
+  716  nano whilefac.c
+  717  gcc whilefac.c -o whilefac.out
+  718  ./whilefac.out 
+  719  nano whilefac.c
+  720  ./whilefac.out 
+  721  nano whilefac.c
+  722  gcc whilefac.c -o whilefac.out
+  723  ./whilefac.out 
+  724  nano whilefac.c
+  725  gcc whilefac.c -o whilefac.out
+  726  ./whilefac.out 
+  727  nano whilefac.c
+  728  gcc whilefac.c -o whilefac.out
+  729  ./whilefac.out 
+  730  nano whilefac.c
+  731  gcc whilefac.c -o whilefac.out
+  732  ./whilefac.out 
+  733  nano whilefac.c
+  734  gcc whilefac.c -o whilefac.out
+  735  ./whilefac.out 
+  736  nano whilefac.c
+  737  gcc whilefac.c -o whilefac.out
+  738  nano whilefac.c
+  739  gcc whilefac.c -o whilefac.out
+  740  ./whilefac.out 
+  741  nano whilefac.c
+  742  gcc whilefac.c -o whilefac.out
+  743  nano whilefac.c
+  744  ./whilefac.out 
+  745  nano whilefac.c
+  746  gcc whilefac.c -o whilefac.out
+  747  ./whilefac.out 
+  748  nano whilefac.c
+  749  gcc whilefac.c -o whilefac.out
+  750  ./whilefac.out 
+  751  nano whilefac.c
+  752  gcc whilefac.c -o whilefac.out
+  753  ./whilefac.out 
+  754  nano whilefac.c
+  755  ./whilefac.out 
+  756  nano whilefac.c
+  757  gcc whilefac.c -o whilefac.out
+  758  ./whilefac.out 
+  759  nano whilefac.c
+  760  gcc whilefac.c -o whilefac.out
+  761  ./whilefac.out 
+  762  nano whilefac.c
+  763  gcc whilefac.c -o whilefac.out
+  764  ./whilefac.out 
+  765  nano whilefac.c
+  766  gcc whilefac.c -o whilefac.out
+  767  ./whilefac.out 
+  768  nano whilefac.c
+  769  gcc whilefac.c -o whilefac.out
+  770  nano whilefac.c
+  771  gcc whilefac.c -o whilefac.out
+  772  nano whilefac.c
+  773  gcc whilefac.c -o whilefac.out
+  774  ./whilefac.out 
+  775  nano whilefac.c
+  776  gcc whilefac.c -o whilefac.out
+  777  ./whilefac.out 
+  778  echo$?
+  779  echo $?
+  780  nano whilefac.c
+  781  ./whilefac.out 
+  782  nano whilefac.c
+  783  gcc whilefac.c -o whilefac.out
+  784  ./whilefac.out 
+  785  nano whilefac.c
+  786  cd ..
+  787  ./git-upload Home
+  788  ./git-upload H
+  789  init 0
+  790  cd ..
+  791  mkdir PU5_PT5
+  792  cd PU4_PT4/
+  793  ls -lt
+  794  rm -f whilefac.outA
+  795  ls -lt
+  796  cd ..
+  797  cd PU5_PT5/
+  798  nano forfac.c
+  799  gcc forfac.c -o forfac.out
+  800  ./forfac.out 
+  801  cd ..
+  802  cd PU4_PT4/
+  803  nano whilefac.
+  804  ls -lt
+  805  nano whilefac.
+  806  nano whilefac.c
+  807  cd ..
+  808  opera
+  809  cd RTR105/
+  810  cd HomeWork/
+  811  ls -lt
+  812  cd PU4_PT4/
+  813  nano whilefac.c
+  814  gcc whilefac.c -o whilefac.out
+  815  ./whilefac.out
+  816  nano whilefac.c
+  817  gcc whilefac.c -o whilefac.out
+  818  ./whilefac.out
+  819  echo $?
+  820  echo ?$
+  821  echo $?
+  822  ./whilefac.out
+  823  ./whilefac.out34
+  824  ./whilefac.out
+  825  echo $?
+  826  nano whilefac.c
+  827  gcc whilefac.c -o whilefac.out
+  828  ./whilefac.out
+  829  ./whilefac.out-6
+  830  ./whilefac.out
+  831  nano whilefac.c
+  832  gcc whilefac.c -o whilefac.out
+  833  ./whilefac.out 
+  834  nano whilefac.c
+  835  gcc whilefac.c -o whilefac.out
+  836  ./whilefac.out 
+  837  nano whilefac.c
+  838  gcc whilefac.c -o whilefac.out
+  839  ./whilefac.out 
+  840  echo $?
+  841  ./whilefac.out 
+  842  nano whilefac.c
+  843  gcc whilefac.c -o whilefac.out
+  844  ./whilefac.out 
+  845  nano whilefac.c
+  846  gcc whilefac.c -o whilefac.out
+  847  ./whilefac.out 
+  848  nano whilefac.c
+  849  gcc whilefac.c -o whilefac.out
+  850  ./whilefac.out 
+  851  nano whilefac.c
+  852  gcc whilefac.c -o whilefac.out
+  853  ./whilefac.out 
+  854  nano whilefac.c
+  855  gcc whilefac.c -o whilefac.out
+  856  ./whilefac.out 
+  857  nano whilefac.c
+  858  gcc whilefac.c -o whilefac.out
+  859  ./whilefac.out 
+  860  nano whilefac.c
+  861  gcc whilefac.c -o whilefac.out
+  862  ./whilefac.out 
+  863  nano whilefac.c
+  864  gcc whilefac.c -o whilefac.out
+  865  ./whilefac.out 
+  866  nano whilefac.c
+  867  gcc whilefac.c -o whilefac.out
+  868  ./whilefac.out 
+  869  nano whilefac.c
+  870  gcc whilefac.c -o whilefac.out
+  871  ./whilefac.out 
+  872  nano whilefac.c
+  873  gcc whilefac.c -o whilefac.out
+  874  ./whilefac.out 
+  875  nano whilefac.c
+  876  gcc whilefac.c -o whilefac.out
+  877  ./whilefac.out 
+  878  ./whilefac.out -1
+  879  ./whilefac.out 
+  880  nano whilefac.c
+  881  gcc whilefac.c -o whilefac.out
+  882  nano whilefac.c
+  883  gcc whilefac.c -o whilefac.out
+  884  nano whilefac.c
+  885  gcc whilefac.c -o whilefac.out
+  886  ./whilefac.out 
+  887  nano whilefac.c
+  888  cd ..
+  889  ./git-upload home
+  890  init 0
+  891  cd RTR105/
+  892  nano README.md
+  893  cd HomeWork/
+  894  cd PU4_PT4/
+  895  ./whilefac.out 
+  896  gcc -Wall whilefac.c  -o whilefac.out 
+  897  ./whilefac.out 
+  898  cd ..
+  899  ./git-upload 15
+  900  history > historycomm.txt 
