@@ -23,14 +23,10 @@
          count2++;
     }
 
-    printf("Textā ir %d -> b \n", count);
-    printf("Textā ir %d -> a \n", count2);
+    printf("Tekstā ir %d -> b \n", count);
+    printf("Tekstā ir %d -> a \n", count2);
 
     printf("Garums %ld \n", strlen(text));
-
-
-
-
 
  return 0;
  }

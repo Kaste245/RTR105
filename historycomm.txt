@@ -1,337 +1,3 @@
-   22  nano whilefac.c
-   23  gcc whilefac.c -o whilefac.out
-   24  ./whilefac.out 
-   25  nano whilefac.c
-   26  gcc whilefac.c -o whilefac.out
-   27  ./whilefac.out 
-   28  nano whilefac.c
-   29  gcc whilefac.c -o whilefac.out
-   30  ./whilefac.out 
-   31  nano whilefac.c
-   32  gcc whilefac.c -o whilefac.out
-   33  ./whilefac.out 
-   34  nano whilefac.c
-   35  gcc whilefac.c -o whilefac.out
-   36  ./whilefac.out 
-   37  nano whilefac.c
-   38  gcc whilefac.c -o whilefac.out
-   39  ./whilefac.out 
-   40  nano whilefac.c
-   41  gcc whilefac.c -o whilefac.out
-   42  nano whilefac.c
-   43  gcc whilefac.c -o whilefac.out
-   44  nano whilefac.c
-   45  gcc whilefac.c -o whilefac.out
-   46  nano whilefac.c
-   47  gcc whilefac.c -o whilefac.out
-   48  nano whilefac.c
-   49  gcc whilefac.c -o whilefac.out
-   50  nano whilefac.c
-   51  gcc whilefac.c -o whilefac.out
-   52  ./whilefac.out 
-   53  nano whilefac.c
-   54  gcc whilefac.c -o whilefac.out
-   55  nano whilefac.c
-   56  gcc whilefac.c -o whilefac.out
-   57  ./whilefac.out 
-   58  nano whilefac.c
-   59  ./whilefac.out 
-   60  nano whilefac.c
-   61  ./whilefac.out 
-   62  nano whilefac.c
-   63  gcc whilefac.c -o whilefac.out
-   64  ./whilefac.out 
-   65  nano whilefac.c
-   66  gcc whilefac.c -o whilefac.out
-   67  nano whilefac.c
-   68  gcc whilefac.c -o whilefac.out
-   69  nano whilefac.c
-   70  gcc whilefac.c -o whilefac.out
-   71  ./whilefac.out 
-   72  nano whilefac.c
-   73  gcc whilefac.c -o whilefac.out
-   74  ./whilefac.out 
-   75  nano whilefac.c
-   76  gcc whilefac.c -o whilefac.out
-   77  ./whilefac.out 
-   78  nano whilefac.c
-   79  gcc whilefac.c -o whilefac.out
-   80  nano whilefac.c
-   81  ./whilefac.out 
-   82  nano whilefac.c
-   83  gcc whilefac.c -o whilefac.out
-   84  ./whilefac.out 
-   85  gcc whilefac.c -o whilefac.out
-   86  nano whilefac.c
-   87  gcc whilefac.c -o whilefac.out
-   88  ./whilefac.out 
-   89  gcc whilefac.c -o whilefac.out
-   90  nano whilefac.c
-   91  gcc whilefac.c -o whilefac.out
-   92  ./whilefac.out 
-   93  nano whilefac.c
-   94  gcc whilefac.c -o whilefac.out
-   95  nano whilefac.c
-   96  ./whilefac.out 
-   97  nano whilefac.c
-   98  gcc whilefac.c -o whilefac.out
-   99  ./whilefac.out 
-  100  nano whilefac.c
-  101  gcc whilefac.c -o whilefac.out
-  102  ./whilefac.out 
-  103  nano whilefac.c
-  104  gcc whilefac.c -o whilefac.out
-  105  ./whilefac.out 
-  106  nano whilefac.c
-  107  init 0
-  108  cd RTR105/HomeWork/
-  109  mkdir PU4/PT4
-  110  ls -lt
-  111  mkdir PU4_PT4
-  112  cd ..
-  113  cd Class_12
-  114  ls -lt
-  115  nano factorial.c 
-  116  opera 
-  117  ssh -X -C p221REC035@213.175.92.15 -p 30022
-  118  sudo apt install vcc
-  119  sudo apt install vlc
-  120  vlc
-  121  vlc
-  122  init 0
-  123  opera
-  124  ./RTR105/HomeWork/PU4_PT4/
-  125  ./RTR105/HomeWork/
-  126  ./RTR105/HomeWork
-  127  cd ./RTR105/HomeWork/PU4_PT4/
-  128  ls -lt
-  129  nano whilefac.c
-  130  gcc whilefac.c -o whilefac.out
-  131  ./whilefac.out 
-  132  nano whilefac.c
-  133  gcc whilefac.c -o whilefac.out
-  134  ./whilefac.out 
-  135  nano whilefac.c
-  136  gcc whilefac.c -o whilefac.out
-  137  nano whilefac.c
-  138  ./whilefac.out 
-  139  nano whilefac.c
-  140  gcc whilefac.c -o whilefac.out
-  141  ./whilefac.out 
-  142  nano whilefac.c
-  143  gcc whilefac.c -o whilefac.out
-  144  ./whilefac.out 
-  145  gcc whilefac.c -o whilefac.out
-  146  nano whilefac.c
-  147  ./whilefac.out 
-  148  nano whilefac.c
-  149  gcc whilefac.c -o whilefac.out
-  150  ./whilefac.out 
-  151  nano whilefac.c
-  152  gcc whilefac.c -o whilefac.out
-  153  ./whilefac.out 
-  154  nano whilefac.c
-  155  gcc whilefac.c -o whilefac.out
-  156  nano whilefac.c
-  157  gcc whilefac.c -o whilefac.out
-  158  ./whilefac.out 
-  159  gcc whilefac.c -o whilefac.out
-  160  nano whilefac.c
-  161  ./whilefac.out 
-  162  gcc whilefac.c -o whilefac.out
-  163  ./whilefac.out 
-  164  nano whilefac.c
-  165  gcc whilefac.c -o whilefac.out
-  166  ./whilefac.out 
-  167  nano whilefac.c
-  168  gcc whilefac.c -o whilefac.out
-  169  nano whilefac.c
-  170  gcc whilefac.c -o whilefac.out
-  171  ./whilefac.out 
-  172  nano whilefac.c
-  173  gcc whilefac.c -o whilefac.out
-  174  ./whilefac.out 
-  175  nano whilefac.c
-  176  gcc whilefac.c -o whilefac.out
-  177  ./whilefac.out 
-  178  nano whilefac.c
-  179  gcc whilefac.c -o whilefac.out
-  180  ./whilefac.out 
-  181  nano whilefac.c
-  182  echo ?$
-  183  echo $?
-  184  nano whilefac.c
-  185  gcc whilefac.c -o whilefac.out
-  186  ./whilefac.out 
-  187  nano whilefac.c
-  188  gcc whilefac.c -o whilefac.out
-  189  ./whilefac.out 
-  190  nano whilefac.c
-  191  gcc whilefac.c -o whilefac.out
-  192  nano whilefac.c
-  193  gcc whilefac.c -o whilefac.out
-  194  nano whilefac.c
-  195  gcc whilefac.c -o whilefac.out
-  196  nano whilefac.c
-  197  gcc whilefac.c -o whilefac.out
-  198  ./whilefac.out 
-  199  nano whilefac.c
-  200  gcc whilefac.c -o whilefac.out
-  201  ./whilefac.out 
-  202  nano whilefac.c
-  203  ./whilefac.out 
-  204  nano whilefac.c
-  205  gcc whilefac.c -o whilefac.out
-  206  ./whilefac.out 
-  207  nano whilefac.c
-  208  gcc whilefac.c -o whilefac.out
-  209  ./whilefac.out 
-  210  nano whilefac.c
-  211  gcc whilefac.c -o whilefac.out
-  212  nano whilefac.c
-  213  gcc whilefac.c -o whilefac.out
-  214  ./whilefac.out 
-  215  gcc whilefac.c -o whilefac.out
-  216  ./whilefac.out 
-  217  nano whilefac.c
-  218  gcc whilefac.c -o whilefac.out
-  219  ./whilefac.out 
-  220  nano whilefac.c
-  221  ./whilefac.out 
-  222  gcc whilefac.c -o whilefac.out
-  223  ./whilefac.out 
-  224  nano whilefac.c
-  225  gcc whilefac.c -o whilefac.out
-  226  nano whilefac.c
-  227  gcc whilefac.c -o whilefac.out
-  228  nano whilefac.c
-  229  gcc whilefac.c -o whilefac.out
-  230  ./whilefac.out 
-  231  5
-  232  nano whilefac.c
-  233  gcc whilefac.c -o whilefac.out
-  234  nano whilefac.c
-  235  gcc whilefac.c -o whilefac.out
-  236  nano whilefac.c
-  237  gcc whilefac.c -o whilefac.out
-  238  ./whilefac.out 
-  239  nano whilefac.c
-  240  gcc whilefac.c -o whilefac.out
-  241  ./whilefac.out 
-  242  nano whilefac.c
-  243  init 0
-  244  cd ..
-  245  nano README.md 
-  246  opera
-  247  cd RTR105/
-  248  ls -lt
-  249  mkdir Class_13
-  250  cd Class_13
-  251  nano userfunc.c
-  252  gcc userfunc.c 
-  253  nano userfunc.c
-  254  gcc userfunc.c 
-  255  ./a.out 
-  256  159
-  257  ./a.out 
-  258  nano userfunc.c
-  259  gcc -g userfunc.c 
-  260  gdb a.out 
-  261  nano userfunc.c 
-  262  gcc -g userfunc.c 
-  263  nano userfunc.c 
-  264  gcc -g userfunc.c 
-  265  gcc userfunc.c 
-  266  ./a.out 
-  267  nano userfunc.c 
-  268  gcc userfunc.c 
-  269  nano userfunc.c 
-  270  gcc userfunc.c 
-  271  ./a.out 
-  272  nano userfunc.c 
-  273  gcc userfunc.c 
-  274  ./a.out 
-  275  nano userfunc.c 
-  276  nano mainwarg.c
-  277  gcc mainwarg.c 
-  278  nano mainwarg.c
-  279  gcc mainwarg.c 
-  280  ./a.out 
-  281  nano mainwarg.c 
-  282  gcc mainwarg.c 
-  283  ./a.out 
-  284  ./a.out 54
-  285  nano mainwarg.c 
-  286  gcc mainwarg.c 
-  287  ./a.out 54 70
-  288  nano mainwarg.c 
-  289  gcc mainwarg.c 
-  290  ./a out
-  291  ./a.out 
-  292  ./a.out 57 68
-  293  cd ..
-  294  history > historycomm.txt 
-  295  ./git-upload 13
-  296  init 0
-  297  cd ..
-  298  nano README.md
-  299  cd RTR105/Class_13
-  300  mkdir foo.h
-  301  nano foo.h
-  302  rm foo.h
-  303  rm -f foo.h/
-  304  ls -lt
-  305  nano foo.h
-  306  ls -lt
-  307  r foo.h/
-  308  rm -foo.h
-  309  rm -rf foo.h/
-  310  nano foo.h
-  311  nano foo.c
-  312  nano main.c
-  313  ls -lt
-  314  gcc -Wall -c foo.c
-  315  gcc -Wall -c main.c
-  316  ls -lt
-  317  gcc -o testprogram foo.o main.o
-  318  ./testprogram 
-  319  cd ..
-  320  ./git-upload 13_2
-  321  history > historycomm.txt 
-  322  ./git-upload 13_2
-  323  init 0
-  324  opera
-  325  ssh -X -C p221REC035@213.175.92.15 -p 30022
-  326  vlc
-  327  init 0
-  328  ssh -X -C p221REC035@213.175.92.15 -p 30022
-  329  update-
-  330  init 0
-  331  oopera
-  332  opera
-  333  ssh -X -C p221REC035@213.175.92.15 -p 30022
-  334  vlc
-  335  init 0
-  336  opera
-  337  cd RTR105/HomeWork/PU4_PT4/
-  338  ls -lt
-  339  nano whilefac.
-  340  ls -lt
-  341  nano whilefac.c
-  342  gcc whilefac.c -o whilefac.out
-  343  ./whilefac.out 
-  344  nano whilefac.c
-  345  gcc whilefac.c -o whilefac.out
-  346  nano whilefac.c
-  347  gcc whilefac.c -o whilefac.out
-  348  ./whilefac.out 
-  349  nano whilefac.c
-  350  gcc whilefac.c -o whilefac.out
-  351  nano whilefac.c
-  352  gcc whilefac.c -o whilefac.out
-  353  nano whilefac.c
-  354  gcc whilefac.c -o whilefac.out
-  355  nano whilefac.c
   356  gcc whilefac.c -o whilefac.out
   357  nano whilefac.c
   358  gcc whilefac.c -o whilefac.out
@@ -962,39 +628,373 @@
   983  cd ..
   984  init 0
   985  opera
-  986  cd ..
-  987  cd PU5_PT5/
-  988  nano forfac.c
-  989  gcc forfac.c -o forfac.out
-  990  nano forfac.c
-  991  gcc forfac.c -o forfac.out
-  992  nano forfac.c
-  993  gcc forfac.c -o forfac.out
-  994  ./forfac.out 
-  995  nano forfac.c
-  996  ./forfac.out 
-  997  gcc forfac.c -o forfac.out
-  998  ./forfac.out 
-  999  nano forfac.c
- 1000  gcc forfac.c -o forfac.out
- 1001  ./forfac.out 
- 1002  nano forfac.c
- 1003  gcc forfac.c -o forfac.out
- 1004  ./forfac.out 
- 1005  nano forfac.c
- 1006  gcc forfac.c -o forfac.out
- 1007  ./forfac.out 
- 1008  nano forfac.c
- 1009  gcc forfac.c -o forfac.out
- 1010  ./forfac.out 
- 1011  nano forfac.c
- 1012  gcc forfac.c -o forfac.out
- 1013  ./forfac.out 
- 1014  nano forfac.c
- 1015  gcc forfac.c -o forfac.out
- 1016  ./forfac.out 
- 1017  nano forfac.c
- 1018  gcc forfac.c -o forfac.out
- 1019  ./forfac.out 
- 1020  cd ..
- 1021  history > historycomm.txt 
+  986  cd RTR105/HomeWork/PU4_PT4/
+  987  nano whilefac.
+  988  nano whilefac.c
+  989  gcc whilefac.c -o whilefac.out
+  990  ./whilefac.out 
+  991  nano whilefac.c
+  992  gcc whilefac.c -o whilefac.out
+  993  ./whilefac.out 
+  994  nano whilefac.c
+  995  gcc whilefac.c -o whilefac.out
+  996  ./whilefac.out 
+  997  nano whilefac.c
+  998  gcc whilefac.c -o whilefac.out
+  999  nano whilefac.c
+ 1000  gcc whilefac.c -o whilefac.out
+ 1001  ./whilefac.out 
+ 1002  nano whilefac.c
+ 1003  gcc whilefac.c -o whilefac.out
+ 1004  ./whilefac.out 
+ 1005  nano whilefac.c
+ 1006  gcc whilefac.c -o whilefac.out11
+ 1007  ./whilefac.out 
+ 1008  nano whilefac.c
+ 1009  gcc whilefac.c -o whilefac.out11
+ 1010  ./whilefac.out 
+ 1011  gcc whilefac.c -o whilefac.out
+ 1012  ./whilefac.out 
+ 1013  nano whilefac.c
+ 1014  gcc whilefac.c -o whilefac.out
+ 1015  ./whilefac.out 
+ 1016  nano whilefac.c
+ 1017  gcc whilefac.c -o whilefac.out
+ 1018  ./whilefac.out 
+ 1019  nano whilefac.c
+ 1020  gcc whilefac.c -o whilefac.out
+ 1021  ./whilefac.out 
+ 1022  nano whilefac.c
+ 1023  gcc whilefac.c -o whilefac.out
+ 1024  nano whilefac.c
+ 1025  gcc whilefac.c -o whilefac.out
+ 1026  nano whilefac.c
+ 1027  gcc whilefac.c -o whilefac.out
+ 1028  ./whilefac.out 
+ 1029  nano whilefac.c
+ 1030  gcc whilefac.c -o whilefac.out
+ 1031  ./whilefac.out 
+ 1032  gcc whilefac.c -o whilefac.out
+ 1033  nano whilefac.c
+ 1034  gcc whilefac.c -o whilefac.out
+ 1035  ./whilefac.out 
+ 1036  echo $?
+ 1037  nano whilefac.c
+ 1038  gcc whilefac.c -o whilefac.out
+ 1039  ./whilefac.out 
+ 1040  nano whilefac.c
+ 1041  gcc whilefac.c -o whilefac.out
+ 1042  ./whilefac.out 
+ 1043  nano whilefac.c
+ 1044  gcc whilefac.c -o whilefac.out
+ 1045  ./whilefac.out 
+ 1046  nano whilefac.c
+ 1047  gcc whilefac.c -o whilefac.out
+ 1048  nano whilefac.c
+ 1049  gcc whilefac.c -o whilefac.out
+ 1050  nano whilefac.c
+ 1051  gcc whilefac.c -o whilefac.out
+ 1052  ./whilefac.out 
+ 1053  nano whilefac.c
+ 1054  gcc whilefac.c -o whilefac.out
+ 1055  ./whilefac.out 
+ 1056  nano whilefac.c
+ 1057  gcc whilefac.c -o whilefac.out
+ 1058  nano whilefac.c
+ 1059  gcc whilefac.c -o whilefac.out
+ 1060  nano whilefac.c
+ 1061  gcc whilefac.c -o whilefac.out
+ 1062  ./whilefac.out 
+ 1063  nano whilefac.c
+ 1064  gcc whilefac.c -o whilefac.out
+ 1065  nano whilefac.c
+ 1066  gcc whilefac.c -o whilefac.out
+ 1067  ./whilefac.out 
+ 1068  nano whilefac.c
+ 1069  gcc whilefac.c -o whilefac.out
+ 1070  ./whilefac.out 
+ 1071  nano whilefac.c
+ 1072  gcc whilefac.c -o whilefac.out
+ 1073  ./whilefac.out 
+ 1074  nano whilefac.c
+ 1075  gcc whilefac.c -o whilefac.out
+ 1076  ./whilefac.out 
+ 1077  nano whilefac.c
+ 1078  cd ..
+ 1079  cd ..
+ 1080  cd PU5_PT5/
+ 1081  nano forfac.c
+ 1082  gcc forfac.c -o forfac.out
+ 1083  nano forfac.c
+ 1084  gcc forfac.c -o forfac.out
+ 1085  nano forfac.c
+ 1086  gcc forfac.c -o forfac.out
+ 1087  ./forfac.out 
+ 1088  nano forfac.c
+ 1089  ./forfac.out 
+ 1090  gcc forfac.c -o forfac.out
+ 1091  ./forfac.out 
+ 1092  nano forfac.c
+ 1093  gcc forfac.c -o forfac.out
+ 1094  ./forfac.out 
+ 1095  nano forfac.c
+ 1096  gcc forfac.c -o forfac.out
+ 1097  ./forfac.out 
+ 1098  nano forfac.c
+ 1099  gcc forfac.c -o forfac.out
+ 1100  ./forfac.out 
+ 1101  nano forfac.c
+ 1102  gcc forfac.c -o forfac.out
+ 1103  ./forfac.out 
+ 1104  nano forfac.c
+ 1105  gcc forfac.c -o forfac.out
+ 1106  ./forfac.out 
+ 1107  nano forfac.c
+ 1108  gcc forfac.c -o forfac.out
+ 1109  ./forfac.out 
+ 1110  nano forfac.c
+ 1111  gcc forfac.c -o forfac.out
+ 1112  ./forfac.out 
+ 1113  cd ..
+ 1114  history > historycomm.txt 
+ 1115  ./git-upload home
+ 1116  cd HomeWork/
+ 1117  ls -lt
+ 1118  cd PU4_PT4/
+ 1119  ls -lt
+ 1120  rm -f whilefac.out11
+ 1121  ls -lt
+ 1122  ./whilefac.out 
+ 1123  cd ..
+ 1124  cd PU5_PT5/
+ 1125  ./forfac.out 
+ 1126  cd ..
+ 1127  ./git-upload home
+ 1128  ls -lt
+ 1129  nano LPE.txt
+ 1130  ssh -X -C pREC035@213.175.92.15 -p 30022~
+ 1131  ssh -X -C pREC035@213.175.92.15 -p 30022
+ 1132  ssh -X -C pREC221035@213.175.92.15 -p 30022
+ 1133  ssh -X -C p221REC035@213.175.92.15 -p 30022
+ 1134  ssh -X -C pREC221035@213.175.92.15 -p 30022
+ 1135  ssh -X -C p221REC035@213.175.92.15 -p 30022
+ 1136  init 0
+ 1137  opera
+ 1138  ssh -X -C p221REC035@213.175.92.15 -p 30022
+ 1139  init 0
+ 1140  ls -lt
+ 1141  background color green
+ 1142  cd RTR105/
+ 1143  ls -lt
+ 1144  cd HomeWork/
+ 1145  cd PU4_PT4/
+ 1146  ls -lt
+ 1147  ./whilefac.out 
+ 1148  nano whilefac.c
+ 1149  ./whilefac.out 
+ 1150  cd ..
+ 1151  ssh -X -C p221REC035@213.175.92.15 -p 30022
+ 1152  vlc
+ 1153  init 0
+ 1154  cd RTR105/
+ 1155  ls -lt
+ 1156  mkdir Class_16
+ 1157  cd Class_16
+ 1158  nano symbol.c
+ 1159  gcc symbol.c 
+ 1160  ./a.out 
+ 1161  nano symbol.c
+ 1162  gcc symbol.c 
+ 1163  ./a.out 
+ 1164  nano symbol.c
+ 1165  gcc symbol.c 
+ 1166  ./a.out 
+ 1167  nano symbol.c
+ 1168  gcc symbol.c 
+ 1169  ./a.out 
+ 1170  nano symbol.c
+ 1171  gcc symbol.c 
+ 1172  ./a.out 
+ 1173  nano symbol.c
+ 1174  gcc symbol.c 
+ 1175  ./a.out 
+ 1176  nano symbol.c
+ 1177  gcc symbol.c 
+ 1178  ./a.out 
+ 1179  nano symbol.c
+ 1180  gcc symbol.c 
+ 1181  ./a.out 
+ 1182  nano symbol.c
+ 1183  gcc symbol.c 
+ 1184  ./a.out 
+ 1185  nano statistika.c
+ 1186  gcc statistika.c 
+ 1187  ./a.out 
+ 1188  nano statistika.c
+ 1189  gcc statistika.c 
+ 1190  nano statistika.c
+ 1191  gcc statistika.c 
+ 1192  ./a.out 
+ 1193  nano statistika.c
+ 1194  ./a.out 
+ 1195  nano statistika.c
+ 1196  gcc statistika.c 
+ 1197  nano statistika.c
+ 1198  gcc statistika.c 
+ 1199  nano statistika.c
+ 1200  gcc statistika.c 
+ 1201  ./a.out 
+ 1202  nano statistika.c
+ 1203  gcc statistika.c 
+ 1204  ./a.out 
+ 1205  nano statistika.c
+ 1206  gcc statistika.c 
+ 1207  ./a.out 
+ 1208  nano statistika.c
+ 1209  gcc statistika.c 
+ 1210  ./a.out 
+ 1211  gcc statistika.c 
+ 1212  nano statistika.c
+ 1213  gcc statistika.c 
+ 1214  nano statistika.c
+ 1215  gcc statistika.c 
+ 1216  nano statistika.c
+ 1217  gcc statistika.c 
+ 1218  nano statistika.c
+ 1219  gcc statistika.c 
+ 1220  ./a.out 
+ 1221  nano statistika.c
+ 1222  gcc statistika.c 
+ 1223  nano statistika.c
+ 1224  gcc statistika.c 
+ 1225  nano statistika.c
+ 1226  gcc statistika.c 
+ 1227  ./a.out 
+ 1228  gcc statistika.c 
+ 1229  nano statistika.c
+ 1230  gcc statistika.c 
+ 1231  nano statistika.c
+ 1232  gcc statistika.c 
+ 1233  ./a.out 
+ 1234  nano statistika.c
+ 1235  gcc statistika.c 
+ 1236  ./a.out 
+ 1237  nano statistika.c
+ 1238  gcc statistika.c 
+ 1239  ./a.out 
+ 1240  gcc statistika.c 
+ 1241  nano statistika.c
+ 1242  gcc statistika.c 
+ 1243  ./a.out 
+ 1244  nano statistika.c
+ 1245  gcc statistika.c 
+ 1246  ./a.out 
+ 1247  nano statistika.c
+ 1248  gcc statistika.c 
+ 1249  ./a.out 
+ 1250  gcc statistika.c 
+ 1251  nano statistika.c
+ 1252  ./a.out 
+ 1253  gcc statistika.c 
+ 1254  ./a.out 
+ 1255  caw
+ 1256  ./a.out 
+ 1257  nano statistika.c
+ 1258  ./a.out 
+ 1259  gcc statistika.c 
+ 1260  ./a.out 
+ 1261  nano statistika.c
+ 1262  cd ..
+ 1263  ./git-upload 16
+ 1264  init 0
+ 1265  opera
+ 1266  cd RTR105/
+ 1267  cd Class_16
+ 1268  ls -lt
+ 1269  nano statistika.c
+ 1270  gcc statistika.c 
+ 1271  ./a.out 
+ 1272  nano statistika.c
+ 1273  gcc statistika.c 
+ 1274  nano statistika.c
+ 1275  gcc statistika.c 
+ 1276  ./a.out 
+ 1277  nano statistika.c
+ 1278  cd ..
+ 1279  cd RTR105/
+ 1280  ls -lt
+ 1281  mv LPE.txt LPE.c
+ 1282  nano LPE.c 
+ 1283  ./git-upload 17
+ 1284  cd Class_16
+ 1285  nano statistika.c 
+ 1286  gcc statistika.c 
+ 1287  ./a.out 
+ 1288  nano statistika.c 
+ 1289  ./a.out 
+ 1290  gcc statistika.c 
+ 1291  ./a.out 
+ 1292  nano statistika.c 
+ 1293  cs ..
+ 1294  cd ..
+ 1295  mkdir Class_17
+ 1296  cd Class_17
+ 1297  nano file.c
+ 1298  gcc file.c 
+ 1299  ./a.out 
+ 1300  ls -lt
+ 1301  cat teksts.dat 
+ 1302  mv file.c files_fprintf.c
+ 1303  cp files_fprintf.c files_fscanf.c 
+ 1304  nano files_fscanf.c 
+ 1305  gcc files_fscanf.c 
+ 1306  nano files_fscanf.c 
+ 1307  gcc files_fscanf.c 
+ 1308  ./a.out 
+ 1309  cat files_fscanf.c 
+ 1310  cat teksts.dat 
+ 1311  ./a.out 
+ 1312  nano files_fscanf.c 
+ 1313  cp files_fprintf.c files_print_numtext.c
+ 1314  nano files_print_numtext.c 
+ 1315  gcc files_print_numtext.c 
+ 1316  nano files_print_numtext.c 
+ 1317  gcc files_print_numtext.c 
+ 1318  nano files_print_numtext.c 
+ 1319  gcc files_print_numtext.c 
+ 1320  nano files_print_numtext.c 
+ 1321  gcc files_print_numtext.c 
+ 1322  nano files_print_numtext.c 
+ 1323  ./a.out 
+ 1324  cat numbers.dat 
+ 1325  nano files_print_numtext.c 
+ 1326  gcc files_print_numtext.c 
+ 1327  ./a.out 
+ 1328  cat numbers.dat 
+ 1329  nano files_print_numtext.c 
+ 1330  gcc files_print_numtext.c 
+ 1331  ./a.out 
+ 1332  cat numbers.dat 
+ 1333  nano files_print_numtext.c 
+ 1334  gcc files_print_numtext.c 
+ 1335  cp files_print_numtext.c files_print_numbin.c 
+ 1336  nano files_print_numbin.c 
+ 1337  gcc files_print_numbin.c 
+ 1338  ./a.out 
+ 1339  ls -lt
+ 1340  gcc files_print_numbin.c 
+ 1341  nano files_print_numbin.c 
+ 1342  gcc files_print_numbin.c 
+ 1343  ls -lt
+ 1344  cat files_print_numbin.c 
+ 1345  cat numbers.bin
+ 1346  ./a.out 
+ 1347  cat numbers.bin
+ 1348  nano files_print_numbin.c 
+ 1349  ls -lt
+ 1350  nano files_print_numbin.c 
+ 1351  gcc files_print_numbin.c 
+ 1352  ./a.out 
+ 1353  ls -lt
+ 1354  cd ..
+ 1355  history > historycomm.txt 
