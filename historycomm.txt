@@ -1,66 +1,3 @@
-  356  gcc whilefac.c -o whilefac.out
-  357  nano whilefac.c
-  358  gcc whilefac.c -o whilefac.out
-  359  nano whilefac.c
-  360  gcc whilefac.c -o whilefac.out
-  361  nano whilefac.c
-  362  gcc whilefac.c -o whilefac.out
-  363  ./whilefac.out 
-  364  nano whilefac.c
-  365  gcc whilefac.c -o whilefac.out
-  366  nano whilefac.c
-  367  gcc whilefac.c -o whilefac.out
-  368  ./whilefac.out 
-  369  nano whilefac.c
-  370  gcc whilefac.c -o whilefac.out
-  371  nano whilefac.c
-  372  gcc whilefac.c -o whilefac.out
-  373  ./whilefac.out 
-  374  nano whilefac.c
-  375  gcc whilefac.c -o whilefac.outA
-  376  nano whilefac.c
-  377  gcc whilefac.c -o whilefac.outA
-  378  nano whilefac.c
-  379  gcc whilefac.c -o whilefac.outA
-  380  ./whilefac.out 
-  381  nano whilefac.c
-  382  gcc whilefac.c -o whilefac.outA
-  383  ./whilefac.out 
-  384  nano whilefac.c
-  385  gcc whilefac.c -o whilefac.outA
-  386  ./whilefac.out 
-  387  nano whilefac.c
-  388  gcc whilefac.c -o whilefac.outA
-  389  ./whilefac.out 
-  390  gcc whilefac.c -o whilefac.out
-  391  ./whilefac.out 
-  392  nano whilefac.c
-  393  gcc whilefac.c -o whilefac.out
-  394  ./whilefac.out 
-  395  nano whilefac.c
-  396  gcc whilefac.c -o whilefac.out
-  397  ./whilefac.out 
-  398  nano whilefac.c
-  399  gcc whilefac.c -o whilefac.out
-  400  nano whilefac.c
-  401  gcc whilefac.c -o whilefac.out
-  402  nano whilefac.c
-  403  gcc whilefac.c -o whilefac.out
-  404  ./whilefac.out 
-  405  nano whilefac.c
-  406  gcc whilefac.c -o whilefac.out
-  407  ./whilefac.out 
-  408  nano whilefac.c
-  409  gcc whilefac.c -o whilefac.out
-  410  ./whilefac.out 
-  411  nano whilefac.c
-  412  gcc whilefac.c -o whilefac.out
-  413  ./whilefac.out 
-  414  nano whilefac.c
-  415  gcc whilefac.c -o whilefac.out
-  416  nano whilefac.c
-  417  ./whilefac.out 
-  418  nano whilefac.c
   419  gcc whilefac.c -o whilefac.out
   420  ./whilefac.out 
   421  nano whilefac.c
@@ -998,3 +935,66 @@
  1353  ls -lt
  1354  cd ..
  1355  history > historycomm.txt 
+ 1356  ./git-upload 17
+ 1357  init 0
+ 1358  cd RTR105/
+ 1359  nano README.md
+ 1360  ls -lt
+ 1361  mkdir Class_18
+ 1362  cd Class_18
+ 1363  nano pirmtay.c
+ 1364  gcc pirmtay.c 
+ 1365  nano pirmtay.c
+ 1366  gcc pirmtay.c 
+ 1367  nano pirmtay.c
+ 1368  gcc pirmtay.c 
+ 1369  nano pirmtay.c
+ 1370  gcc pirmtay.c 
+ 1371  nano pirmtay.c
+ 1372  gcc pirmtay.c 
+ 1373  gcc -m pirmtay.c 
+ 1374  g++ pirmtay.c 
+ 1375  sudo apt intall g++
+ 1376  gcc -M pirmtay.c 
+ 1377  sudo apt intall g++
+ 1378  sudo apt install g++
+ 1379  gcc -lM pirmtay.c 
+ 1380  gcc -lm pirmtay.c 
+ 1381  ./a.out
+ 1382  nano pirmtay.c 
+ 1383  gcc -lm pirmtay.c 
+ 1384  nano pirmtay.c 
+ 1385  gcc -lm pirmtay.c 
+ 1386  nano pirmtay.c 
+ 1387  gcc -lm pirmtay.c 
+ 1388  nano otrstay.c
+ 1389  gcc -lm otrstay.c 
+ 1390  nano otrstay.c
+ 1391  gcc -lm otrstay.c 
+ 1392  nano otrstay.c
+ 1393  gcc -lm otrstay.c 
+ 1394  nano pirmtay.c
+ 1395  gcc -lm otrstay.c 
+ 1396  nano pirmtay.c
+ 1397  gcc -lm pirmtay.c 
+ 1398  nano pirmtay.c
+ 1399  gcc -lm pirmtay.c 
+ 1400  ls -lt
+ 1401  nano pirmtay.c
+ 1402  gcc pirmtay.c -lm
+ 1403  gcc otrstay.c -lm
+ 1404  nano pirmtay.c 
+ 1405  ./a.out 
+ 1406  gcc pirmtay.c -lm
+ 1407  ./a.out 
+ 1408  nano galatay.c
+ 1409  gcc  galatay.c -lm
+ 1410  nano galatay.c
+ 1411  gcc  galatay.c -lm
+ 1412  ./a.out 
+ 1413  gcc pirmtay.c -lm
+ 1414  ./a.out 
+ 1415  gcc otrstay.c -lm
+ 1416  ./a.out 
+ 1417  cd ..
+ 1418  history > historycomm.txt 

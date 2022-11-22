@@ -10,6 +10,7 @@ Satura rāditājs
 - [C valoda II](https://github.com/Kaste245/RTR105#c-valoda-ii)
 - [C valoda Mainīgie](https://github.com/Kaste245/RTR105#c-valoda-mainīgie)
 - [Debug](https://github.com/Kaste245/RTR105#debug)
+- [Taylor](https://github.com/Kaste245/RTR105#taylor)
 ## Github  
 [ text ](link)  
 Bilde ![ text ](links)
@@ -96,6 +97,7 @@ Alt + U - Undo
 Alt + E - Redo  
 
 # Debug
+
 gcc -g name - atvert  
 info break - informacija par break pointiem  
 b line, funkcija - ievietot break pointu  
@@ -104,5 +106,6 @@ r - runnot programmu
 q - quit  
 d - dzēst break pointus  
 
-# Norādes / masīvi
+# Taylor
+gcc name -lm  
 
