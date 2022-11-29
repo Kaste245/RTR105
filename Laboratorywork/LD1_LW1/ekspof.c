@@ -13,18 +13,12 @@
  y = exp(x);
  printf("exp(%f) = %f \n\n", x, y);
 
-
- printf("a0 = %f  S0 = %f\n", a, S);
-
-
  a = pow(x, k)/(1.);
  S = a;
 
- printf("a0 = %f  S0 = %f\n", a, S);
-
    while(k<500){
     k++;
-    a = a * x / (k*k);
+    a = a * x / k;
     S = S + a;
    }
 
@@ -44,7 +38,8 @@
  printf("                                        \n");
  printf("                           x            \n");
  printf(" Rekurences reizinājums: -----          \n");
- printf("                          k*k           \n");
+ printf("                           k            \n");
 
  return 0;
  }
+

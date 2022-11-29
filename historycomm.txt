@@ -1,284 +1,3 @@
-  678  nano whilefac.c
-  679  gcc whilefac.c -o whilefac.out
-  680  ./whilefac.out 7
-  681  ./whilefac.out 
-  682  nano whilefac.c
-  683  ./whilefac.out 
-  684  nano whilefac.c
-  685  gcc whilefac.c -o whilefac.out
-  686  nano whilefac.c
-  687  gcc whilefac.c -o whilefac.out
-  688  ./whilefac.out 
-  689  nano whilefac.c
-  690  gcc whilefac.c -o whilefac.out
-  691  ./whilefac.out 
-  692  nano whilefac.c
-  693  gcc whilefac.c -o whilefac.out
-  694  ./whilefac.out 
-  695  nano whilefac.c
-  696  gcc whilefac.c -o whilefac.out
-  697  nano whilefac.c
-  698  gcc whilefac.c -o whilefac.out
-  699  nano whilefac.c
-  700  gcc whilefac.c -o whilefac.out
-  701  ./whilefac.out 
-  702  nano whilefac.c
-  703  gcc whilefac.c -o whilefac.out
-  704  nano whilefac.c
-  705  gcc whilefac.c -o whilefac.out
-  706  ./whilefac.out 
-  707  nano whilefac.c
-  708  gcc whilefac.c -o whilefac.out
-  709  ./whilefac.out 
-  710  nano whilefac.c
-  711  gcc whilefac.c -o whilefac.out
-  712  ./whilefac.out 
-  713  nano whilefac.c
-  714  gcc whilefac.c -o whilefac.out
-  715  ./whilefac.out 
-  716  nano whilefac.c
-  717  gcc whilefac.c -o whilefac.out
-  718  ./whilefac.out 
-  719  nano whilefac.c
-  720  ./whilefac.out 
-  721  nano whilefac.c
-  722  gcc whilefac.c -o whilefac.out
-  723  ./whilefac.out 
-  724  nano whilefac.c
-  725  gcc whilefac.c -o whilefac.out
-  726  ./whilefac.out 
-  727  nano whilefac.c
-  728  gcc whilefac.c -o whilefac.out
-  729  ./whilefac.out 
-  730  nano whilefac.c
-  731  gcc whilefac.c -o whilefac.out
-  732  ./whilefac.out 
-  733  nano whilefac.c
-  734  gcc whilefac.c -o whilefac.out
-  735  ./whilefac.out 
-  736  nano whilefac.c
-  737  gcc whilefac.c -o whilefac.out
-  738  nano whilefac.c
-  739  gcc whilefac.c -o whilefac.out
-  740  ./whilefac.out 
-  741  nano whilefac.c
-  742  gcc whilefac.c -o whilefac.out
-  743  nano whilefac.c
-  744  ./whilefac.out 
-  745  nano whilefac.c
-  746  gcc whilefac.c -o whilefac.out
-  747  ./whilefac.out 
-  748  nano whilefac.c
-  749  gcc whilefac.c -o whilefac.out
-  750  ./whilefac.out 
-  751  nano whilefac.c
-  752  gcc whilefac.c -o whilefac.out
-  753  ./whilefac.out 
-  754  nano whilefac.c
-  755  ./whilefac.out 
-  756  nano whilefac.c
-  757  gcc whilefac.c -o whilefac.out
-  758  ./whilefac.out 
-  759  nano whilefac.c
-  760  gcc whilefac.c -o whilefac.out
-  761  ./whilefac.out 
-  762  nano whilefac.c
-  763  gcc whilefac.c -o whilefac.out
-  764  ./whilefac.out 
-  765  nano whilefac.c
-  766  gcc whilefac.c -o whilefac.out
-  767  ./whilefac.out 
-  768  nano whilefac.c
-  769  gcc whilefac.c -o whilefac.out
-  770  nano whilefac.c
-  771  gcc whilefac.c -o whilefac.out
-  772  nano whilefac.c
-  773  gcc whilefac.c -o whilefac.out
-  774  ./whilefac.out 
-  775  nano whilefac.c
-  776  gcc whilefac.c -o whilefac.out
-  777  ./whilefac.out 
-  778  echo$?
-  779  echo $?
-  780  nano whilefac.c
-  781  ./whilefac.out 
-  782  nano whilefac.c
-  783  gcc whilefac.c -o whilefac.out
-  784  ./whilefac.out 
-  785  nano whilefac.c
-  786  cd ..
-  787  ./git-upload Home
-  788  ./git-upload H
-  789  init 0
-  790  cd ..
-  791  mkdir PU5_PT5
-  792  cd PU4_PT4/
-  793  ls -lt
-  794  rm -f whilefac.outA
-  795  ls -lt
-  796  cd ..
-  797  cd PU5_PT5/
-  798  nano forfac.c
-  799  gcc forfac.c -o forfac.out
-  800  ./forfac.out 
-  801  cd ..
-  802  cd PU4_PT4/
-  803  nano whilefac.
-  804  ls -lt
-  805  nano whilefac.
-  806  nano whilefac.c
-  807  cd ..
-  808  opera
-  809  cd RTR105/
-  810  cd HomeWork/
-  811  ls -lt
-  812  cd PU4_PT4/
-  813  nano whilefac.c
-  814  gcc whilefac.c -o whilefac.out
-  815  ./whilefac.out
-  816  nano whilefac.c
-  817  gcc whilefac.c -o whilefac.out
-  818  ./whilefac.out
-  819  echo $?
-  820  echo ?$
-  821  echo $?
-  822  ./whilefac.out
-  823  ./whilefac.out34
-  824  ./whilefac.out
-  825  echo $?
-  826  nano whilefac.c
-  827  gcc whilefac.c -o whilefac.out
-  828  ./whilefac.out
-  829  ./whilefac.out-6
-  830  ./whilefac.out
-  831  nano whilefac.c
-  832  gcc whilefac.c -o whilefac.out
-  833  ./whilefac.out 
-  834  nano whilefac.c
-  835  gcc whilefac.c -o whilefac.out
-  836  ./whilefac.out 
-  837  nano whilefac.c
-  838  gcc whilefac.c -o whilefac.out
-  839  ./whilefac.out 
-  840  echo $?
-  841  ./whilefac.out 
-  842  nano whilefac.c
-  843  gcc whilefac.c -o whilefac.out
-  844  ./whilefac.out 
-  845  nano whilefac.c
-  846  gcc whilefac.c -o whilefac.out
-  847  ./whilefac.out 
-  848  nano whilefac.c
-  849  gcc whilefac.c -o whilefac.out
-  850  ./whilefac.out 
-  851  nano whilefac.c
-  852  gcc whilefac.c -o whilefac.out
-  853  ./whilefac.out 
-  854  nano whilefac.c
-  855  gcc whilefac.c -o whilefac.out
-  856  ./whilefac.out 
-  857  nano whilefac.c
-  858  gcc whilefac.c -o whilefac.out
-  859  ./whilefac.out 
-  860  nano whilefac.c
-  861  gcc whilefac.c -o whilefac.out
-  862  ./whilefac.out 
-  863  nano whilefac.c
-  864  gcc whilefac.c -o whilefac.out
-  865  ./whilefac.out 
-  866  nano whilefac.c
-  867  gcc whilefac.c -o whilefac.out
-  868  ./whilefac.out 
-  869  nano whilefac.c
-  870  gcc whilefac.c -o whilefac.out
-  871  ./whilefac.out 
-  872  nano whilefac.c
-  873  gcc whilefac.c -o whilefac.out
-  874  ./whilefac.out 
-  875  nano whilefac.c
-  876  gcc whilefac.c -o whilefac.out
-  877  ./whilefac.out 
-  878  ./whilefac.out -1
-  879  ./whilefac.out 
-  880  nano whilefac.c
-  881  gcc whilefac.c -o whilefac.out
-  882  nano whilefac.c
-  883  gcc whilefac.c -o whilefac.out
-  884  nano whilefac.c
-  885  gcc whilefac.c -o whilefac.out
-  886  ./whilefac.out 
-  887  nano whilefac.c
-  888  cd ..
-  889  ./git-upload home
-  890  init 0
-  891  cd RTR105/
-  892  ls -lt
-  893  mkdir Class_15
-  894  cd Class_15
-  895  nano nms.c
-  896  ls -lt
-  897  nano pointers.c 
-  898  gcc pointers.c 
-  899  nano pointers.c 
-  900  gcc pointers.c 
-  901  ./a.out
-  902  nano pointers.c 
-  903  gcc pointers.c 
-  904  ./a.out
-  905  nano pointers.c 
-  906  gcc pointers.c 
-  907  ./a.out
-  908  nano pointers.c 
-  909  gcc pointers.c 
-  910  ./a.out
-  911  nano pointers.c 
-  912  gcc pointers.c 
-  913  nano pointers.c 
-  914  gcc pointers.c 
-  915  ./a.out
-  916  nano pointers.c 
-  917  gcc pointers.c 
-  918  nano pointers.c 
-  919  gcc pointers.c 
-  920  gcc -Wall pointers.c 
-  921  nano pointers.c 
-  922  gcc -Wall pointers.c 
-  923  ./a.out 
-  924  nano pointers.c 
-  925  gcc -Wall pointers.c 
-  926  nano pointers.c 
-  927  gcc -Wall pointers.c 
-  928  ./a.out 
-  929  nano pointers.c 
-  930  gcc -Wall pointers.c 
-  931  ./a.out 
-  932  nano pointers.c 
-  933  gcc -Wall pointers.c 
-  934  ./a.out 
-  935  nano pointers.c 
-  936  nano arrays.c
-  937  gcc arrays.c 
-  938  nano arrays.c
-  939  gcc arrays.c 
-  940  nano arrays.c
-  941  gcc arrays.c 
-  942  nano arrays.c
-  943  gcc arrays.c 
-  944  ./a,out
-  945  ./a.out 
-  946  nano arrays.c
-  947  gcc arrays.c 
-  948  ./a.out 
-  949  nano arrays.c
-  950  gcc arrays.c 
-  951  ./a.out 
-  952  nano arrays.c
-  953  gcc arrays.c 
-  954  ./a.out 
-  955  nano arrays.c
-  956  gcc arrays.c 
-  957  nano arrays.c
-  958  gcc arrays.c 
   959  ./a.out 
   960  nano arrays.c
   961  gcc arrays.c 
@@ -998,3 +717,284 @@
  1675  ./program 
  1676  cd ..
  1677  history >historycomm.txt 
+ 1678  ./git-upload home
+ 1679  ls -lt
+ 1680  mkdir Laboratorywork
+ 1681  cd Laboratorywork/
+ 1682  mkdir LD1_LW1
+ 1683  nano ekspof.c
+ 1684  gcc ekspof.c 
+ 1685  nano ekspof.c
+ 1686  gcc ekspof.c 
+ 1687  nano ekspof.c
+ 1688  gcc ekspof.c 
+ 1689  nano ekspof.c
+ 1690  gcc ekspof.c 
+ 1691  nano ekspof.c
+ 1692  gcc ekspof.c -c 
+ 1693  ./a.out
+ 1694  /ls -lt
+ 1695  ls -lt
+ 1696  rm ekspof.o
+ 1697  ls -lt
+ 1698  gcc ekspof.c -lm
+ 1699  ./a.out 
+ 1700  nano ekspof.c 
+ 1701  gcc ekspof.c -lm
+ 1702  ./a.out 
+ 1703  nano ekspof.c 
+ 1704  gcc ekspof.c -lm
+ 1705  nano ekspof.c 
+ 1706  ./a.out 
+ 1707  nano ekspof.c 
+ 1708  gcc ekspof.c -lm
+ 1709  ./a.out 
+ 1710  nano ekspof.c 
+ 1711  gcc ekspof.c -lm
+ 1712  ./a.out 
+ 1713  nano ekspof.c 
+ 1714  gcc ekspof.c -lm
+ 1715  ./a.out 
+ 1716  gcc ekspof.c -lm
+ 1717  nano ekspof.c 
+ 1718  gcc ekspof.c -lm
+ 1719  ./a.out 
+ 1720  nano ekspof.c 
+ 1721  ./a.out 
+ 1722  gcc ekspof.c -lm
+ 1723  ./a.out 
+ 1724  nano ekspof.c 
+ 1725  gcc ekspof.c -lm
+ 1726  nano ekspof.c 
+ 1727  gcc ekspof.c -lm
+ 1728  nano ekspof.c 
+ 1729  gcc ekspof.c -lm
+ 1730  nano ekspof.c 
+ 1731  gcc ekspof.c -lm
+ 1732  ./a.out 
+ 1733  nano ekspof.c 
+ 1734  gcc ekspof.c -lm
+ 1735  ./a.out 
+ 1736  nano ekspof.c 
+ 1737  gcc ekspof.c -lm
+ 1738  nano ekspof.c 
+ 1739  gcc ekspof.c -lm
+ 1740  ./a.out 
+ 1741  nano ekspof.c 
+ 1742  gcc ekspof.c -lm
+ 1743  ./a.out 
+ 1744  nano ekspof.c 
+ 1745  gcc ekspof.c -lm
+ 1746  ./a.out 
+ 1747  nano ekspof.c 
+ 1748  gcc ekspof.c -lm
+ 1749  nano ekspof.c 
+ 1750  gcc ekspof.c -lm
+ 1751  nano ekspof.c 
+ 1752  gcc ekspof.c -lm
+ 1753  ./a.out 
+ 1754  nano ekspof.c 
+ 1755  gcc ekspof.c -lm
+ 1756  ./a.out 
+ 1757  nano ekspof.c 
+ 1758  gcc ekspof.c -lm
+ 1759  ./a.out 
+ 1760  nano ekspof.c 
+ 1761  gcc ekspof.c -lm
+ 1762  ./a.out 
+ 1763  nano ekspof.c 
+ 1764  gcc ekspof.c -lm
+ 1765  ./a.out 
+ 1766  nano ekspof.c 
+ 1767  gcc ekspof.c -lm
+ 1768  nano ekspof.c 
+ 1769  gcc ekspof.c -lm
+ 1770  nano ekspof.c 
+ 1771  gcc ekspof.c -lm
+ 1772  ./a.out 
+ 1773  nano ekspof.c 
+ 1774  gcc ekspof.c -lm
+ 1775  ./a.out 
+ 1776  nano ekspof.c 
+ 1777  gcc ekspof.c -lm
+ 1778  ./a.out 
+ 1779  nano ekspof.c 
+ 1780  gcc ekspof.c -lm
+ 1781  ./a.out 
+ 1782  nano ekspof.c 
+ 1783  gcc ekspof.c -lm
+ 1784  ./a.out 
+ 1785  nano ekspof.c 
+ 1786  gcc ekspof.c -lm
+ 1787  ./a.out 
+ 1788  nano ekspof.c 
+ 1789  gcc ekspof.c -lm
+ 1790  ./a.out 
+ 1791  nano ekspof.c 
+ 1792  gcc ekspof.c -lm
+ 1793  nano ekspof.c 
+ 1794  gcc ekspof.c -lm
+ 1795  ./a.out 
+ 1796  nano ekspof.c 
+ 1797  gcc ekspof.c -lm
+ 1798  ./a.out 
+ 1799  nano ekspof.c 
+ 1800  gcc ekspof.c -lm
+ 1801  ./a.out 
+ 1802  nano ekspof.c 
+ 1803  gcc ekspof.c -lm
+ 1804  nano ekspof.c 
+ 1805  gcc ekspof.c -lm
+ 1806  nano ekspof.c 
+ 1807  gcc ekspof.c -lm
+ 1808  nano ekspof.c 
+ 1809  gcc ekspof.c -lm
+ 1810  ./a.out 
+ 1811  gcc ekspof.c -lm
+ 1812  nano ekspof.c 
+ 1813  ./a.out 
+ 1814  nano ekspof.c 
+ 1815  gcc ekspof.c -lm
+ 1816  ./a.out 
+ 1817  nano ekspof.c 
+ 1818  gcc ekspof.c -lm
+ 1819  ./a.out 
+ 1820  nano ekspof.c 
+ 1821  gcc ekspof.c -lm
+ 1822  ./a.out 
+ 1823  nano ekspof.c 
+ 1824  gcc ekspof.c -lm
+ 1825  nano ekspof.c 
+ 1826  gcc ekspof.c -lm
+ 1827  nano ekspof.c 
+ 1828  gcc ekspof.c -lm
+ 1829  nano ekspof.c 
+ 1830  gcc ekspof.c -lm
+ 1831  ./a.out 
+ 1832  nano ekspof.c 
+ 1833  gcc ekspof.c -lm
+ 1834  nano ekspof.c 
+ 1835  gcc ekspof.c -lm
+ 1836  ./a.out 
+ 1837  nano ekspof.c 
+ 1838  gcc ekspof.c -lm
+ 1839  nano ekspof.c 
+ 1840  gcc ekspof.c -lm
+ 1841  nano ekspof.c 
+ 1842  gcc ekspof.c -lm
+ 1843  nano ekspof.c 
+ 1844  gcc ekspof.c -lm
+ 1845  ./a.out 
+ 1846  nano ekspof.c 
+ 1847  gcc ekspof.c -lm
+ 1848  ./a.out 
+ 1849  nano ekspof.c 
+ 1850  gcc ekspof.c -lm
+ 1851  ./a.out 
+ 1852  nano ekspof.c 
+ 1853  gcc ekspof.c -lm
+ 1854  ./a.out 
+ 1855  nano ekspof.c 
+ 1856  ./a.out 
+ 1857  nano ekspof.c 
+ 1858  gcc ekspof.c -lm
+ 1859  ./a.out 
+ 1860  cd ..
+ 1861  cd HomeWork/
+ 1862  ls -lt
+ 1863  cd PU3_PT3/
+ 1864  ls -lt
+ 1865  nano simplesort.c 
+ 1866  cd ..
+ 1867  ./git-upload home
+ 1868  cd RTR105/
+ 1869  cd Class_13
+ 1870  ls -lt\
+ 1871  ls -lt
+ 1872  nano foo.o
+ 1873  nano main.o
+ 1874  userfunc.c
+ 1875  nano userfunc.c 
+ 1876  main.c
+ 1877  nano main.c
+ 1878  ./a.out 
+ 1879  nano testprogram 
+ 1880  ./testprogram 
+ 1881  cd ..
+ 1882  ls -lt
+ 1883  cd Class_18
+ 1884  ls -lt
+ 1885  ./a.out 
+ 1886  nano galatay.c 
+ 1887  cd
+ 1888  cd RTR105/
+ 1889  nano README.md
+ 1890  nano Class_18
+ 1891  cd Class_18
+ 1892  nano galatay.c 
+ 1893  ./a.out 
+ 1894  nano galatay.c 
+ 1895  init 0
+ 1896  cd RTR105/
+ 1897  ls -lt
+ 1898  mkdir Class_19
+ 1899  cd Class_19
+ 1900  gnuplot
+ 1901  sudu apt install gnuplot-qt
+ 1902  sudu apt install gnuplot-qt # version 5.4.2+dfsg2-2
+ 1903  sudo apt install gnuplot-qt # version 5.4.2+dfsg2-2
+ 1904  gnuplot
+ 1905  cd ..
+ 1906  ls lt
+ 1907  ls -lt
+ 1908  cd Laboratorywork/
+ 1909  ls -lt
+ 1910  mv a.out LD1_LW1/
+ 1911  ls -lt
+ 1912  mv ekspof.c LD1_LW1/
+ 1913  ls -lt
+ 1914  nano LD1_LW1/
+ 1915  cd LD1_LW1/
+ 1916  nano ekspof.c 
+ 1917  gcc -Wall -lm ekspof.c 
+ 1918  gcc -lm ekspof.c 
+ 1919  nano ekspof.c 
+ 1920  gcc -lm ekspof.c 
+ 1921  nano ekspof.c 
+ 1922  gcc ekspof.c -lm
+ 1923  ./a.out 
+ 1924  nano ekspof.c 
+ 1925  gcc ekspof.c -lm
+ 1926  ./a.out 
+ 1927  nano ekspof.c 
+ 1928  cd ..
+ 1929  cd Class_19
+ 1930  ls -lt
+ 1931  cd ..
+ 1932  cd Laboratorywork/
+ 1933  mkdir LD2_LW2/
+ 1934  cd LD2_LW2/
+ 1935  nano dih.c
+ 1936  gcc dih.c -lm
+ 1937  nano dih.c
+ 1938  gcc dih.c -lm
+ 1939  ./a.out 
+ 1940  nano dih.c 
+ 1941  ./a.out 
+ 1942  nano dih.c 
+ 1943  gcc dih.c -lm
+ 1944  ./a.out 
+ 1945  nano dih.c 
+ 1946  gcc dih.c -lm
+ 1947  nano dih.c 
+ 1948  gcc dih.c -lm
+ 1949  nano dih.c 
+ 1950  gcc dih.c -lm
+ 1951  ./a.out 
+ 1952  nano dih.c 
+ 1953  gcc dih.c -lm
+ 1954  ./a.out 
+ 1955  cd ..
+ 1956  cd..
+ 1957  cd ..
+ 1958  history > historycomm.txt 

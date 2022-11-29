@@ -109,3 +109,14 @@ d - dzēst break pointus
 # Taylor
 gcc name -lm  
 
+# GNU plot
+
+gnuplot  
+plot intervāls izteiksme - ievadit grafiku  
+replot - velviena  
+f1()  
+pakāpē celt **  
+set grid replot  
+file.gp  
+load "exaple.gp"  
+
