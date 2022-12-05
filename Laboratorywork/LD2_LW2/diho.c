@@ -3,10 +3,14 @@
 
  int main(){
 
-  float a = 0.01, b = 1.5*M_PI, x, delta_x = 1.e-3, funkca, funkcb, funkcx;
+  float a , b = 1.5*M_PI, x, delta_x = 1.e-3, funkca, funkcb, funkcx;
   int k = 0;
 
+
+  printf("Ievadi vērtību a");
+  scanf("%e", &a);
   funkca = exp(a); funkcb = exp(b);
+
   if(funkca*funkcb > 0){
 
     printf("Intervals [%.2f : %.2f] exp(x) ", a,b);
