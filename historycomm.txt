@@ -1,67 +1,8 @@
- 1018  ssh -X -C pREC035@213.175.92.15 -p 30022~
- 1019  ssh -X -C pREC035@213.175.92.15 -p 30022
- 1020  ssh -X -C pREC221035@213.175.92.15 -p 30022
- 1021  ssh -X -C p221REC035@213.175.92.15 -p 30022
- 1022  ssh -X -C pREC221035@213.175.92.15 -p 30022
- 1023  ssh -X -C p221REC035@213.175.92.15 -p 30022
- 1024  init 0
- 1025  opera
- 1026  ssh -X -C p221REC035@213.175.92.15 -p 30022
- 1027  init 0
- 1028  ls -lt
- 1029  background color green
- 1030  cd RTR105/
- 1031  ls -lt
- 1032  cd HomeWork/
- 1033  cd PU4_PT4/
- 1034  ls -lt
- 1035  ./whilefac.out 
- 1036  nano whilefac.c
- 1037  ./whilefac.out 
- 1038  cd ..
- 1039  ssh -X -C p221REC035@213.175.92.15 -p 30022
- 1040  vlc
- 1041  init 0
- 1042  cd RTR105/
- 1043  ls -lt
- 1044  mkdir Class_16
- 1045  cd Class_16
- 1046  nano symbol.c
- 1047  gcc symbol.c 
- 1048  ./a.out 
- 1049  nano symbol.c
- 1050  gcc symbol.c 
- 1051  ./a.out 
- 1052  nano symbol.c
- 1053  gcc symbol.c 
- 1054  ./a.out 
- 1055  nano symbol.c
- 1056  gcc symbol.c 
- 1057  ./a.out 
- 1058  nano symbol.c
- 1059  gcc symbol.c 
- 1060  ./a.out 
- 1061  nano symbol.c
- 1062  gcc symbol.c 
- 1063  ./a.out 
- 1064  nano symbol.c
- 1065  gcc symbol.c 
- 1066  ./a.out 
- 1067  nano symbol.c
- 1068  gcc symbol.c 
- 1069  ./a.out 
- 1070  nano symbol.c
- 1071  gcc symbol.c 
- 1072  ./a.out 
- 1073  nano statistika.c
- 1074  gcc statistika.c 
- 1075  ./a.out 
- 1076  nano statistika.c
  1077  gcc statistika.c 
  1078  nano statistika.c
  1079  gcc statistika.c 
- 1080  ./a.out 
- 1081  nano statistika.c
+ 1080  nano statistika.c
+ 1081  gcc statistika.c 
  1082  ./a.out 
  1083  nano statistika.c
  1084  gcc statistika.c 
@@ -70,574 +11,574 @@
  1087  nano statistika.c
  1088  gcc statistika.c 
  1089  ./a.out 
- 1090  nano statistika.c
- 1091  gcc statistika.c 
- 1092  ./a.out 
+ 1090  gcc statistika.c 
+ 1091  nano statistika.c
+ 1092  gcc statistika.c 
  1093  nano statistika.c
  1094  gcc statistika.c 
  1095  ./a.out 
  1096  nano statistika.c
  1097  gcc statistika.c 
  1098  ./a.out 
- 1099  gcc statistika.c 
- 1100  nano statistika.c
- 1101  gcc statistika.c 
- 1102  nano statistika.c
- 1103  gcc statistika.c 
- 1104  nano statistika.c
- 1105  gcc statistika.c 
+ 1099  nano statistika.c
+ 1100  gcc statistika.c 
+ 1101  ./a.out 
+ 1102  gcc statistika.c 
+ 1103  nano statistika.c
+ 1104  gcc statistika.c 
+ 1105  ./a.out 
  1106  nano statistika.c
  1107  gcc statistika.c 
  1108  ./a.out 
  1109  nano statistika.c
  1110  gcc statistika.c 
- 1111  nano statistika.c
+ 1111  ./a.out 
  1112  gcc statistika.c 
  1113  nano statistika.c
- 1114  gcc statistika.c 
- 1115  ./a.out 
- 1116  gcc statistika.c 
- 1117  nano statistika.c
- 1118  gcc statistika.c 
+ 1114  ./a.out 
+ 1115  gcc statistika.c 
+ 1116  ./a.out 
+ 1117  caw
+ 1118  ./a.out 
  1119  nano statistika.c
- 1120  gcc statistika.c 
- 1121  ./a.out 
- 1122  nano statistika.c
- 1123  gcc statistika.c 
- 1124  ./a.out 
- 1125  nano statistika.c
- 1126  gcc statistika.c 
- 1127  ./a.out 
- 1128  gcc statistika.c 
- 1129  nano statistika.c
- 1130  gcc statistika.c 
- 1131  ./a.out 
- 1132  nano statistika.c
- 1133  gcc statistika.c 
- 1134  ./a.out 
- 1135  nano statistika.c
- 1136  gcc statistika.c 
- 1137  ./a.out 
- 1138  gcc statistika.c 
+ 1120  ./a.out 
+ 1121  gcc statistika.c 
+ 1122  ./a.out 
+ 1123  nano statistika.c
+ 1124  cd ..
+ 1125  ./git-upload 16
+ 1126  init 0
+ 1127  opera
+ 1128  cd RTR105/
+ 1129  cd Class_16
+ 1130  ls -lt
+ 1131  nano statistika.c
+ 1132  gcc statistika.c 
+ 1133  ./a.out 
+ 1134  nano statistika.c
+ 1135  gcc statistika.c 
+ 1136  nano statistika.c
+ 1137  gcc statistika.c 
+ 1138  ./a.out 
  1139  nano statistika.c
- 1140  ./a.out 
- 1141  gcc statistika.c 
- 1142  ./a.out 
- 1143  caw
- 1144  ./a.out 
- 1145  nano statistika.c
- 1146  ./a.out 
- 1147  gcc statistika.c 
- 1148  ./a.out 
- 1149  nano statistika.c
- 1150  cd ..
- 1151  ./git-upload 16
- 1152  init 0
- 1153  opera
- 1154  cd RTR105/
- 1155  cd Class_16
- 1156  ls -lt
- 1157  nano statistika.c
- 1158  gcc statistika.c 
- 1159  ./a.out 
- 1160  nano statistika.c
- 1161  gcc statistika.c 
- 1162  nano statistika.c
- 1163  gcc statistika.c 
- 1164  ./a.out 
- 1165  nano statistika.c
- 1166  cd ..
- 1167  cd RTR105/
- 1168  ls -lt
- 1169  mv LPE.txt LPE.c
- 1170  nano LPE.c 
- 1171  ./git-upload 17
- 1172  cd Class_16
- 1173  nano statistika.c 
- 1174  gcc statistika.c 
- 1175  ./a.out 
- 1176  nano statistika.c 
- 1177  ./a.out 
- 1178  gcc statistika.c 
- 1179  ./a.out 
- 1180  nano statistika.c 
- 1181  cs ..
- 1182  cd ..
- 1183  mkdir Class_17
- 1184  cd Class_17
- 1185  nano file.c
- 1186  gcc file.c 
- 1187  ./a.out 
- 1188  ls -lt
- 1189  cat teksts.dat 
- 1190  mv file.c files_fprintf.c
- 1191  cp files_fprintf.c files_fscanf.c 
- 1192  nano files_fscanf.c 
- 1193  gcc files_fscanf.c 
- 1194  nano files_fscanf.c 
- 1195  gcc files_fscanf.c 
- 1196  ./a.out 
- 1197  cat files_fscanf.c 
- 1198  cat teksts.dat 
- 1199  ./a.out 
- 1200  nano files_fscanf.c 
- 1201  cp files_fprintf.c files_print_numtext.c
- 1202  nano files_print_numtext.c 
- 1203  gcc files_print_numtext.c 
- 1204  nano files_print_numtext.c 
- 1205  gcc files_print_numtext.c 
- 1206  nano files_print_numtext.c 
- 1207  gcc files_print_numtext.c 
- 1208  nano files_print_numtext.c 
- 1209  gcc files_print_numtext.c 
- 1210  nano files_print_numtext.c 
- 1211  ./a.out 
- 1212  cat numbers.dat 
- 1213  nano files_print_numtext.c 
- 1214  gcc files_print_numtext.c 
- 1215  ./a.out 
- 1216  cat numbers.dat 
- 1217  nano files_print_numtext.c 
- 1218  gcc files_print_numtext.c 
- 1219  ./a.out 
- 1220  cat numbers.dat 
- 1221  nano files_print_numtext.c 
- 1222  gcc files_print_numtext.c 
- 1223  cp files_print_numtext.c files_print_numbin.c 
- 1224  nano files_print_numbin.c 
- 1225  gcc files_print_numbin.c 
- 1226  ./a.out 
- 1227  ls -lt
- 1228  gcc files_print_numbin.c 
- 1229  nano files_print_numbin.c 
- 1230  gcc files_print_numbin.c 
- 1231  ls -lt
- 1232  cat files_print_numbin.c 
- 1233  cat numbers.bin
- 1234  ./a.out 
- 1235  cat numbers.bin
- 1236  nano files_print_numbin.c 
- 1237  ls -lt
- 1238  nano files_print_numbin.c 
- 1239  gcc files_print_numbin.c 
- 1240  ./a.out 
- 1241  ls -lt
- 1242  cd ..
- 1243  history > historycomm.txt 
- 1244  ./git-upload 17
- 1245  init 0
- 1246  cd ..
- 1247  nano README.md
- 1248  cd RTR105/
- 1249  nano README.md
- 1250  ls -lt
- 1251  mkdir Class_18
- 1252  cd Class_18
- 1253  nano pirmtay.c
- 1254  gcc pirmtay.c 
- 1255  nano pirmtay.c
- 1256  gcc pirmtay.c 
- 1257  nano pirmtay.c
- 1258  gcc pirmtay.c 
- 1259  nano pirmtay.c
- 1260  gcc pirmtay.c 
- 1261  nano pirmtay.c
- 1262  gcc pirmtay.c 
- 1263  gcc -m pirmtay.c 
- 1264  g++ pirmtay.c 
- 1265  sudo apt intall g++
- 1266  gcc -M pirmtay.c 
- 1267  sudo apt intall g++
- 1268  sudo apt install g++
- 1269  gcc -lM pirmtay.c 
- 1270  gcc -lm pirmtay.c 
- 1271  ./a.out
- 1272  nano pirmtay.c 
- 1273  gcc -lm pirmtay.c 
- 1274  nano pirmtay.c 
- 1275  gcc -lm pirmtay.c 
- 1276  nano pirmtay.c 
- 1277  gcc -lm pirmtay.c 
- 1278  nano otrstay.c
- 1279  gcc -lm otrstay.c 
- 1280  nano otrstay.c
- 1281  gcc -lm otrstay.c 
- 1282  nano otrstay.c
- 1283  gcc -lm otrstay.c 
- 1284  nano pirmtay.c
- 1285  gcc -lm otrstay.c 
- 1286  nano pirmtay.c
- 1287  gcc -lm pirmtay.c 
- 1288  nano pirmtay.c
- 1289  gcc -lm pirmtay.c 
- 1290  ls -lt
- 1291  nano pirmtay.c
- 1292  gcc pirmtay.c -lm
- 1293  gcc otrstay.c -lm
- 1294  nano pirmtay.c 
- 1295  ./a.out 
- 1296  gcc pirmtay.c -lm
- 1297  ./a.out 
- 1298  nano galatay.c
- 1299  gcc  galatay.c -lm
- 1300  nano galatay.c
- 1301  gcc  galatay.c -lm
- 1302  ./a.out 
- 1303  gcc pirmtay.c -lm
- 1304  ./a.out 
- 1305  gcc otrstay.c -lm
- 1306  ./a.out 
- 1307  cd ..
- 1308  history > historycomm.txt 
- 1309  ./git-upload 18 
- 1310  init 0
- 1311  opera
- 1312  cd RTR105/
- 1313  CD HomeWork/
- 1314  cd HomeWork/
- 1315  ls -lt
- 1316  mkdir PU6_PT6
- 1317  cd PU6_PT6/
- 1318  nano userdefined.h
+ 1140  cd ..
+ 1141  cd RTR105/
+ 1142  ls -lt
+ 1143  mv LPE.txt LPE.c
+ 1144  nano LPE.c 
+ 1145  ./git-upload 17
+ 1146  cd Class_16
+ 1147  nano statistika.c 
+ 1148  gcc statistika.c 
+ 1149  ./a.out 
+ 1150  nano statistika.c 
+ 1151  ./a.out 
+ 1152  gcc statistika.c 
+ 1153  ./a.out 
+ 1154  nano statistika.c 
+ 1155  cs ..
+ 1156  cd ..
+ 1157  mkdir Class_17
+ 1158  cd Class_17
+ 1159  nano file.c
+ 1160  gcc file.c 
+ 1161  ./a.out 
+ 1162  ls -lt
+ 1163  cat teksts.dat 
+ 1164  mv file.c files_fprintf.c
+ 1165  cp files_fprintf.c files_fscanf.c 
+ 1166  nano files_fscanf.c 
+ 1167  gcc files_fscanf.c 
+ 1168  nano files_fscanf.c 
+ 1169  gcc files_fscanf.c 
+ 1170  ./a.out 
+ 1171  cat files_fscanf.c 
+ 1172  cat teksts.dat 
+ 1173  ./a.out 
+ 1174  nano files_fscanf.c 
+ 1175  cp files_fprintf.c files_print_numtext.c
+ 1176  nano files_print_numtext.c 
+ 1177  gcc files_print_numtext.c 
+ 1178  nano files_print_numtext.c 
+ 1179  gcc files_print_numtext.c 
+ 1180  nano files_print_numtext.c 
+ 1181  gcc files_print_numtext.c 
+ 1182  nano files_print_numtext.c 
+ 1183  gcc files_print_numtext.c 
+ 1184  nano files_print_numtext.c 
+ 1185  ./a.out 
+ 1186  cat numbers.dat 
+ 1187  nano files_print_numtext.c 
+ 1188  gcc files_print_numtext.c 
+ 1189  ./a.out 
+ 1190  cat numbers.dat 
+ 1191  nano files_print_numtext.c 
+ 1192  gcc files_print_numtext.c 
+ 1193  ./a.out 
+ 1194  cat numbers.dat 
+ 1195  nano files_print_numtext.c 
+ 1196  gcc files_print_numtext.c 
+ 1197  cp files_print_numtext.c files_print_numbin.c 
+ 1198  nano files_print_numbin.c 
+ 1199  gcc files_print_numbin.c 
+ 1200  ./a.out 
+ 1201  ls -lt
+ 1202  gcc files_print_numbin.c 
+ 1203  nano files_print_numbin.c 
+ 1204  gcc files_print_numbin.c 
+ 1205  ls -lt
+ 1206  cat files_print_numbin.c 
+ 1207  cat numbers.bin
+ 1208  ./a.out 
+ 1209  cat numbers.bin
+ 1210  nano files_print_numbin.c 
+ 1211  ls -lt
+ 1212  nano files_print_numbin.c 
+ 1213  gcc files_print_numbin.c 
+ 1214  ./a.out 
+ 1215  ls -lt
+ 1216  cd ..
+ 1217  history > historycomm.txt 
+ 1218  ./git-upload 17
+ 1219  init 0
+ 1220  cd ..
+ 1221  nano README.md
+ 1222  cd RTR105/
+ 1223  nano README.md
+ 1224  ls -lt
+ 1225  mkdir Class_18
+ 1226  cd Class_18
+ 1227  nano pirmtay.c
+ 1228  gcc pirmtay.c 
+ 1229  nano pirmtay.c
+ 1230  gcc pirmtay.c 
+ 1231  nano pirmtay.c
+ 1232  gcc pirmtay.c 
+ 1233  nano pirmtay.c
+ 1234  gcc pirmtay.c 
+ 1235  nano pirmtay.c
+ 1236  gcc pirmtay.c 
+ 1237  gcc -m pirmtay.c 
+ 1238  g++ pirmtay.c 
+ 1239  sudo apt intall g++
+ 1240  gcc -M pirmtay.c 
+ 1241  sudo apt intall g++
+ 1242  sudo apt install g++
+ 1243  gcc -lM pirmtay.c 
+ 1244  gcc -lm pirmtay.c 
+ 1245  ./a.out
+ 1246  nano pirmtay.c 
+ 1247  gcc -lm pirmtay.c 
+ 1248  nano pirmtay.c 
+ 1249  gcc -lm pirmtay.c 
+ 1250  nano pirmtay.c 
+ 1251  gcc -lm pirmtay.c 
+ 1252  nano otrstay.c
+ 1253  gcc -lm otrstay.c 
+ 1254  nano otrstay.c
+ 1255  gcc -lm otrstay.c 
+ 1256  nano otrstay.c
+ 1257  gcc -lm otrstay.c 
+ 1258  nano pirmtay.c
+ 1259  gcc -lm otrstay.c 
+ 1260  nano pirmtay.c
+ 1261  gcc -lm pirmtay.c 
+ 1262  nano pirmtay.c
+ 1263  gcc -lm pirmtay.c 
+ 1264  ls -lt
+ 1265  nano pirmtay.c
+ 1266  gcc pirmtay.c -lm
+ 1267  gcc otrstay.c -lm
+ 1268  nano pirmtay.c 
+ 1269  ./a.out 
+ 1270  gcc pirmtay.c -lm
+ 1271  ./a.out 
+ 1272  nano galatay.c
+ 1273  gcc  galatay.c -lm
+ 1274  nano galatay.c
+ 1275  gcc  galatay.c -lm
+ 1276  ./a.out 
+ 1277  gcc pirmtay.c -lm
+ 1278  ./a.out 
+ 1279  gcc otrstay.c -lm
+ 1280  ./a.out 
+ 1281  cd ..
+ 1282  history > historycomm.txt 
+ 1283  ./git-upload 18 
+ 1284  init 0
+ 1285  opera
+ 1286  cd RTR105/
+ 1287  CD HomeWork/
+ 1288  cd HomeWork/
+ 1289  ls -lt
+ 1290  mkdir PU6_PT6
+ 1291  cd PU6_PT6/
+ 1292  nano userdefined.h
+ 1293  nano userdefined.c
+ 1294  nano main.c 
+ 1295  gcc -Wall -c userdefined.c
+ 1296  gcc -Wall -c main.c 
+ 1297  gcc -o program userdefined.o main.o
+ 1298  nano userdefined.o
+ 1299  nano userdefined.c
+ 1300  nano userdefined.h
+ 1301  gcc -Wall -c userdefined.c
+ 1302  gcc -Wall -c main.c 
+ 1303  nano main.c
+ 1304  gcc -Wall -c userdefined.c
+ 1305  gcc -Wall -c main.c 
+ 1306  gcc -o program userdefined.o main.o
+ 1307  ./program 
+ 1308  ls -lt
+ 1309  nano userdefined.h
+ 1310  nano userdefined.c
+ 1311  nano main.c
+ 1312  gcc -Wall -c userdefined.c
+ 1313  gcc -Wall -c main.c
+ 1314  gcc -o program userdefined.o main.o
+ 1315  ./program 
+ 1316  nano userdefined.c
+ 1317  mv userdefined.c nargnret.c
+ 1318  nano main.c
  1319  nano userdefined.c
- 1320  nano main.c 
- 1321  gcc -Wall -c userdefined.c
- 1322  gcc -Wall -c main.c 
- 1323  gcc -o program userdefined.o main.o
- 1324  nano userdefined.o
- 1325  nano userdefined.c
- 1326  nano userdefined.h
- 1327  gcc -Wall -c userdefined.c
- 1328  gcc -Wall -c main.c 
+ 1320  ls -lt
+ 1321  nano userdefined.h
+ 1322  gcc -Wall -c nargnret.c 
+ 1323  nano nargnret.c 
+ 1324  gcc -Wall -c nargnret.c 
+ 1325  gcc -Wall -c main.c
+ 1326  gcc -o program nargnret.o main.o
+ 1327  ./program 
+ 1328  nano nargnret.c
  1329  nano main.c
- 1330  gcc -Wall -c userdefined.c
- 1331  gcc -Wall -c main.c 
- 1332  gcc -o program userdefined.o main.o
- 1333  ./program 
- 1334  ls -lt
- 1335  nano userdefined.h
- 1336  nano userdefined.c
- 1337  nano main.c
- 1338  gcc -Wall -c userdefined.c
- 1339  gcc -Wall -c main.c
- 1340  gcc -o program userdefined.o main.o
- 1341  ./program 
- 1342  nano userdefined.c
- 1343  mv userdefined.c nargnret.c
- 1344  nano main.c
- 1345  nano userdefined.c
- 1346  ls -lt
- 1347  nano userdefined.h
- 1348  gcc -Wall -c nargnret.c 
- 1349  nano nargnret.c 
- 1350  gcc -Wall -c nargnret.c 
- 1351  gcc -Wall -c main.c
- 1352  gcc -o program nargnret.o main.o
- 1353  ./program 
- 1354  nano nargnret.c
+ 1330  nano wargnret.c
+ 1331  nano userdefined.h
+ 1332  nano main.c
+ 1333  gcc -Wall -c nargnret.c 
+ 1334  gcc -Wall -c wargnret.c 
+ 1335  nano wargnret.c 
+ 1336  nano main.c
+ 1337  gcc -Wall -c wargnret.c 
+ 1338  gcc -Wall -c main.c 
+ 1339  nano main.c
+ 1340  nano userdefined.c
+ 1341  nano userdefined.h
+ 1342  gcc -Wall -c wargnret.c 
+ 1343  gcc -Wall -c main.c 
+ 1344  nano main
+ 1345  nano main.c
+ 1346  gcc -Wall -c wargnret.c 
+ 1347  gcc -Wall -c main.c 
+ 1348  nano userdefined.h
+ 1349  nano main.c
+ 1350  gcc -Wall -c wargnret.c 
+ 1351  gcc -Wall -c main.c 
+ 1352  nano main.c
+ 1353  gcc -Wall -c wargnret.c 
+ 1354  gcc -Wall -c main.c 
  1355  nano main.c
- 1356  nano wargnret.c
- 1357  nano userdefined.h
- 1358  nano main.c
- 1359  gcc -Wall -c nargnret.c 
- 1360  gcc -Wall -c wargnret.c 
- 1361  nano wargnret.c 
+ 1356  gcc -0 program wargnret..o main.o
+ 1357  gcc -o program wargnret..o main.o
+ 1358  gcc -o program wargnret.o main.o
+ 1359  gcc -o program wargnret.o nargnret.o main.o
+ 1360  ./program 
+ 1361  nano nargnret.c
  1362  nano main.c
  1363  gcc -Wall -c wargnret.c 
- 1364  gcc -Wall -c main.c 
- 1365  nano main.c
- 1366  nano userdefined.c
- 1367  nano userdefined.h
- 1368  gcc -Wall -c wargnret.c 
- 1369  gcc -Wall -c main.c 
- 1370  nano main
+ 1364  gcc -Wall -c nargnret.c 
+ 1365  gcc -Wall -c main.c 
+ 1366  gcc -o program wargnret.o nargnret.o main.o
+ 1367  ./program 
+ 1368  nano nargnret.c
+ 1369  ls -lt
+ 1370  nano nargwret.c
  1371  nano main.c
- 1372  gcc -Wall -c wargnret.c 
- 1373  gcc -Wall -c main.c 
- 1374  nano userdefined.h
- 1375  nano main.c
- 1376  gcc -Wall -c wargnret.c 
- 1377  gcc -Wall -c main.c 
+ 1372  nano userdefined.c
+ 1373  nano userdefined.h
+ 1374  gcc -Wall -c wargnret.c
+ 1375  gcc -Wall -c nargnret.c
+ 1376  gcc -Wall -c nargwret.c
+ 1377  nano nargwret.c 
  1378  nano main.c
- 1379  gcc -Wall -c wargnret.c 
- 1380  gcc -Wall -c main.c 
- 1381  nano main.c
- 1382  gcc -0 program wargnret..o main.o
- 1383  gcc -o program wargnret..o main.o
- 1384  gcc -o program wargnret.o main.o
- 1385  gcc -o program wargnret.o nargnret.o main.o
- 1386  ./program 
+ 1379  nano userdefined.h
+ 1380  gcc -Wall -c wargnret.c
+ 1381  gcc -Wall -c nargnret.c
+ 1382  gcc -Wall -c nargwret.c
+ 1383  nano nargwret.c 
+ 1384  gcc -Wall -c nargwret.c
+ 1385  nano nargwret.c 
+ 1386  gcc -Wall -c nargwret.c
  1387  nano nargnret.c
- 1388  nano main.c
- 1389  gcc -Wall -c wargnret.c 
- 1390  gcc -Wall -c nargnret.c 
- 1391  gcc -Wall -c main.c 
- 1392  gcc -o program wargnret.o nargnret.o main.o
- 1393  ./program 
- 1394  nano nargnret.c
- 1395  ls -lt
- 1396  nano nargwret.c
- 1397  nano main.c
- 1398  nano userdefined.c
- 1399  nano userdefined.h
- 1400  gcc -Wall -c wargnret.c
- 1401  gcc -Wall -c nargnret.c
+ 1388  nano nargwret.c 
+ 1389  nano userdefined.h
+ 1390  nano main.c
+ 1391  gcc -Wall -c nargwret.c
+ 1392  nano nargwret.c 
+ 1393  gcc -Wall -c nargwret.c
+ 1394  nano main.c
+ 1395  nano nargwret.c 
+ 1396  nano main.c
+ 1397  nano userdefined.h
+ 1398  gcc -Wall -c nargwret.c
+ 1399  nano nargwret.c 
+ 1400  gcc -Wall -c nargwret.c
+ 1401  nano nargwret.c 
  1402  gcc -Wall -c nargwret.c
  1403  nano nargwret.c 
- 1404  nano main.c
- 1405  nano userdefined.h
- 1406  gcc -Wall -c wargnret.c
- 1407  gcc -Wall -c nargnret.c
+ 1404  gcc -Wall -c nargwret.c
+ 1405  nano nargwret.c 
+ 1406  nano main.c
+ 1407  nano userdefined.h
  1408  gcc -Wall -c nargwret.c
- 1409  nano nargwret.c 
- 1410  gcc -Wall -c nargwret.c
- 1411  nano nargwret.c 
- 1412  gcc -Wall -c nargwret.c
- 1413  nano nargnret.c
- 1414  nano nargwret.c 
- 1415  nano userdefined.h
- 1416  nano main.c
+ 1409  nano nargwret.
+ 1410  nano nargwret.c
+ 1411  gcc -Wall -c nargwret.c
+ 1412  nano nargwret.c
+ 1413  gcc -Wall -c nargwret.c
+ 1414  nano nargwret.c
+ 1415  gcc -Wall -c nargwret.c
+ 1416  nano nargwret.c
  1417  gcc -Wall -c nargwret.c
- 1418  nano nargwret.c 
+ 1418  nano nargwret.c
  1419  gcc -Wall -c nargwret.c
- 1420  nano main.c
- 1421  nano nargwret.c 
- 1422  nano main.c
- 1423  nano userdefined.h
- 1424  gcc -Wall -c nargwret.c
- 1425  nano nargwret.c 
- 1426  gcc -Wall -c nargwret.c
- 1427  nano nargwret.c 
+ 1420  nano nargwret.c
+ 1421  gcc -Wall -c nargwret.c
+ 1422  nano nargwret.c
+ 1423  gcc -Wall -c nargwret.c
+ 1424  nano nargwret.c
+ 1425  gcc -Wall -c nargwret.c
+ 1426  nano main.c
+ 1427  nano nargwret.c
  1428  gcc -Wall -c nargwret.c
- 1429  nano nargwret.c 
- 1430  gcc -Wall -c nargwret.c
- 1431  nano nargwret.c 
+ 1429  gcc -Wall -c main.c
+ 1430  nano main.c
+ 1431  gcc -Wall -c main.c
  1432  nano main.c
- 1433  nano userdefined.h
- 1434  gcc -Wall -c nargwret.c
- 1435  nano nargwret.
- 1436  nano nargwret.c
- 1437  gcc -Wall -c nargwret.c
- 1438  nano nargwret.c
- 1439  gcc -Wall -c nargwret.c
- 1440  nano nargwret.c
- 1441  gcc -Wall -c nargwret.c
- 1442  nano nargwret.c
- 1443  gcc -Wall -c nargwret.c
- 1444  nano nargwret.c
- 1445  gcc -Wall -c nargwret.c
- 1446  nano nargwret.c
- 1447  gcc -Wall -c nargwret.c
- 1448  nano nargwret.c
- 1449  gcc -Wall -c nargwret.c
- 1450  nano nargwret.c
- 1451  gcc -Wall -c nargwret.c
- 1452  nano main.c
- 1453  nano nargwret.c
- 1454  gcc -Wall -c nargwret.c
- 1455  gcc -Wall -c main.c
- 1456  nano main.c
- 1457  gcc -Wall -c main.c
- 1458  nano main.c
- 1459  gcc -Wall -c main.c
- 1460  gcc -o nargnret.o wargnret.o nargwret.o main.o
+ 1433  gcc -Wall -c main.c
+ 1434  gcc -o nargnret.o wargnret.o nargwret.o main.o
+ 1435  gcc -o program nargnret.o wargnret.o nargwret.o main.o
+ 1436  ls -lt
+ 1437  nano main.c
+ 1438  gcc -Wall -c nargnret.c 
+ 1439  gcc -Wall -c nargwret.c 
+ 1440  gcc -Wall -c wargnret.c 
+ 1441  gcc -Wall -c main.c
+ 1442  gcc -o program nargnret.o wargnret.o nargwret.o main.o
+ 1443  ./program 
+ 1444  nano main.c
+ 1445  gcc -Wall -c nargnret.c 
+ 1446  gcc -Wall -c nargwret.c 
+ 1447  gcc -Wall -c wargnret.c 
+ 1448  gcc -Wall -c main.c
+ 1449  nano main.c
+ 1450  gcc -Wall -c main.c
+ 1451  nano main.c
+ 1452  gcc -Wall -c main.c
+ 1453  gcc -o program nargnret.o wargnret.o nargwret.o main.o
+ 1454  ./program 
+ 1455  nano main.c
+ 1456  gcc -Wall -c main.c
+ 1457  gcc -o program nargnret.o wargnret.o nargwret.o main.o
+ 1458  ./program 
+ 1459  nano main.c
+ 1460  gcc -Wall -c main.c
  1461  gcc -o program nargnret.o wargnret.o nargwret.o main.o
- 1462  ls -lt
+ 1462  ./program 
  1463  nano main.c
- 1464  gcc -Wall -c nargnret.c 
- 1465  gcc -Wall -c nargwret.c 
- 1466  gcc -Wall -c wargnret.c 
- 1467  gcc -Wall -c main.c
- 1468  gcc -o program nargnret.o wargnret.o nargwret.o main.o
- 1469  ./program 
- 1470  nano main.c
- 1471  gcc -Wall -c nargnret.c 
- 1472  gcc -Wall -c nargwret.c 
- 1473  gcc -Wall -c wargnret.c 
- 1474  gcc -Wall -c main.c
- 1475  nano main.c
- 1476  gcc -Wall -c main.c
- 1477  nano main.c
- 1478  gcc -Wall -c main.c
- 1479  gcc -o program nargnret.o wargnret.o nargwret.o main.o
- 1480  ./program 
- 1481  nano main.c
- 1482  gcc -Wall -c main.c
- 1483  gcc -o program nargnret.o wargnret.o nargwret.o main.o
- 1484  ./program 
+ 1464  ls -lt
+ 1465  nano wargnwret.c
+ 1466  nano nargwret.c
+ 1467  nano wargnwret.c
+ 1468  nano userdefined.h
+ 1469  nano main.c
+ 1470  gcc -Wall -c nargnret.c
+ 1471  gcc -Wall -c nargwret.c
+ 1472  gcc -Wall -c wargnret.c
+ 1473  gcc -Wall -c wargwret.c
+ 1474  ls -lt
+ 1475  mv wargnwret.c wargwret.c
+ 1476  gcc -Wall -c wargwret.c
+ 1477  gcc -Wall -c main.c
+ 1478  ./program 
+ 1479  nano main.c
+ 1480  gcc -Wall -c wargwret.c
+ 1481  gcc -Wall -c main.c
+ 1482  nano main.c
+ 1483  gcc -Wall -c main.c
+ 1484  nano wargwret.c
  1485  nano main.c
  1486  gcc -Wall -c main.c
- 1487  gcc -o program nargnret.o wargnret.o nargwret.o main.o
- 1488  ./program 
+ 1487  nano main.c
+ 1488  gcc -Wall -c main.c
  1489  nano main.c
- 1490  ls -lt
- 1491  nano wargnwret.c
- 1492  nano nargwret.c
- 1493  nano wargnwret.c
- 1494  nano userdefined.h
- 1495  nano main.c
- 1496  gcc -Wall -c nargnret.c
- 1497  gcc -Wall -c nargwret.c
- 1498  gcc -Wall -c wargnret.c
- 1499  gcc -Wall -c wargwret.c
- 1500  ls -lt
- 1501  mv wargnwret.c wargwret.c
- 1502  gcc -Wall -c wargwret.c
- 1503  gcc -Wall -c main.c
- 1504  ./program 
+ 1490  gcc -Wall -c main.c
+ 1491  gcc -o program nargnret.o nargwret.o wargnret.o main.o
+ 1492  nano main.c
+ 1493  gcc -o program nargnret.o nargwret.o wargnret.o main.o
+ 1494  nano wargwret.c
+ 1495  nano nargwret.c
+ 1496  nano wargnret.c
+ 1497  nano wargwret.c
+ 1498  nano nargwret.c
+ 1499  nano wargnret.c\
+ 1500  nano wargnret.c
+ 1501  nano main.c
+ 1502  nano userdefined.c
+ 1503  nano userdefined.h
+ 1504  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
  1505  nano main.c
- 1506  gcc -Wall -c wargwret.c
- 1507  gcc -Wall -c main.c
- 1508  nano main.c
- 1509  gcc -Wall -c main.c
+ 1506  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
+ 1507  nano main.c
+ 1508  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
+ 1509  nano main.c
  1510  nano wargwret.c
- 1511  nano main.c
- 1512  gcc -Wall -c main.c
+ 1511  nano userdefined.h
+ 1512  nano wargwret.c
  1513  nano main.c
- 1514  gcc -Wall -c main.c
- 1515  nano main.c
+ 1514  nano userdefined.h
+ 1515  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
  1516  gcc -Wall -c main.c
- 1517  gcc -o program nargnret.o nargwret.o wargnret.o main.o
- 1518  nano main.c
- 1519  gcc -o program nargnret.o nargwret.o wargnret.o main.o
- 1520  nano wargwret.c
- 1521  nano nargwret.c
- 1522  nano wargnret.c
- 1523  nano wargwret.c
- 1524  nano nargwret.c
- 1525  nano wargnret.c\
- 1526  nano wargnret.c
- 1527  nano main.c
- 1528  nano userdefined.c
- 1529  nano userdefined.h
- 1530  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
- 1531  nano main.c
- 1532  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
- 1533  nano main.c
- 1534  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
- 1535  nano main.c
- 1536  nano wargwret.c
- 1537  nano userdefined.h
- 1538  nano wargwret.c
- 1539  nano main.c
- 1540  nano userdefined.h
- 1541  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
- 1542  gcc -Wall -c main.c
- 1543  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
- 1544  nano userdefined.c
- 1545  nano userdefined.h
- 1546  nano main.c
- 1547  nano wargwret.c
- 1548  gcc -Wall -c nargnret.c
- 1549  gcc -Wall -c nargwret.c
- 1550  gcc -Wall -c wargwret.c
- 1551  gcc -Wall -c wargnret.c
- 1552  gcc -Wall -c main.c
- 1553  gcc -o program nargnret.o nargwret.o wargwret.o wargnret.o main.o
- 1554  ./program 
- 1555  nano main.c
- 1556  gcc -Wall -c mai.c
- 1557  gcc -Wall -c main.c
- 1558  gcc -o program nargnret.o nargwret.o wargwret.o wargnret.o main.o
- 1559  ./program 
- 1560  nano main.c
- 1561  gcc -Wall -c main.c
- 1562  gcc -o program nargnret.o nargwret.o wargwret.o wargnret.o main.o
- 1563  ./program 
- 1564  cd ..
- 1565  history >historycomm.txt 
- 1566  ./git-upload home
- 1567  ls -lt
- 1568  mkdir Laboratorywork
- 1569  cd Laboratorywork/
- 1570  mkdir LD1_LW1
- 1571  nano ekspof.c
- 1572  gcc ekspof.c 
- 1573  nano ekspof.c
- 1574  gcc ekspof.c 
- 1575  nano ekspof.c
- 1576  gcc ekspof.c 
- 1577  nano ekspof.c
- 1578  gcc ekspof.c 
- 1579  nano ekspof.c
- 1580  gcc ekspof.c -c 
- 1581  ./a.out
- 1582  /ls -lt
- 1583  ls -lt
- 1584  rm ekspof.o
- 1585  ls -lt
- 1586  gcc ekspof.c -lm
- 1587  ./a.out 
+ 1517  gcc -Wall -o program nargnret.o nargwret.o wargnret.o main.o
+ 1518  nano userdefined.c
+ 1519  nano userdefined.h
+ 1520  nano main.c
+ 1521  nano wargwret.c
+ 1522  gcc -Wall -c nargnret.c
+ 1523  gcc -Wall -c nargwret.c
+ 1524  gcc -Wall -c wargwret.c
+ 1525  gcc -Wall -c wargnret.c
+ 1526  gcc -Wall -c main.c
+ 1527  gcc -o program nargnret.o nargwret.o wargwret.o wargnret.o main.o
+ 1528  ./program 
+ 1529  nano main.c
+ 1530  gcc -Wall -c mai.c
+ 1531  gcc -Wall -c main.c
+ 1532  gcc -o program nargnret.o nargwret.o wargwret.o wargnret.o main.o
+ 1533  ./program 
+ 1534  nano main.c
+ 1535  gcc -Wall -c main.c
+ 1536  gcc -o program nargnret.o nargwret.o wargwret.o wargnret.o main.o
+ 1537  ./program 
+ 1538  cd ..
+ 1539  history >historycomm.txt 
+ 1540  ./git-upload home
+ 1541  ls -lt
+ 1542  mkdir Laboratorywork
+ 1543  cd Laboratorywork/
+ 1544  mkdir LD1_LW1
+ 1545  nano ekspof.c
+ 1546  gcc ekspof.c 
+ 1547  nano ekspof.c
+ 1548  gcc ekspof.c 
+ 1549  nano ekspof.c
+ 1550  gcc ekspof.c 
+ 1551  nano ekspof.c
+ 1552  gcc ekspof.c 
+ 1553  nano ekspof.c
+ 1554  gcc ekspof.c -c 
+ 1555  ./a.out
+ 1556  /ls -lt
+ 1557  ls -lt
+ 1558  rm ekspof.o
+ 1559  ls -lt
+ 1560  gcc ekspof.c -lm
+ 1561  ./a.out 
+ 1562  nano ekspof.c 
+ 1563  gcc ekspof.c -lm
+ 1564  ./a.out 
+ 1565  nano ekspof.c 
+ 1566  gcc ekspof.c -lm
+ 1567  nano ekspof.c 
+ 1568  ./a.out 
+ 1569  nano ekspof.c 
+ 1570  gcc ekspof.c -lm
+ 1571  ./a.out 
+ 1572  nano ekspof.c 
+ 1573  gcc ekspof.c -lm
+ 1574  ./a.out 
+ 1575  nano ekspof.c 
+ 1576  gcc ekspof.c -lm
+ 1577  ./a.out 
+ 1578  gcc ekspof.c -lm
+ 1579  nano ekspof.c 
+ 1580  gcc ekspof.c -lm
+ 1581  ./a.out 
+ 1582  nano ekspof.c 
+ 1583  ./a.out 
+ 1584  gcc ekspof.c -lm
+ 1585  ./a.out 
+ 1586  nano ekspof.c 
+ 1587  gcc ekspof.c -lm
  1588  nano ekspof.c 
  1589  gcc ekspof.c -lm
- 1590  ./a.out 
- 1591  nano ekspof.c 
- 1592  gcc ekspof.c -lm
- 1593  nano ekspof.c 
+ 1590  nano ekspof.c 
+ 1591  gcc ekspof.c -lm
+ 1592  nano ekspof.c 
+ 1593  gcc ekspof.c -lm
  1594  ./a.out 
  1595  nano ekspof.c 
  1596  gcc ekspof.c -lm
  1597  ./a.out 
  1598  nano ekspof.c 
  1599  gcc ekspof.c -lm
- 1600  ./a.out 
- 1601  nano ekspof.c 
- 1602  gcc ekspof.c -lm
- 1603  ./a.out 
+ 1600  nano ekspof.c 
+ 1601  gcc ekspof.c -lm
+ 1602  ./a.out 
+ 1603  nano ekspof.c 
  1604  gcc ekspof.c -lm
- 1605  nano ekspof.c 
- 1606  gcc ekspof.c -lm
- 1607  ./a.out 
- 1608  nano ekspof.c 
- 1609  ./a.out 
+ 1605  ./a.out 
+ 1606  nano ekspof.c 
+ 1607  gcc ekspof.c -lm
+ 1608  ./a.out 
+ 1609  nano ekspof.c 
  1610  gcc ekspof.c -lm
- 1611  ./a.out 
- 1612  nano ekspof.c 
- 1613  gcc ekspof.c -lm
- 1614  nano ekspof.c 
- 1615  gcc ekspof.c -lm
+ 1611  nano ekspof.c 
+ 1612  gcc ekspof.c -lm
+ 1613  nano ekspof.c 
+ 1614  gcc ekspof.c -lm
+ 1615  ./a.out 
  1616  nano ekspof.c 
  1617  gcc ekspof.c -lm
- 1618  nano ekspof.c 
- 1619  gcc ekspof.c -lm
- 1620  ./a.out 
- 1621  nano ekspof.c 
- 1622  gcc ekspof.c -lm
- 1623  ./a.out 
- 1624  nano ekspof.c 
- 1625  gcc ekspof.c -lm
- 1626  nano ekspof.c 
- 1627  gcc ekspof.c -lm
- 1628  ./a.out 
- 1629  nano ekspof.c 
- 1630  gcc ekspof.c -lm
- 1631  ./a.out 
+ 1618  ./a.out 
+ 1619  nano ekspof.c 
+ 1620  gcc ekspof.c -lm
+ 1621  ./a.out 
+ 1622  nano ekspof.c 
+ 1623  gcc ekspof.c -lm
+ 1624  ./a.out 
+ 1625  nano ekspof.c 
+ 1626  gcc ekspof.c -lm
+ 1627  ./a.out 
+ 1628  nano ekspof.c 
+ 1629  gcc ekspof.c -lm
+ 1630  nano ekspof.c 
+ 1631  gcc ekspof.c -lm
  1632  nano ekspof.c 
  1633  gcc ekspof.c -lm
  1634  ./a.out 
  1635  nano ekspof.c 
  1636  gcc ekspof.c -lm
- 1637  nano ekspof.c 
- 1638  gcc ekspof.c -lm
- 1639  nano ekspof.c 
- 1640  gcc ekspof.c -lm
- 1641  ./a.out 
- 1642  nano ekspof.c 
- 1643  gcc ekspof.c -lm
- 1644  ./a.out 
- 1645  nano ekspof.c 
- 1646  gcc ekspof.c -lm
- 1647  ./a.out 
- 1648  nano ekspof.c 
- 1649  gcc ekspof.c -lm
- 1650  ./a.out 
- 1651  nano ekspof.c 
- 1652  gcc ekspof.c -lm
- 1653  ./a.out 
- 1654  nano ekspof.c 
- 1655  gcc ekspof.c -lm
- 1656  nano ekspof.c 
- 1657  gcc ekspof.c -lm
+ 1637  ./a.out 
+ 1638  nano ekspof.c 
+ 1639  gcc ekspof.c -lm
+ 1640  ./a.out 
+ 1641  nano ekspof.c 
+ 1642  gcc ekspof.c -lm
+ 1643  ./a.out 
+ 1644  nano ekspof.c 
+ 1645  gcc ekspof.c -lm
+ 1646  ./a.out 
+ 1647  nano ekspof.c 
+ 1648  gcc ekspof.c -lm
+ 1649  ./a.out 
+ 1650  nano ekspof.c 
+ 1651  gcc ekspof.c -lm
+ 1652  ./a.out 
+ 1653  nano ekspof.c 
+ 1654  gcc ekspof.c -lm
+ 1655  nano ekspof.c 
+ 1656  gcc ekspof.c -lm
+ 1657  ./a.out 
  1658  nano ekspof.c 
  1659  gcc ekspof.c -lm
  1660  ./a.out 
@@ -646,45 +587,45 @@
  1663  ./a.out 
  1664  nano ekspof.c 
  1665  gcc ekspof.c -lm
- 1666  ./a.out 
- 1667  nano ekspof.c 
- 1668  gcc ekspof.c -lm
- 1669  ./a.out 
+ 1666  nano ekspof.c 
+ 1667  gcc ekspof.c -lm
+ 1668  nano ekspof.c 
+ 1669  gcc ekspof.c -lm
  1670  nano ekspof.c 
  1671  gcc ekspof.c -lm
  1672  ./a.out 
- 1673  nano ekspof.c 
- 1674  gcc ekspof.c -lm
+ 1673  gcc ekspof.c -lm
+ 1674  nano ekspof.c 
  1675  ./a.out 
  1676  nano ekspof.c 
  1677  gcc ekspof.c -lm
  1678  ./a.out 
  1679  nano ekspof.c 
  1680  gcc ekspof.c -lm
- 1681  nano ekspof.c 
- 1682  gcc ekspof.c -lm
- 1683  ./a.out 
- 1684  nano ekspof.c 
- 1685  gcc ekspof.c -lm
- 1686  ./a.out 
+ 1681  ./a.out 
+ 1682  nano ekspof.c 
+ 1683  gcc ekspof.c -lm
+ 1684  ./a.out 
+ 1685  nano ekspof.c 
+ 1686  gcc ekspof.c -lm
  1687  nano ekspof.c 
  1688  gcc ekspof.c -lm
- 1689  ./a.out 
- 1690  nano ekspof.c 
- 1691  gcc ekspof.c -lm
- 1692  nano ekspof.c 
- 1693  gcc ekspof.c -lm
+ 1689  nano ekspof.c 
+ 1690  gcc ekspof.c -lm
+ 1691  nano ekspof.c 
+ 1692  gcc ekspof.c -lm
+ 1693  ./a.out 
  1694  nano ekspof.c 
  1695  gcc ekspof.c -lm
  1696  nano ekspof.c 
  1697  gcc ekspof.c -lm
  1698  ./a.out 
- 1699  gcc ekspof.c -lm
- 1700  nano ekspof.c 
- 1701  ./a.out 
- 1702  nano ekspof.c 
- 1703  gcc ekspof.c -lm
- 1704  ./a.out 
+ 1699  nano ekspof.c 
+ 1700  gcc ekspof.c -lm
+ 1701  nano ekspof.c 
+ 1702  gcc ekspof.c -lm
+ 1703  nano ekspof.c 
+ 1704  gcc ekspof.c -lm
  1705  nano ekspof.c 
  1706  gcc ekspof.c -lm
  1707  ./a.out 
@@ -693,308 +634,367 @@
  1710  ./a.out 
  1711  nano ekspof.c 
  1712  gcc ekspof.c -lm
- 1713  nano ekspof.c 
- 1714  gcc ekspof.c -lm
- 1715  nano ekspof.c 
- 1716  gcc ekspof.c -lm
+ 1713  ./a.out 
+ 1714  nano ekspof.c 
+ 1715  gcc ekspof.c -lm
+ 1716  ./a.out 
  1717  nano ekspof.c 
- 1718  gcc ekspof.c -lm
- 1719  ./a.out 
- 1720  nano ekspof.c 
- 1721  gcc ekspof.c -lm
- 1722  nano ekspof.c 
- 1723  gcc ekspof.c -lm
- 1724  ./a.out 
- 1725  nano ekspof.c 
- 1726  gcc ekspof.c -lm
- 1727  nano ekspof.c 
- 1728  gcc ekspof.c -lm
- 1729  nano ekspof.c 
- 1730  gcc ekspof.c -lm
- 1731  nano ekspof.c 
- 1732  gcc ekspof.c -lm
- 1733  ./a.out 
- 1734  nano ekspof.c 
- 1735  gcc ekspof.c -lm
- 1736  ./a.out 
- 1737  nano ekspof.c 
- 1738  gcc ekspof.c -lm
- 1739  ./a.out 
- 1740  nano ekspof.c 
- 1741  gcc ekspof.c -lm
- 1742  ./a.out 
- 1743  nano ekspof.c 
- 1744  ./a.out 
- 1745  nano ekspof.c 
- 1746  gcc ekspof.c -lm
+ 1718  ./a.out 
+ 1719  nano ekspof.c 
+ 1720  gcc ekspof.c -lm
+ 1721  ./a.out 
+ 1722  cd ..
+ 1723  cd HomeWork/
+ 1724  ls -lt
+ 1725  cd PU3_PT3/
+ 1726  ls -lt
+ 1727  nano simplesort.c 
+ 1728  cd ..
+ 1729  ./git-upload home
+ 1730  cd RTR105/
+ 1731  cd Class_13
+ 1732  ls -lt\
+ 1733  ls -lt
+ 1734  nano foo.o
+ 1735  nano main.o
+ 1736  userfunc.c
+ 1737  nano userfunc.c 
+ 1738  main.c
+ 1739  nano main.c
+ 1740  ./a.out 
+ 1741  nano testprogram 
+ 1742  ./testprogram 
+ 1743  cd ..
+ 1744  ls -lt
+ 1745  cd Class_18
+ 1746  ls -lt
  1747  ./a.out 
- 1748  cd ..
- 1749  cd HomeWork/
- 1750  ls -lt
- 1751  cd PU3_PT3/
- 1752  ls -lt
- 1753  nano simplesort.c 
- 1754  cd ..
- 1755  ./git-upload home
- 1756  cd RTR105/
- 1757  cd Class_13
- 1758  ls -lt\
- 1759  ls -lt
- 1760  nano foo.o
- 1761  nano main.o
- 1762  userfunc.c
- 1763  nano userfunc.c 
- 1764  main.c
- 1765  nano main.c
- 1766  ./a.out 
- 1767  nano testprogram 
- 1768  ./testprogram 
- 1769  cd ..
- 1770  ls -lt
- 1771  cd Class_18
+ 1748  nano galatay.c 
+ 1749  cd
+ 1750  cd RTR105/
+ 1751  nano README.md
+ 1752  nano Class_18
+ 1753  cd Class_18
+ 1754  nano galatay.c 
+ 1755  ./a.out 
+ 1756  nano galatay.c 
+ 1757  init 0
+ 1758  cd ..
+ 1759  nano README.md
+ 1760  opera
+ 1761  cd RTR105/
+ 1762  ls -lt
+ 1763  mkdir Class_19
+ 1764  cd Class_19
+ 1765  gnuplot
+ 1766  sudu apt install gnuplot-qt
+ 1767  sudu apt install gnuplot-qt # version 5.4.2+dfsg2-2
+ 1768  sudo apt install gnuplot-qt # version 5.4.2+dfsg2-2
+ 1769  gnuplot
+ 1770  cd ..
+ 1771  ls lt
  1772  ls -lt
- 1773  ./a.out 
- 1774  nano galatay.c 
- 1775  cd
- 1776  cd RTR105/
- 1777  nano README.md
- 1778  nano Class_18
- 1779  cd Class_18
- 1780  nano galatay.c 
- 1781  ./a.out 
- 1782  nano galatay.c 
- 1783  init 0
- 1784  cd ..
- 1785  nano README.md
- 1786  opera
- 1787  cd RTR105/
- 1788  ls -lt
- 1789  mkdir Class_19
- 1790  cd Class_19
- 1791  gnuplot
- 1792  sudu apt install gnuplot-qt
- 1793  sudu apt install gnuplot-qt # version 5.4.2+dfsg2-2
- 1794  sudo apt install gnuplot-qt # version 5.4.2+dfsg2-2
- 1795  gnuplot
+ 1773  cd Laboratorywork/
+ 1774  ls -lt
+ 1775  mv a.out LD1_LW1/
+ 1776  ls -lt
+ 1777  mv ekspof.c LD1_LW1/
+ 1778  ls -lt
+ 1779  nano LD1_LW1/
+ 1780  cd LD1_LW1/
+ 1781  nano ekspof.c 
+ 1782  gcc -Wall -lm ekspof.c 
+ 1783  gcc -lm ekspof.c 
+ 1784  nano ekspof.c 
+ 1785  gcc -lm ekspof.c 
+ 1786  nano ekspof.c 
+ 1787  gcc ekspof.c -lm
+ 1788  ./a.out 
+ 1789  nano ekspof.c 
+ 1790  gcc ekspof.c -lm
+ 1791  ./a.out 
+ 1792  nano ekspof.c 
+ 1793  cd ..
+ 1794  cd Class_19
+ 1795  ls -lt
  1796  cd ..
- 1797  ls lt
- 1798  ls -lt
- 1799  cd Laboratorywork/
- 1800  ls -lt
- 1801  mv a.out LD1_LW1/
- 1802  ls -lt
- 1803  mv ekspof.c LD1_LW1/
- 1804  ls -lt
- 1805  nano LD1_LW1/
- 1806  cd LD1_LW1/
- 1807  nano ekspof.c 
- 1808  gcc -Wall -lm ekspof.c 
- 1809  gcc -lm ekspof.c 
- 1810  nano ekspof.c 
- 1811  gcc -lm ekspof.c 
- 1812  nano ekspof.c 
- 1813  gcc ekspof.c -lm
- 1814  ./a.out 
- 1815  nano ekspof.c 
- 1816  gcc ekspof.c -lm
- 1817  ./a.out 
- 1818  nano ekspof.c 
- 1819  cd ..
- 1820  cd Class_19
- 1821  ls -lt
+ 1797  cd Laboratorywork/
+ 1798  mkdir LD2_LW2/
+ 1799  cd LD2_LW2/
+ 1800  nano dih.c
+ 1801  gcc dih.c -lm
+ 1802  nano dih.c
+ 1803  gcc dih.c -lm
+ 1804  ./a.out 
+ 1805  nano dih.c 
+ 1806  ./a.out 
+ 1807  nano dih.c 
+ 1808  gcc dih.c -lm
+ 1809  ./a.out 
+ 1810  nano dih.c 
+ 1811  gcc dih.c -lm
+ 1812  nano dih.c 
+ 1813  gcc dih.c -lm
+ 1814  nano dih.c 
+ 1815  gcc dih.c -lm
+ 1816  ./a.out 
+ 1817  nano dih.c 
+ 1818  gcc dih.c -lm
+ 1819  ./a.out 
+ 1820  cd ..
+ 1821  cd..
  1822  cd ..
- 1823  cd Laboratorywork/
- 1824  mkdir LD2_LW2/
- 1825  cd LD2_LW2/
- 1826  nano dih.c
- 1827  gcc dih.c -lm
- 1828  nano dih.c
- 1829  gcc dih.c -lm
- 1830  ./a.out 
- 1831  nano dih.c 
- 1832  ./a.out 
- 1833  nano dih.c 
- 1834  gcc dih.c -lm
- 1835  ./a.out 
- 1836  nano dih.c 
- 1837  gcc dih.c -lm
- 1838  nano dih.c 
- 1839  gcc dih.c -lm
- 1840  nano dih.c 
- 1841  gcc dih.c -lm
- 1842  ./a.out 
- 1843  nano dih.c 
- 1844  gcc dih.c -lm
- 1845  ./a.out 
- 1846  cd ..
- 1847  cd..
- 1848  cd ..
- 1849  history > historycomm.txt 
- 1850  ./git-upload 19
- 1851  init 0
- 1852  cd RTR105/Laboratorywork/LD2_LW2/
- 1853  ./a.out 
- 1854  nano dih.c 
- 1855  nano diho.c
- 1856  gcc diho.c -lm
- 1857  nano diho.c
- 1858  gcc diho.c -lm
- 1859  nano diho.c
- 1860  gcc diho.c -lm
- 1861  nano diho.c
- 1862  gcc diho.c -lm
- 1863  ./a.out 
- 1864  cd ..
- 1865  history > historycomm.txt 
- 1866  ./git-upload 20
- 1867  init 0
- 1868  opera
- 1869  mkdir Lab_prac
- 1870  cd Lab_prac/
- 1871  nano modinatajs.c
- 1872  init 0
- 1873  sh -X -C p221REC035@213.175.92.15 -p 30022
- 1874  ssh -X -C p221REC035@213.175.92.15 -p 30022
- 1875  cd RTR105/
- 1876  ls -lt
- 1877  cd Laboratorywork/
- 1878  ls -lt
- 1879  cd LD1_LW1/
- 1880  ls -lt
- 1881  ./a.out 
- 1882  nano ekspof.c 
- 1883  gcc ekspof.c -lm
- 1884  ./a.out 
- 1885  nano ekspof.c 
- 1886  gcc ekspof.c -lm
- 1887  ./a.out 
- 1888  nano ekspof.c 
- 1889  gcc ekspof.c -lm
- 1890  ./a.out 
- 1891  nano ekspof.c 
- 1892  gcc ekspof.c -lm
- 1893  ./a.out 
- 1894  nano ekspof.c 
- 1895  gcc ekspof.c -lm
- 1896  ./a.out 
+ 1823  history > historycomm.txt 
+ 1824  ./git-upload 19
+ 1825  init 0
+ 1826  cd RTR105/Laboratorywork/LD2_LW2/
+ 1827  ./a.out 
+ 1828  nano dih.c 
+ 1829  nano diho.c
+ 1830  gcc diho.c -lm
+ 1831  nano diho.c
+ 1832  gcc diho.c -lm
+ 1833  nano diho.c
+ 1834  gcc diho.c -lm
+ 1835  nano diho.c
+ 1836  gcc diho.c -lm
+ 1837  ./a.out 
+ 1838  cd ..
+ 1839  history > historycomm.txt 
+ 1840  ./git-upload 20
+ 1841  init 0
+ 1842  opera
+ 1843  mkdir Lab_prac
+ 1844  cd Lab_prac/
+ 1845  nano modinatajs.c
+ 1846  init 0
+ 1847  sh -X -C p221REC035@213.175.92.15 -p 30022
+ 1848  ssh -X -C p221REC035@213.175.92.15 -p 30022
+ 1849  cd RTR105/
+ 1850  ls -lt
+ 1851  cd Laboratorywork/
+ 1852  ls -lt
+ 1853  cd LD1_LW1/
+ 1854  ls -lt
+ 1855  ./a.out 
+ 1856  nano ekspof.c 
+ 1857  gcc ekspof.c -lm
+ 1858  ./a.out 
+ 1859  nano ekspof.c 
+ 1860  gcc ekspof.c -lm
+ 1861  ./a.out 
+ 1862  nano ekspof.c 
+ 1863  gcc ekspof.c -lm
+ 1864  ./a.out 
+ 1865  nano ekspof.c 
+ 1866  gcc ekspof.c -lm
+ 1867  ./a.out 
+ 1868  nano ekspof.c 
+ 1869  gcc ekspof.c -lm
+ 1870  ./a.out 
+ 1871  gcc ekspof.c -lm
+ 1872  nano ekspof.c 
+ 1873  gcc ekspof.c -lm
+ 1874  ./a.out 
+ 1875  nano ekspof.c 
+ 1876  gcc ekspof.c -lm
+ 1877  ./a.out 
+ 1878  nano ekspof.c 
+ 1879  gcc ekspof.c -lm
+ 1880  ./a.out 
+ 1881  nano ekspof.c 
+ 1882  gcc ekspof.c -lm
+ 1883  ./a.out 
+ 1884  nano ekspof.c 
+ 1885  gcc ekspof.c -lm
+ 1886  ./a.out 
+ 1887  nano ekspof.c 
+ 1888  gcc ekspof.c -lm
+ 1889  ./a.out 
+ 1890  nano ekspof.c 
+ 1891  gcc ekspof.c -lm
+ 1892  ./a.out 
+ 1893  nano ekspof.c 
+ 1894  gcc ekspof.c -lm
+ 1895  ./a.out 
+ 1896  nano ekspof.c 
  1897  gcc ekspof.c -lm
- 1898  nano ekspof.c 
- 1899  gcc ekspof.c -lm
- 1900  ./a.out 
- 1901  nano ekspof.c 
- 1902  gcc ekspof.c -lm
- 1903  ./a.out 
- 1904  nano ekspof.c 
- 1905  gcc ekspof.c -lm
- 1906  ./a.out 
- 1907  nano ekspof.c 
- 1908  gcc ekspof.c -lm
- 1909  ./a.out 
+ 1898  ./a.out 
+ 1899  nano ekspof.c 
+ 1900  gcc ekspof.c -lm
+ 1901  ./a.out 
+ 1902  nano ekspof.c 
+ 1903  cd ..
+ 1904  ls -lt
+ 1905  cd Class_18
+ 1906  ls -lt
+ 1907  ./a.out 
+ 1908  cd ..
+ 1909  cd Laboratorywork/LD1_LW1/
  1910  nano ekspof.c 
  1911  gcc ekspof.c -lm
  1912  ./a.out 
- 1913  nano ekspof.c 
- 1914  gcc ekspof.c -lm
+ 1913  nano
+ 1914  nano ekspof.c 
  1915  ./a.out 
- 1916  nano ekspof.c 
- 1917  gcc ekspof.c -lm
- 1918  ./a.out 
- 1919  nano ekspof.c 
- 1920  gcc ekspof.c -lm
- 1921  ./a.out 
- 1922  nano ekspof.c 
- 1923  gcc ekspof.c -lm
+ 1916  gcc ekspof.c -lm
+ 1917  ./a.out 
+ 1918  nano ekspof.c 
+ 1919  cd ..
+ 1920  cd Class_18
+ 1921  ls -lt
+ 1922  gcc pirmtay.c -lm
+ 1923  ./a
  1924  ./a.out 
- 1925  nano ekspof.c 
- 1926  gcc ekspof.c -lm
- 1927  ./a.out 
- 1928  nano ekspof.c 
- 1929  cd ..
- 1930  ls -lt
- 1931  cd Class_18
- 1932  ls -lt
+ 1925  cd ..
+ 1926  cd Laboratorywork/LD1_LW1/
+ 1927  nano ekspof.c 
+ 1928  gcc pirmtay.c -lm
+ 1929  gcc ekspof.c -lm
+ 1930  ./a.out 
+ 1931  nano ekspof.c 
+ 1932  gcc ekspof.c -lm
  1933  ./a.out 
- 1934  cd ..
- 1935  cd Laboratorywork/LD1_LW1/
- 1936  nano ekspof.c 
- 1937  gcc ekspof.c -lm
- 1938  ./a.out 
- 1939  nano
+ 1934  nano ekspof.c 
+ 1935  gcc ekspof.c -lm
+ 1936  ./a.out 
+ 1937  nano ekspof.c 
+ 1938  gcc ekspof.c -lm
+ 1939  ./a.out 
  1940  nano ekspof.c 
- 1941  ./a.out 
- 1942  gcc ekspof.c -lm
- 1943  ./a.out 
- 1944  nano ekspof.c 
- 1945  cd ..
- 1946  cd Class_18
- 1947  ls -lt
- 1948  gcc pirmtay.c -lm
- 1949  ./a
- 1950  ./a.out 
- 1951  cd ..
- 1952  cd Laboratorywork/LD1_LW1/
- 1953  nano ekspof.c 
- 1954  gcc pirmtay.c -lm
- 1955  gcc ekspof.c -lm
- 1956  ./a.out 
+ 1941  gcc ekspof.c -lm
+ 1942  ./a.out 
+ 1943  nano ekspof.c 
+ 1944  gcc ekspof.c -lm
+ 1945  ./a.out 
+ 1946  nano ekspof.c 
+ 1947  gcc ekspof.c -lm
+ 1948  ./a.out 
+ 1949  nano ekspof.c 
+ 1950  gcc ekspof.c -lm
+ 1951  ./a.out 
+ 1952  nano ekspof.c 
+ 1953  gcc ekspof.c -lm
+ 1954  ./a.out 
+ 1955  nano ekspof.c 
+ 1956  gcc ekspof.c -lm
  1957  nano ekspof.c 
  1958  gcc ekspof.c -lm
  1959  ./a.out 
- 1960  nano ekspof.c 
- 1961  gcc ekspof.c -lm
- 1962  ./a.out 
- 1963  nano ekspof.c 
- 1964  gcc ekspof.c -lm
- 1965  ./a.out 
- 1966  nano ekspof.c 
- 1967  gcc ekspof.c -lm
- 1968  ./a.out 
+ 1960  gcc ekspof.c -lm
+ 1961  nano ekspof.c 
+ 1962  gcc ekspof.c -lm
+ 1963  ./a.out 
+ 1964  nano ekspof.c 
+ 1965  gcc ekspof.c -lm
+ 1966  ./a.out 
+ 1967  nano ekspof.c 
+ 1968  gcc ekspof.c -lm -Wall
  1969  nano ekspof.c 
- 1970  gcc ekspof.c -lm
- 1971  ./a.out 
- 1972  nano ekspof.c 
- 1973  gcc ekspof.c -lm
- 1974  ./a.out 
- 1975  nano ekspof.c 
- 1976  gcc ekspof.c -lm
- 1977  ./a.out 
- 1978  nano ekspof.c 
- 1979  gcc ekspof.c -lm
- 1980  ./a.out 
- 1981  nano ekspof.c 
- 1982  gcc ekspof.c -lm
- 1983  nano ekspof.c 
- 1984  gcc ekspof.c -lm
- 1985  ./a.out 
- 1986  gcc ekspof.c -lm
- 1987  nano ekspof.c 
- 1988  gcc ekspof.c -lm
- 1989  ./a.out 
- 1990  nano ekspof.c 
- 1991  gcc ekspof.c -lm
- 1992  ./a.out 
- 1993  nano ekspof.c 
- 1994  gcc ekspof.c -lm -Wall
- 1995  nano ekspof.c 
- 1996  ./a.out 
- 1997  gnuplot  -persist
- 1998  gnuplot
- 1999  cd ..cd ..cdcd
- 2000  cd
- 2001  cd RTR105/Laboratorywork/LD2_LW2/
- 2002  ls -lt
- 2003  nano dih
- 2004  nano dih.c
- 2005  nano diho.c
- 2006  gcc diho.c -lm
- 2007  ./a.out 
- 2008  nano diho.c
- 2009  gcc diho.c -lm
- 2010  nano diho.c
- 2011  gcc diho.c -lm
+ 1970  ./a.out 
+ 1971  gnuplot  -persist
+ 1972  gnuplot
+ 1973  cd ..cd ..cdcd
+ 1974  cd
+ 1975  cd RTR105/Laboratorywork/LD2_LW2/
+ 1976  ls -lt
+ 1977  nano dih
+ 1978  nano dih.c
+ 1979  nano diho.c
+ 1980  gcc diho.c -lm
+ 1981  ./a.out 
+ 1982  nano diho.c
+ 1983  gcc diho.c -lm
+ 1984  nano diho.c
+ 1985  gcc diho.c -lm
+ 1986  ./a.out 
+ 1987  cd ..
+ 1988  ./git-upload home
+ 1989  git push
+ 1990  ./git-upload home
+ 1991  history > historycomm.txt 
+ 1992  ./git-upload 
+ 1993  cat git-upload 
+ 1994  ./git-upload 
+ 1995  init 0
+ 1996  cd RTR105/
+ 1997  ./git-upload home
+ 1998  git pus
+ 1999  git push
+ 2000  init 0
+ 2001  cd RTR105/
+ 2002  ./git-upload 
+ 2003  cd Laboratorywork/LD1_LW1/
+ 2004  ./a.out 5
+ 2005  cd ..
+ 2006  ls -lt
+ 2007  mkdir LD3_LW3
+ 2008  mkdir LD4_LW4
+ 2009  cd LD4_LW4/
+ 2010  nano integral.c
+ 2011  gcc integral.c -lm
  2012  ./a.out 
- 2013  cd ..
- 2014  ./git-upload home
- 2015  git push
- 2016  ./git-upload home
- 2017  history > historycomm.txt 
+ 2013  nano integral.c
+ 2014  gcc integral.c -lm
+ 2015  ./a.out 
+ 2016  nano integral.c
+ 2017  gcc integral.c -lm
+ 2018  ./a.out 
+ 2019  nano integral.c
+ 2020  gcc integral.c -lm
+ 2021  ./a.out 
+ 2022  nano integral.c
+ 2023  gcc integral.c -lm
+ 2024  ./a.out 
+ 2025  cd ..
+ 2026  cd LD1_LW1/
+ 2027  gnuplot
+ 2028  ls -lt
+ 2029  nano ekspof.c 
+ 2030  gcc ekspof.c -lm
+ 2031  nano ekspof.c 
+ 2032  gcc ekspof.c -lm
+ 2033  nano ekspof.c 
+ 2034  gcc ekspof.c -lm
+ 2035  nano ekspof.c 
+ 2036  gcc ekspof.c -lm
+ 2037  ./a.out 
+ 2038  nano ekspof.c 
+ 2039  gcc ekspof.c -lm
+ 2040  gcc ekspof.c -lm -Wall
+ 2041  nano ekspof.c 
+ 2042  gcc ekspof.c -lm -Wall
+ 2043  nano ekspof.c 
+ 2044  gcc ekspof.c -lm -Wall
+ 2045  ./a.out 
+ 2046  nano ekspof.c 
+ 2047  gcc ekspof.c -lm -Wall
+ 2048  ./a.out 
+ 2049  nano ekspof.c 
+ 2050  gcc ekspof.c -lm -Wall
+ 2051  nano ekspof.c 
+ 2052  gcc ekspof.c -lm -Wall
+ 2053  nano ekspof.c 
+ 2054  gcc ekspof.c -lm -Wall
+ 2055  ./a.out 
+ 2056  nano ekspof.c 
+ 2057  nano eskpograph.gp
+ 2058  mv eskpograph.gp ekspograph.gp
+ 2059  gnuplot
+ 2060  nano ekspograph.gp 
+ 2061  gnuplot
+ 2062  nano ekspograph.gp 
+ 2063  gnuplot
+ 2064  nano ekspograph.gp 
+ 2065  gnuplot
+ 2066  nano ekspograph.gp 
+ 2067  gnuplot
+ 2068  nano ekspograph.gp 
+ 2069  gnuplot
+ 2070  nano ekspograph.gp 
+ 2071  gnuplot
+ 2072  nano ekspograph.gp 
+ 2073  gnuplot
+ 2074  cd ..
+ 2075  ./git-upload 20
+ 2076  history > historycomm.txt 
