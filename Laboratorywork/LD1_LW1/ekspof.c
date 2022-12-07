@@ -3,8 +3,8 @@
 
  int main(){
 
- long double a = 1.L;
- double x, y, S;
+ long double a = 1.L, b = 1.L;
+ double x, y, S, S2;
  int k = 0;
 
  printf("Eksponentfunkcijas aprēķināšana!\n");
@@ -16,6 +16,8 @@
 
  a = pow(x, k)/(1.);
  S = a;
+ b = pow(x, k)/(1.);
+ S2 = b;
  printf("a0 = %Le  S0 = %lf\n", a, S);
 
 
@@ -25,7 +27,15 @@
     S = S + a;
    }
 
- printf("a499 = %Le  S499 = %Le\n", a-a, S-a);
+ k = 0;
+ while(k<500){
+    k++;
+    b = b * x / k;
+    S2 = S2 + b;
+   }
+
+
+ printf("a499 = %Le  S499 = %lf\n", b, S2);
  printf("a500 = %Le  S500 = %lf\n", a, S);
  printf("exp(%lf) caur summu = %lf \n\n", x, S);
 

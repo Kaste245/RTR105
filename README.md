@@ -11,6 +11,7 @@ Satura rāditājs
 - [C valoda Mainīgie](https://github.com/Kaste245/RTR105#c-valoda-mainīgie)
 - [Debug](https://github.com/Kaste245/RTR105#debug)
 - [Taylor](https://github.com/Kaste245/RTR105#taylor)
+- [Gnuplot](https://github.com/Kaste245/RTR105#gnuplot)
 ## Github  
 [ text ](link)  
 Bilde ![ text ](links)
@@ -109,7 +110,7 @@ d - dzēst break pointus
 # Taylor
 gcc name -lm  
 
-# GNU plot
+# GNUplot
 
 gnuplot  
 plot intervāls izteiksme - ievadit grafiku  
@@ -119,4 +120,4 @@ pakāpē celt **
 set grid replot  
 file.gp  
 load "exaple.gp"  
-
+gnuscript.gp  
