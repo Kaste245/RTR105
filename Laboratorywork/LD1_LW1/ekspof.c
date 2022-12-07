@@ -16,8 +16,10 @@
 
  a = pow(x, k)/(1.);
  S = a;
+
  b = pow(x, k)/(1.);
  S2 = b;
+
  printf("a0 = %Le  S0 = %lf\n", a, S);
 
 
@@ -27,8 +29,8 @@
     S = S + a;
    }
 
- k = 0;
- while(k<500){
+   k = 0;
+   while(k<500){
     k++;
     b = b * x / k;
     S2 = S2 + b;
