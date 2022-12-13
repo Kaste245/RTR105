@@ -12,7 +12,18 @@
       exit(1);
     }
 
- float a=0., b =2*M_PI, x, delta_x=1.e-2, c = 0, d = 0;
+ float a, b, x, delta_x, c = 0, d = 0;
+
+ printf("Ievadi vērtību a \n");
+ scanf("%f", &a);
+
+ printf("Ievadi vērtību b \n");
+ scanf("%f", &b);
+
+ printf("Ievadi precizitāti delta_x \n");
+ scanf("%f", &delta_x);
+
+
 
  fprintf(fptr, "\tx\texp(x)\t\texp\'(x)\t\texp\'(x)\t\texp''(x)\texp''(x)\n\n");
  fprintf(fptr, "\t\t\t\tanal. forma\tdife. forma\tanal. forma\tdife. forma\n\n");
@@ -27,14 +38,15 @@
 
     x += delta_x;
 
-    }
-
   fprintf(fptr, " %10.2f", x);
   fprintf(fptr, " %10.2f", exp(x));
-  fprintf(fptr, "\t   %10.2f", x);
+  fprintf(fptr, "\t   %10.2f", exp(x));
   fprintf(fptr, "\t     %10.2f", c);
-  fprintf(fptr, "\t    %10.2f", x);
+  fprintf(fptr, "\t    %10.2f", exp(x));
   fprintf(fptr, "\t     %10.2f\n", d);
+
+    }
+
 
   fclose(fptr);
 

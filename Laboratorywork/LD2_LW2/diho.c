@@ -21,7 +21,7 @@
 
   funkca = exp(a); funkcb = exp(b);
 
-    if(funkca * funkcb > 0){
+    if(funkca * funkcb > 1){
 
       printf("Intervals [%.2f : %.2f] exp(x) ", a, b);
       printf("Sakņu nav (Paru saknes)\n");
