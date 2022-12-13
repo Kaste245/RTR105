@@ -34,7 +34,7 @@
 
     c = (exp(x + delta_x) - exp(x)) / delta_x;
 
-    d = ((exp(x + delta_x)) - (2 * exp(x)) + (exp(x - delta_x))) / (delta_x * delta_x);
+    d = (exp(x + 2 * delta_x) - 2 * exp(x + delta_x) + exp(x)) / (delta_x * delta_x);
 
     x += delta_x;
 
