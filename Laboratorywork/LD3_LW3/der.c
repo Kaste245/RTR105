@@ -23,8 +23,6 @@
  printf("Ievadi precizitāti delta_x \n");
  scanf("%f", &delta_x);
 
-
-
  fprintf(fptr, "\tx\texp(x)\t\texp\'(x)\t\texp\'(x)\t\texp''(x)\texp''(x)\n\n");
  fprintf(fptr, "\t\t\t\tanal. forma\tdife. forma\tanal. forma\tdife. forma\n\n");
 
@@ -34,7 +32,7 @@
 
     c = (exp(x + delta_x) - exp(x)) / delta_x;
 
-    d = (exp(x + 2 * delta_x) - 2 * exp(x + delta_x) + exp(x)) / (delta_x * delta_x);
+    d = exp(x + 2 * delta_x) - 2 * exp(x + delta_x) + exp(x) / delta_x * delta_x;
 
     x += delta_x;
 
@@ -46,7 +44,6 @@
   fprintf(fptr, "\t     %10.2f\n", d);
 
     }
-
 
   fclose(fptr);
 

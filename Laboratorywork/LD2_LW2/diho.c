@@ -9,19 +9,16 @@
 
   printf("Ievadi vērtību a\n");
   scanf("%e", &a);
+
   printf("Ievadi vērtību b\n");
   scanf("%e", &b);
-
 
   printf("Ievadi precizitāti\n");
   scanf("%e", &delta_x);
 
-
-  b = b*M_PI;
-
   funkca = exp(a); funkcb = exp(b);
 
-    if(funkca * funkcb > 1){
+    if(funkca * funkcb < 0){
 
       printf("Intervals [%.2f : %.2f] exp(x) ", a, b);
       printf("Sakņu nav (Paru saknes)\n");
@@ -40,9 +37,10 @@
     else
     b = x;
 
-    printf("%2d iteracija : exp(%7.3f) = %7.3f \t", k, a, exp(a));
+    printf("%2d iteracija : exp(%7.3f) = %7.3f \t\t", k, a, exp(a));
     printf("exp(%7.3f) = %7.3f \t", x, exp(x));
     printf("exp(%7.3f) = %7.3f \n", b, exp(b));
+
      }
 
   printf("Sakne atrodas pie x = %3f, jo exp(x) = %3f \n", x, exp(x));
