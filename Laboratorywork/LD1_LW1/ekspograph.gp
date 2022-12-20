@@ -1,4 +1,6 @@
 
+set term png
+set output "graph.png"
 
 set key bmargin center horizontal Right noreverse enhanced autotitle box lt black linewidth 1.000 dashtype solid
 set samples 400, 400
@@ -12,6 +14,3 @@ s2(x) = s1(x) + x**2 / 1*2
 s3(x) = s2(x) + x**3 / 1*2*3
 plot [-2:2] exp(x), s0(x), s1(x), s2(x), s3(x)
 
-set term png
-set terminal png size 400,300 enhanced font "Helvetica,20"
-set output 'graph.png'
