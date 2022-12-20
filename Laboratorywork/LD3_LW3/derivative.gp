@@ -1,4 +1,7 @@
 
+set term png
+set output 'graph3.png'
+
 set key bmargin center horizontal Right noreverse enhanced autotitle box lt black linewidth 1.000 dashtype solid
 set samples 400, 400
 set grid

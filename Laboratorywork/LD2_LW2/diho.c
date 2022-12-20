@@ -3,7 +3,7 @@
 
  int main(){
 
-  float a, b, x, delta_x, funkca, funkcb, funkcx;
+  float a, b, x, c, delta_x, funkca, funkcb, funkcx;
   int k = 0;
 
 
@@ -12,6 +12,9 @@
 
   printf("Ievadi vērtību b\n");
   scanf("%e", &b);
+
+  printf("Ievadi vērtību c\n");
+  scanf("%e", &c);
 
   printf("Ievadi precizitāti\n");
   scanf("%e", &delta_x);
@@ -28,7 +31,7 @@
   printf("exp(%7.3f) = %7.3f \t\t\t\t", a, exp(a));
   printf("exp(%7.3f) = %7.3f \n", b, exp(b));
 
-    while( (b - a) > delta_x){
+    while((b - a) > delta_x){
 
     k++;
     x = (a + b) / 2;
@@ -42,6 +45,8 @@
     printf("exp(%7.3f) = %7.3f \n", b, exp(b));
 
      }
+
+  printf("exp(%7.3f) = %7.3f \n", c, exp(c));
 
   printf("Sakne atrodas pie x = %3f, jo exp(x) = %3f \n", x, exp(x));
 
