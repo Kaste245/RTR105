@@ -3,7 +3,7 @@
 
  int main(){
 
-  float a, b, eps = 1.e-3, h, integr1 = 0., integr2;
+  float a, b, eps, h, integr1 = 0., integr2;
   int k, n = 2;
 
   printf("Ievadi vērtibu a \n");
@@ -12,7 +12,9 @@
   printf("Ievadi vērtibu b \n");
   scanf("%f", &b);
 
-  b = b*M_PI/2;
+  printf("Ievadi precizitāti \n");
+  scanf("%f", &eps);
+
 
   integr2 = (b - a) * (exp(a) + exp(b)) / n;
 
