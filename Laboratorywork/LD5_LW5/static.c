@@ -2,7 +2,7 @@
 
  int main(){
 
-  char array[100], swap, d, n, c, i, min, max;
+  char array[100], swap, d, n, c, i, min, max, total, j, l;
 
   printf("Ievadi kādu daudzumu vēlies sakārtot\n");
   scanf("%hhd", &n);
@@ -24,6 +24,15 @@
       }
     }
   }
+   //Vidēja vērtība
+
+   total = 0;
+
+   for(l = 0; l < n; l++) {
+      total += array[l];
+   }
+
+  printf("Videjā vērtība = %d \n", total/n);
 
   printf("Sakārtot augošā secībā:\n");
 
@@ -33,13 +42,13 @@
     min=max=array[0];
     for(i=1; i<n; i++)
     {
-         if(min>array[i])
-		  min=array[i];   
-		   if(max<array[i])
-		    max=array[i];       
+         if(min > array[i])
+	  min = array[i];
+         if(max < array[i])
+          max = array[i];
     }
-     printf("Minimālā vērtība ir %d\n",min);
-     printf("Maksimālā vērtība ir %d\n",max);
+     printf("Minimālā vērtība ir %d\n", min);
+     printf("Maksimālā vērtība ir %d\n", max);
 
   return 0;
  }
