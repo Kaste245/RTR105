@@ -8,4 +8,5 @@ set grid
 set title "Integralis" 
 set title  font ",20" textcolor lt -1 norotate
 
-plot [0:20] [0:100] exp(x) with filledcurves  x1 y1 lc rgb "red"
+plot [0:15] [0:100] exp(x) with filledcurves x=5 lc rgb "orange"
+
