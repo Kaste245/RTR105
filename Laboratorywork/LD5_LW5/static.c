@@ -52,8 +52,8 @@
   printf("Sakārtot augošā secībā:\n");
 
   for (c = 0; c < n; c++)
-    // printf("%d \t", array[c]);
-     fprintf(stdout, "%d \t", array[c]);
+    printf("%d \t", array[c]);
+    // fprintf(stdout, "%d \t", array[c]);
 
    //Min, Max
 
