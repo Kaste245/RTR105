@@ -3,68 +3,53 @@
 
  int main(){
 
-  float a, b, eps, h, integr1 = 0., integr2, stepsize, integr3, integr4, x, sum;
-  int k, n = 2, i, l, j, o;
+  float a, b, eps, rect, trap , simp, x, width, fx;
+  int num, i;
 
-  printf("Ievadi vērtibu a \n");
+  printf("Ievadi vērtību a\n");
   scanf("%f", &a);
-
-  printf("Ievadi vērtibu b \n");
+  printf("Ievadi vērtību b\n");
   scanf("%f", &b);
-
-  printf("Ievadi precizitāti \n");
+  printf("Ievadi precizitāti\n");
   scanf("%f", &eps);
 
-  //Taisnastūra metode
+  num = (b - a) / eps;
+  width = (b - a) / num;
 
-  integr2 = (b - a) * (exp(a) + exp(b)) / n;
+  //Taisnastūra aprēķins
+  rect = 0;
+   for (i = 0; i < num; i++){
 
-  while(fabs(integr2 - integr1) > eps){
+    x = a + i * width;
+   fx = exp(x);
+   if (fx > 0)
+   rect += fx * width;
+    }
 
-   n *= 2;
-   h = (b - a) / n;
-   integr1 = integr2;
-   integr2 = 0.;
+  printf("Taisnastūra likuma vērtība %f\n", rect);
 
-   for(k = 0; k < n; k++)
-   integr2 += h * exp(a + (k + 0.5) * h);
+  //Trapeces aprēķins
+  trap = 0;
+   for (i = 0; i < num; i++){
+
+    x = a + i * width;
+    fx = exp(x);
+    trap += (fx + exp(x + width)) * width / 2;
+    }
+
+  printf("Trapeces likuma vērtība %f\n", trap);
+
+  //Simpsona aprēķins
+  simp = 0;
+   for (i = 0; i < num; i++){
+
+    x = a + i * width;
+    fx = exp(x);
+    simp += (fx + 4 * exp(x + width / 2) + exp(x + width)) * width / 6;
+   }
+
+  printf("Simposna likuma vērtība %f\n", simp);
+
+  return 0;
   }
 
-  printf("Integrālja vērtība(taisnastūra metodes): %.2f \n", integr2);
-
-  //Trapeču metode
-
-  stepsize = (a - b)/eps;
-
-  integr3 = exp(a) + exp(b);
-
-  for(i=1; i <= eps - 1; i++)
-  {
-   l = a + i * stepsize;
-   integr3 = integr3 + 2 * exp(l);
-  }
-
-  integr3 = integr3 * stepsize / 2;
-
-  printf("Integrāļa vērtība(trapeču metodes): %.2f \n", integr3);
-
-  //Simpsona metode
-
-  o = fabs(b-a) / eps;
-
-  for(j = 1; j < eps; j++){
-
-    x = a + i * h;
-
-    if(j%2 == 0)
-      sum = sum + 2 * exp(x);
-    else
-      sum = sum + 4 * exp(x);
-  }
-
-  integr4 =(o/3) * (exp(a) + exp(b) + sum);
-
-  printf("Integrāļa vērtība(simpsona metode): %.2f\n", integr4);
-
- return 0;
- }
