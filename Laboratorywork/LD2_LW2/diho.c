@@ -1,10 +1,9 @@
-
 #include<stdio.h>
 #include<math.h>
 
  int main(){
 
-  float a, b, x, c, delta_x, funkca, funkcb;
+  float a, b, x, c, delta_x, funkca, funkcb, A = 1;
   int k = 0;
 
   printf("Ievadi vērtību a\n");
@@ -19,8 +18,8 @@
   printf("Ievadi precizitāti\n");
   scanf("%f", &delta_x);
 
-  funkca = exp(a);
-  funkcb = exp(b);
+  funkca = exp(a) - A;
+  funkcb = exp(b) - A;
 
     if(funkca * funkcb > 0){
 
