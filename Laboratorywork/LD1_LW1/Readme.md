@@ -1,8 +1,9 @@
 # Tailora Rindas
 
 Satura rādītājs  
--
--
+- [Apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD1_LW1#apraksts)
+- [Algoritma apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD1_LW1#algoritma-apraksts)
+- [Izmantotā literatūra](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD1_LW1#izmantotā-literatūra)
 
 
 ## Apraksts
@@ -19,3 +20,10 @@ Algoritms ir rakstīts uz funkcijas exp(x). Tas strādā tā, ka tas skaita skai
 Šis rezultāts tiek salīdzināts ar uzreiz izreiķinātu gala rezultātū C valodā kuri sakrīt.  
 Šeit tiek attēlota ko programma izvada kad tiek ievadīta vērtība 5 un 5 funkciju polinomu grafiki kuri krustojas noteiktā laikā, un kā tās tūvakie polinomi attālinās.  
 ![Programma](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD1_LW1/Streistermanis_Prog.png?raw=true)
+![Grafiks](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD1_LW1/graph.png?raw=true)
+
+## Izmantotā literatūra
+
+- https://lv.wikipedia.org/wiki/Teilora_rinda 
+ 
+
