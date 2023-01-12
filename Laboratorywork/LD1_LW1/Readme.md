@@ -1,6 +1,6 @@
 # Tailora Rindas
 
-Satura rādītājs  
+### Satura rādītājs  
 - [Apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD1_LW1#apraksts)
 - [Algoritma apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD1_LW1#algoritma-apraksts)
 - [Izmantotā literatūra](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD1_LW1#izmantotā-literatūra)
