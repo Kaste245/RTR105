@@ -1,9 +1,9 @@
 # Skaitliskā diferencēšana
 
 ### Satura rādītājs
--
--
--
+- [Apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD3_LW3#apraksts)
+- [Algoritma apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD3_LW3#algoritma-apraksts)
+- [Izmantotā literatūra](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD3_LW3#izmantotā-literatūra)
 
 ## Apraksts
 Skaitliskās diferenciācijas algoritmi novērtē matemātiskās funkcijas vai funkcijas apakšprogrammas atvasinājumu, izmantojot funkcijas vērtības un, iespējams, citas zināšanas par funkciju.  
