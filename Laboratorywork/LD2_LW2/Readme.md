@@ -19,8 +19,8 @@ Mīnussi:
 ## Algoritma apraksts
 
 Algoritms tika veidots uz exp(x) funkcijas. Tas sākuma veido dialogu ar lietotāju, kur lietotājs sniedz intervālu, precizitāti, vērtību kuru vēlas aprēķināt pēc dihotomijas metodes. Šis algortms izpilda dihotomijas metodi un tad salīdzina vērtības vai tās ir vienādas.  
-Tas strādā tikai tad, kad nav pārū saknes un grafiks ir krustojis x asi, tādēļ man arī nācās pārvietot grafiku mazliet zemāk, lai tas iegūtu patiesas vērtības  
-Tālāk būs parādīt ko izvada programma un kāds grafiks sanāk.  
+Tas strādā tikai tad, kad nav pāru saknes un grafiks ir krustojis x asi, tādēļ man arī nācās pārvietot grafiku mazliet zemāk, lai tas iegūtu patiesas vērtības.  
+Tālāk būs parādīt ko izvada programma un kāds grafiks iznāk.  
   
 ![Programma](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD2_LW2/Streistermanis_diho.png?raw=true)  
 ![Grafiks](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD2_LW2/graph2.png?raw=true)  

@@ -20,6 +20,7 @@ Mīnuss:
 Algoritms ir rakstīts uz funkcijas exp(x). Tas strādā tā, ka tas skaita skaitliskās metodes pēc noteiktas formulas un mūsu gadījuma tās skaita 500 reizes, un katra tā nākamo summu pieskaita līdz iegūst rezultātu.  
 Šis rezultāts tiek salīdzināts ar uzreiz izreiķinātu gala rezultātū C valodā, kuri sakrīt.  
 Šeit tiek attēlots, ko programma izvada, kad tiek ievadīta vērtība 5 un 5 funkciju polinomu grafiki, kuri krustojas noteiktā laikā, un kā tās tuvākie polinomi attālinās.  
+  
 ![Programma](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD1_LW1/Streistermanis_Prog.png?raw=true)
 ![Grafiks](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD1_LW1/graph.png?raw=true)
 
