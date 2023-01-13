@@ -2,9 +2,9 @@
 
 ### Satura rādītājs
 
--
--
--
+- [Apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD4_LW4#apraksts)
+- [Algoritma apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD4_LW4#algoritma-apraksts)
+- [Izmantotā literatūra](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD4_LW4#izmantotā-literatūra)
 
 ## Apraksts
 
@@ -22,7 +22,7 @@ Algoritms tika rēķināts pēc funkcijas exp(x). Tajā tiek iegūts intervāls,
 Šeit tiek parādīta ko programma izvada un no WolfromAlpha Pierādījums, ka ši vērtīb ir patiesa  
   
 ![Programma](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD4_LW4/Streismanis_inte.png)
-![Grafiks]()
+![Grafiks](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD4_LW4/WolfromAlpha_Str.png?raw=true)
 
 ## Izmantotā literatūra
 
