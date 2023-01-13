@@ -6,10 +6,10 @@
   float a, b, x, c, delta_x, funkca, funkcb, A = 1;
   int k = 0;
 
-  printf("Ievadi vērtību a\n");
+  printf("Ievadi intervāla sākuma vērtību a\n");
   scanf("%f", &a);
 
-  printf("Ievadi vērtību b\n");
+  printf("Ievadi intervālā beigu vērtību b\n");
   scanf("%f", &b);
 
   printf("Ievadi vērtību c\n");
