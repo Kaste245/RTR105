@@ -1,41 +1,25 @@
-#include <stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
+#include<string.h>
 
  int main(){
 
- FILE *fule = fopen("statistic.txt", "w");
 
-  if(fule = NULL){
-
-  printf("ERROR!");
-  exit(1);
-  }
-
-  char array[127], swap, d, n, c, i, min, max;
+  char array[127], swap, d, n, c, i, min, max, lenght;
   int total, l, maxvalue = 0, maxcount = 0, j, count, m, len = 0;
   float median;
 
-  printf("Ievadi kādu daudzumu vēlies sakārtot\n");
-  scanf("%hhd", &n);
+ // printf("Ievadi kādu daudzumu vēlies sakārtot\n");
+ // scanf("%hhd", &n);
 
-  printf("Ievadi %d simbolus \n", n);
+  printf("Ievadi  simbolus \n");
 
-  for (c = 0; c < n; c++){
-  scanf("%c", &array[c]);
- //  fgets(array, 5, stdin);
+ // for (c = 0; c < n; c++){
+   scanf("%[^\n]s", array);
+// }
+   lenght = strlen(array);
 
- }
-/*   len = sizeof(array)/sizeof(array[0]);
-
-   for(i = 0; i < len; i++){
-        if(array[i] == 0x0a){
-          for(j = i;j < len; j++){
-            array[j] = array[j+1];
-              }
-            len--;
-          }
-      }
-*/
+//    qsort(array, lenght, sizeof(char), compare);
    //Augoša secība
 
   for (c = 0 ; c < n - 1; c++){
@@ -53,12 +37,21 @@
 
   printf("Sakārtot augošā secībā:\n");
 
+
+/* FILE *fule = fopen("statistic.dat", "w");
+
+  if(fule = NULL){
+
+  printf("ERROR!");
+  exit(1);
+  }*/
+
   for (c = 0; c < n; c++){
-//    fwrite(array, sizeof(char), sizeof(array),fule);
-    fprintf(stdout, "%d \t", array[c]);
-//     printf("%d \t", array[c]);
+
+  //  fprintf(stdin, "%d \t", array[c]);
+     printf("%d \t", array[c]);
   }
- fclose(fule);
+// fclose(fule);
    //Min, Max
 
     min = max = array[0];
