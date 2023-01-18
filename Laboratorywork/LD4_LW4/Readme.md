@@ -18,8 +18,17 @@ Mīnussi:
 
 ## Algoritma apraksts
 
-Algoritms tika rēķināts pēc funkcijas exp(x). Tajā tiek iegūts intervāls, kur tiks izmantotas skaitlisko metodu likumu, lai aprēķinātu integrāli. Tas strādā tāka, ka algoritms automātīski starp grafiku un X asi zīme noteiktās likuma figūru vai dara ko citu un tad notiek šo daudzstūru kopējo laukumu aprēķināšana  
-Šeit tiek parādīta ko programma izvada un no WolfromAlpha Pierādījums, ka ši vērtīb ir patiesa  
+Šis algoritms aprēķina funkcijas f(x) = exp(x) noteikto integrāli, izmantojot trīs dažādas skaitliskās integrācijas metodes: taisnstūra likumu, trapecveida likumu un Simpsona likumu. Funkcijas noteiktais integrālis ir laukuma mērs starp funkcijas līkni un x asi noteiktā intervālā. Algoritms sākas, liekot lietotājam ievadīt integrāļa apakšējo un augšējo robežu "a un b", kā arī vēlamo precizitāti "eps".  
+
+Pēc tam algoritms izmanto precizitāti, lai aprēķinātu intervālu skaitu "num" un katra intervāla platumu "width", kas tiks izmantots aprēķinos. Tālāk algoritms izmanto for cilpu, lai atkārtotu intervālus un aprēķinātu integrāli, izmantojot katru no trim metodēm.  
+
+Taisnstūra noteikums tiek izmantots, lai tuvinātu funkcijas noteikto integrāli, sadalot laukumu zem līknes vienāda platuma taisnstūros. Algoritms aprēķina noteikto integrāli, izmantojot taisnstūra noteikumu, saskaitot katra taisnstūra laukumu, kas tiek aprēķināts kā taisnstūra platuma un funkcijas augstuma reizinājums taisnstūra viduspunktā.  
+
+Trapecveida noteikums ir precīzāka metode, kas tuvina noteikto integrāli, sadalot laukumu zem līknes vienāda platuma trapecēs. Algoritms aprēķina noteikto integrāli, izmantojot trapeces noteikumu, saskaitot katras trapeces laukumu, ko aprēķina kā trapeces platuma un funkcijas vidējā augstuma reizinājumu abos trapeces galapunktos.  
+
+Simpsona noteikums ir precīzāka metode, kas tuvina noteikto integrāli, sadalot laukumu zem līknes paraboliskos segmentos. Algoritms aprēķina noteikto integrāli, izmantojot Simpsona likumu, saskaitot katra paraboliskā segmenta laukumu, ko aprēķina kā segmenta platuma un funkcijas augstuma summas reizinājumu trīs paraboliskā segmenta punktos.  
+  
+Šeit tiek parādīta ko programma izvada un no WolfromAlpha pierādījums, ka ši vērtība ir patiesa  
   
 ![Programma](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD4_LW4/Streismanis_inte.png)
 ![Grafiks](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD4_LW4/WolfromAlpha_Str.png?raw=true)

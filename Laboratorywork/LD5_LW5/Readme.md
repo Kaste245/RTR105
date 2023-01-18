@@ -2,9 +2,9 @@
 
 ### Saturs rādītājs
 
--
--
--
+- [Apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD5_LW5#apraksts)
+- [Algortima apraksts](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD5_LW5#algoritma-apraksts)
+- [Izmantotā iteratūra](https://github.com/Kaste245/RTR105/tree/main/Laboratorywork/LD5_LW5#izmantotā-literatūra)
 
 ## Apraksts
 
@@ -13,7 +13,7 @@ Burbuļu kārtošana, dažreiz saukta par kārtošanu, ir vienkāršs kārtošan
 Mīnussi:  
 
 - Galvenais trūkums ir nepieciešamais laiks. Tas ir ļoti neefektīvs lielām datu kopām
-- Tas arī palēlina datu kārtošanu
+- Tai arī palēlināta datu kārtošanu
 
 ## Algoritma apraksts
 
