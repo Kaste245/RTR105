@@ -1,107 +1,110 @@
 #include<stdio.h>
-#include<stdlib.h>
 #include<string.h>
+#include<stdlib.h>
 
- int main(){
 
+  int compare(const void* a, const void* b){
 
-  char array[127], swap, d, n, c, i, min, max, lenght;
-  int total, l, maxvalue = 0, maxcount = 0, j, count, m, len = 0;
-  float median;
+    return *(char*)a - *(char*)b;
+  }
 
- // printf("Ievadi kādu daudzumu vēlies sakārtot\n");
- // scanf("%hhd", &n);
+  int main(){
 
-  printf("Ievadi  simbolus \n");
+    char array[100], min, max;
+    float median, avg;
+    int len, i, sum = 0, frequency[256] = {0}, count = 1;
 
- // for (c = 0; c < n; c++){
-   scanf("%[^\n]s", array);
-// }
-   lenght = strlen(array);
+    printf("Ievadi simbolu rindu: ");
+    scanf("%[^\n]s", array);
 
-//    qsort(array, lenght, sizeof(char), compare);
-   //Augoša secība
+    len = strlen(array);
 
-  for (c = 0 ; c < n - 1; c++){
+    qsort(array, len, sizeof(char), compare);
 
-    for (d = 0 ; d < n - c - 1; d++){
+     //MIN, MAX
 
-      if (array[d] > array[d+1]){
+     min = array[0];
+     max = array[len - 1];
 
-        swap = array[d];
-        array[d] = array[d+1];
-        array[d+1] = swap;
-      }
+    for (i = 0; i < len; i++){
+
+        sum += array[i];
+        frequency[array[i]]++;
     }
-  }
 
-  printf("Sakārtot augošā secībā:\n");
+     //Videjā vērtība
 
+     avg = (float)sum / len;
 
-/* FILE *fule = fopen("statistic.dat", "w");
+     //Mediana
 
-  if(fule = NULL){
+    if (len % 2 == 0)
+      median = (array[len/2] + array[len/2 - 1])/2.0;
+    else
+      median = array[len/2];
 
-  printf("ERROR!");
-  exit(1);
-  }*/
+     //Moda
 
-  for (c = 0; c < n; c++){
+  int mode[len], maxCount = 0, modeCount = 0;
 
-  //  fprintf(stdin, "%d \t", array[c]);
-     printf("%d \t", array[c]);
-  }
-// fclose(fule);
-   //Min, Max
+    for (i = 0; i < len; i++)
+      mode[i] = -1;
 
-    min = max = array[0];
-    for(i = 1; i < n; i++)
+    for (i = 0; i < len; i++){
+
+        if (array[i] == array[i + 1])
+            count++;
+
+        else{
+
+            if (count > maxCount){
+
+                maxCount = count;
+                modeCount = 0;
+                mode[modeCount] = array[i];
+            }
+            else if (count == maxCount){
+
+                modeCount++;
+                mode[modeCount] = array[i];
+            }
+            count = 1;
+        }
+    }
+
+    FILE *fule = fopen("statistic.txt", "w");
+
+    if (fule == NULL)
     {
-         if((min > array[i]))
-	  min = array[i];
-         if(max < array[i])
-          max = array[i];
+        printf("ERROR");
+        return 0;
     }
-     printf("\nMinimālā vērtība = %d\n", min);
-     printf("Maksimālā vērtība = %d\n", max);
 
-   //Vidēja vērtība
+    printf("Minimālā vērtība: %d\n", min);
+    printf("Maksimālā vērtība: %d\n", max);
+    printf("Videjā vērtība: %.2f\n", avg);
+    printf("Mediānas vērtība: %.2f\n", median);
+    printf("Modu vērtības: ");
 
-   total = 0;
+    for (i = 0; i <= modeCount; i++)
+        printf("%d ", mode[i]);
 
-   for(l = 0; l < n; l++) {
-      total += array[l];
-   }
+    printf("\nSimbolu rinda augošā secībā: %s\n", array);
+    printf("ASCII atbilstošas vērtības: ");
 
-  printf("Videjā vērtība = %d \n", total/n);
+    for (i = 0; i < len; i++)
+      printf("%d ", array[i]);
 
-   //Mediana
+    printf("\n");
 
- if(n%2 == 0)
-  median = (array[(n/2)-1] + array[(n/2)]) / 2.0;
- else
-  median = array[(n/2)];
+    for (i = 0; i < 256; i++){
 
- printf("Mediānas vērtība = %.2f\n", median);
+        if (frequency[i] > 0)
+            fprintf(fule, "%d %d\n", frequency[i], i);
+    }
 
-  //Moda
+    fclose(fule);
 
-   for (m = 0; m < n; m++) {
-           count = 0;
-      for (j = 0; j < n; j++) {
-         if (array[j] == array[m])
-         ++count;
-      }
-
-      if (count > maxcount) {
-         maxcount = count;
-         maxvalue = array[m];
-      }
-   }
-
-  printf("Moda = %d\n", maxvalue);
-
-  return 0;
- }
-
+    return 0;
+}
 
