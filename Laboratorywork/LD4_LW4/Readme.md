@@ -10,11 +10,11 @@
 
 Skaitliskā integrācija ietver plašu algoritmu saimi noteikta integrāļa skaitliskās vērtības aprēķināšanai, un paplašinot šo terminu dažreiz izmanto arī, lai aprakstītu diferenciālvienādojumu skaitlisko risinājumu.  
   
-Mīnussi:  
+Mīnusi:  
 
-- Taisnastūra likumam var atšķirties pecizitātē
-- Trapeces likumam pie otrās kārtas atvasinājumie var būt problemas ar aprēķiniem tādēļ jaizmanto papildus nosacījumi
-- Simpsona likuma pie ceturtās kārtas atvasinājumiem parādīsies problemas ar vērtībām
+- Taisnstūra likumam var atšķirties pecizitāte
+- Trapeces likumam pie otrās kārtas atvasinājumiem var būt problēmas ar aprēķiniem, tādēļ jāizmanto papildus nosacījumi
+- Simpsona likumam pie ceturtās kārtas atvasinājumiem parādīsies problēmas ar vērtībām
 
 ## Algoritma apraksts
 
@@ -28,7 +28,7 @@ Trapecveida noteikums ir precīzāka metode, kas tuvina noteikto integrāli, sad
 
 Simpsona noteikums ir precīzāka metode, kas tuvina noteikto integrāli, sadalot laukumu zem līknes paraboliskos segmentos. Algoritms aprēķina noteikto integrāli, izmantojot Simpsona likumu, saskaitot katra paraboliskā segmenta laukumu, ko aprēķina kā segmenta platuma un funkcijas augstuma summas reizinājumu trīs paraboliskā segmenta punktos.  
   
-Šeit tiek parādīta ko programma izvada un no WolfromAlpha pierādījums, ka ši vērtība ir patiesa  
+Šeit tiek parādīts, ko programma izvada un no WolfromAlpha pierādījums, ka ši vērtība ir patiesa  
   
 ![Programma](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD4_LW4/Streismanis_inte.png)
 ![Grafiks](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD4_LW4/WolfromAlpha_Str.png?raw=true)

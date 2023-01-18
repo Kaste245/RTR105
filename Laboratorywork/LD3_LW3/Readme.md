@@ -8,11 +8,11 @@
 ## Apraksts
 Skaitliskās diferenciācijas algoritmi novērtē matemātiskās funkcijas vai funkcijas apakšprogrammas atvasinājumu, izmantojot funkcijas vērtības un, iespējams, citas zināšanas par funkciju.  
   
-Mīnussi:
+Mīnusi:
   
 - Tie nav tik vienkārši kā analītiskie risinājumi
 - Precīza vērtība var nebūt skaidra
-- Daži kompilātori nespēj precīzi izreiķinat vērtības var izkrist kādi punkti
+- Daži kompilātori nespēj precīzi izrēķinat vērtības, var izkrist kādi punkti
 
 ## Algoritma apraksts
 Šis algoritms tiek izmantots, lai aprēķinātu eksponenciālās funkcijas exp(x) pirmo un otro atvasinājumu noteiktā diapazonā "a un b", izmantojot attiecīgi galīgās starpības un centrālās atšķirības metodes. Tā arī ieraksta rezultātus failā tabulas formātā.  
@@ -25,7 +25,7 @@ Algoritmam ir šādas darbības:
 - Tas palielina x par delta_x katras iterācijas beigās un ieraksta katras iterācijas rezultātus failā "derivative.dat" tabulas formātā.
 - Cikls "while" turpinās, līdz x ir lielāks vai vienāds ar b.
   
-Grafiks kur attēlots visas līknes, bet vērtības ir tik precīzas, ka izskatās, ka viena līkne.  
+Grafiks, kur attēlotas visas līknes, bet vērtības ir tik precīzas, ka izskatās, kā viena līkne.  
   
 ![grafiks](https://github.com/Kaste245/RTR105/blob/main/Laboratorywork/LD3_LW3/graph3.png?raw=true)  
 

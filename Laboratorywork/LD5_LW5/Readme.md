@@ -10,10 +10,10 @@
 
 Burbuļu kārtošana, dažreiz saukta par kārtošanu, ir vienkāršs kārtošanas algoritms, kas atkārto ievades saraksta elementu pēc elementa, salīdzinot pašreizējo elementu ar nākamo elementu, mainot to vērtības pēc vajadzības. Šīs pārvietošanās caur sarakstu tiek atkārtotas, līdz pārvietošanās laikā netiek veikta mijmaiņa, kas nozīmē, ka saraksts ir pilnībā sakārtots. Algoritms, kas ir salīdzināšanas veids, ir nosaukts par veidu, kā lielākie elementi "burbuļo" līdz saraksta augšdaļai.  
 
-Mīnussi:  
+Mīnusi:  
 
 - Galvenais trūkums ir nepieciešamais laiks. Tas ir ļoti neefektīvs lielām datu kopām
-- Tai arī palēlināta datu kārtošanu
+- Tai ir palēnināta datu kārtošanu
 
 ## Algoritma apraksts
 
@@ -25,7 +25,7 @@ Lai atrastu mediānu, tas pārbauda, ​​vai masīva garums ir pāra vai nepā
 
 Lai atrastu režīmu, tas saskaita katras masīva rakstzīmes biežumu, izmantojot veselu skaitļu masīvu, ko sauc par "frequency". Pēc tam tas pāriet cauri masīvam, lai atrastu rakstzīmi(-es) ar augstāko frekvenci, kas ir masīva režīms.  
 
-Visbeidzot, programma ieraksta statistisko aprēķinu rezultātus un sakārtoto virkni failā ar nosaukumu "statictic.txt". Tas arī drukā konsolē minimālo, maksimālo, vidējo, vidējo, režīmu, sakārtoto virkni un virknes rakstzīmju ASCII kodus.  
+Visbeidzot, programma ieraksta statistisko aprēķinu rezultātus un sakārtoto virkni failā ar nosaukumu "statictic.txt". Tas arī drukā konsolē minimālo, maksimālo, vidējo, sakārtoto virkni un virknes rakstzīmju ASCII kodus.  
   
 Programmas izvade un grafiks  
   
